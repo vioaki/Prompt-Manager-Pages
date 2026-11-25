@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0048",
+  "title": "通过钥匙孔看世界",
+  "category": "gallery",
+  "prompt": "looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [very black background] around keyhole, sharp focus, photographic",
+  "description": "使用 Nano Banana Pro 创作暗黑奇幻摄影，通过钥匙孔窥探神秘世界，适合游戏视觉、艺术项目或概念摄影，营造沉浸式奇幻氛围。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1098,
+    "height": 606
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

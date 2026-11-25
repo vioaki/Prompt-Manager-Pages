@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0129",
+  "title": "自定义毛绒钥匙扣",
+  "category": "gallery",
+  "prompt": "Close-up photo of a small plush keychain of [attached image/emojis]  held gently between two fingers, made of soft felt or fuzzy material, cartoon-style proportions, embroidered face with simple expressive features, character designed to resemble, attached to a shiny silver keyring, neutral beige background, shallow depth of field, soft natural lighting, highly detailed texture, cute and handcrafted aesthetic, studio photography, 1:1 aspect ratio",
+  "description": "使用 Nano Banana Pro 模型，轻松打造可爱卡通毛绒钥匙扣，采用柔软毛毡材质与生动刺绣细节，适合角色周边、促销礼品或个人收藏，展现手作美学与自然摄影风格。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

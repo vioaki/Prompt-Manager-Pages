@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0480",
+  "title": "极简儿童绘画风格",
+  "category": "gallery",
+  "prompt": "A [subject] in a minimalist children's drawing style, using thick white lines and glowing contours. The background is softly blurred with [environment details]. Floating elements like [floating details] add a whimsical touch. Full-body view, warm and simple aesthetic.",
+  "description": "Nano Banana Pro 模型擅长创作极简儿童绘画风格，非常适合教育材料、故事书插图和趣味品牌项目，使用简单形状和明亮色彩，效果生动有趣。",
+  "tags": [
+    "banana",
+    "插画",
+    "手绘"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 453
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0105",
+  "title": "超级动物英雄",
+  "category": "gallery",
+  "prompt": "A hyper-realistic square 1:1 portrait of a [YOUR ANIMAL] standing in a heroic pose, facing slightly left. The animal wears a textured dark gray superhero suit, form-fitting and matte, with visible fabric grain and subtle seams.\n\nOn its chest, inside a golden metallic Superman-style diamond emblem, is a fabric-embroidered version of the [COUNTRY] national flag (realistic stitching, slightly raised).\n\nDraped over the animal’s shoulder is a flowing cape designed from the [COUNTRY] flag, with rich fabric folds and natural weight.\n\nBehind the subject, use a realistic fabric backdrop displaying the full [COUNTRY] flag, slightly out of focus to add depth, with soft shadows to enhance realism.\n\nLighting should be warm and directional (studio-style), emphasizing the animal’s fur texture, suit material, and the contours of a subtly muscular chest. The overall tone is dramatic and cinematic, with a warm color grading and no excessive contrast. The head must be fully visible — no cropping.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作超级英雄风格的动物肖像，生成超写实的方形图像，适合个性化礼物、宣传材料和数字艺术项目。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

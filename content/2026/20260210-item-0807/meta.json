@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20260210-item-0807",
+  "title": "一键丰胸",
+  "category": "template",
+  "prompt": "参考图二的角色因为胸小比较自卑，现在我们要鼓励一下她。替换图1角色的头部为图2角色的头部，使替换后的部分绘画风格和原本图1的一致，其余部分不做任何改动,比例为546×2048",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "奶龙皇",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 422,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2026-02-10T17:05:31Z"
+}

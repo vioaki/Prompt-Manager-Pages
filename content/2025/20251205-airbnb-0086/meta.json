@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-airbnb-0086",
+  "title": "AirBnB 任何东西",
+  "category": "gallery",
+  "prompt": "A highly detailed 3D isometric icon of the following object: [OBJECT]\n\nStyle: Airbnb 2024 icon language — miniature diorama / emoji-like object with crisp edges, realistic textures, and soft handcrafted realism.  \n\nMaterial: The object should clearly retains its fundamental qualities but look as if its made from a mixture of matte and plastic-like materials.  \n\nView: three-quarter front-left isometric view with a slight top-down angle.  \n\nLighting: soft neutral studio lighting from the top-left with subtle shadows and gentle gloss highlights.  \n\nColor palette: retain the fundamental colors from the object and include subtle gradients and no harsh contrasts.  \n\nBackground: clean white, no drop shadow or noise.  \n\nMood: minimal, charming, utilitarian, premium.  \n\nRendering: hyper-detailed, photorealistic object with depth and tactility, like a designer lifestyle emoji or miniature product model. \n\nOptional Add-on for Replication:  Use the attached photo as a reference for proportions and layout. Do not copy exactly — reinterpret it in the Airbnb icon aesthetic.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成简约3D图标，适用于Airbnb风格的产品摄影和品牌设计，呈现手绘质感的精致效果。这些图标适合数字平台和营销材料，突出等距视角与哑光纹理，提升视觉吸引力。",
+  "tags": [
+    "banana",
+    "3D",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1126,
+    "height": 1006
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

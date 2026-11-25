@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260623-item-0860",
+  "title": "温泉",
+  "category": "template",
+  "prompt": "保留角色五官特征，夕阳氛围温馨场景，镜头在角色的左后上方的俯视视角，角色左手撑地右手抓住浴巾扯在胸前，露出角色完整的后背，角色坐在温泉边上，角色只有在身前覆盖一条浴巾包裹住胸前和下身，双腿在温泉中晃荡，盘发，角色回头面对镜头，画面比例在16：9，动漫风格。",
+  "description": "",
+  "tags": [
+    "二次元",
+    "肖像",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 572
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-06-23T14:32:08Z"
+}

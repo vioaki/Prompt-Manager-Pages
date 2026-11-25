@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0522",
+  "title": "痛车",
+  "category": "gallery",
+  "prompt": "用图2的角色和艺术风格给这辆车做痛车图片，但一定要是摄影图片，现实风格，放在漂亮的城市街道中，来做个痛车图像参考。16:9比例，2k分辨率",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "写实",
+    "场景"
+  ],
+  "author": {
+    "name": "set",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1376,
+    "height": 768
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

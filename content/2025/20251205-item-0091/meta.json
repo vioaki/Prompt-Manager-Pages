@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0091",
+  "title": "不同情绪状态的思想泡泡",
+  "category": "gallery",
+  "prompt": "A [SUBJECT] sits alone in a minimalistic room filled with floating, semi-transparent thought bubbles. Each bubble contains a fragment of their face from different emotional states — smiling, crying, screaming — forming a psychological self-portrait suspended in mid-air.",
+  "description": "通过 Nano Banana Pro 模型，在极简室内肖像中捕捉心理深度，以漂浮思想泡泡可视化不同情绪状态，适合心理健康宣传或艺术项目，突出内省与情感光谱。",
+  "tags": [
+    "banana",
+    "超现实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

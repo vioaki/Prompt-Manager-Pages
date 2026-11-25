@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0027",
+  "title": "面包形态",
+  "category": "gallery",
+  "prompt": "A highly realistic sculpture of a [object], made entirely from [bread type] with ultra-detailed texture and color. The surface shows the natural properties of the bread, golden-brown, glossy, flaky or crusty, with visible layers or seeds where appropriate, studio lighting, soft",
+  "description": "借助 Nano Banana Pro 模型，这款超写实面包雕塑以金黄酥脆的质感和细腻色彩，完美呈现艺术展示与广告拍摄中的独特魅力。",
+  "tags": [
+    "banana",
+    "3D",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 1096
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

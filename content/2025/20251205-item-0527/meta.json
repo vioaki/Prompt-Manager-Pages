@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0527",
+  "title": "写实背景动漫少女喂猫",
+  "category": "gallery",
+  "prompt": "为图1所示的实景场景添加图2所示的动漫风格女孩，确保背景是写实风格，只有少女为动漫风格。\r\n具体画面：右侧自行车旁，身穿校服的女高中生正蹲在地上，满眼温柔地注视并投喂流浪猫。\r\n确保光影效果，图2中的动漫画风少女能够完美的和写实背景融合",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "次元融合",
+    "萌宠"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 768,
+    "height": 1376
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

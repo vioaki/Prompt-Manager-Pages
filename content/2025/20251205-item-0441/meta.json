@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0441",
+  "title": "伪造的历史",
+  "category": "gallery",
+  "prompt": "Leaked production footage from a secret soundstage, 1969. Neil Armstrong is walking on the \"Moon surface,\" but the camera pulls back to reveal it is just a sandbox in a studio. A boom mic operator is visible in the top corner. Stanley Kubrick is shouting instructions through a megaphone. Studio lights, film grain, slightly blurry, handheld camera movement style.",
+  "description": "借助 Nano Banana Pro，将历史虚构与未来设计融合，打造超现实创意内容，适合故事创作、数字艺术及创新营销，使用鲜明色彩增强复古科技美学。",
+  "tags": [
+    "banana",
+    "复古",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 670
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0589",
+  "title": "3D打印",
+  "category": "template",
+  "prompt": "Please transform the object in the uploaded image into a collectible figurine.Behind it, place a figurine box printed with the object's image and its name. Next to it, add a high-end 3D printer that is currently printing the figurine. In front of the figurine box, add a round plastic base for the figurine to stand on.The PVC material of the base should have a crystal-clear, translucent texture, and set the entire scene indoors.",
+  "description": "",
+  "tags": [
+    "banana",
+    "3D",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:02Z"
+}

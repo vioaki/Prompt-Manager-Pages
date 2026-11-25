@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0135",
+  "title": "透视一切",
+  "category": "gallery",
+  "prompt": "a fully transparent [product] made of ultra-clear iridescent glass, showing all internal components in photorealistic detail. The outer shell is glossy, refracts subtle rainbow colors, and reveals the product’s structure and mechanics. Scene lit with high-Kelvin studio lighting (~7000K) on a neutral background. The product maintains its real proportions, materials, and branding.",
+  "description": "Nano Banana Pro 助您捕捉全透明产品的惊艳细节，呈现逼真品牌形象与景观摄影，适用于商业展示和技术图解，突出内部精密结构。高色温灯光增强虹彩玻璃效果，打造专业视觉体验。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

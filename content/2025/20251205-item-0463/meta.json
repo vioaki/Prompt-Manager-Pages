@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0463",
+  "title": "动漫转真人",
+  "category": "gallery",
+  "prompt": "1:1变真人",
+  "description": "借助 Nano Banana Pro 模型，将动漫角色转化为栩栩如生的真人肖像，适用于角色设计、影视游戏及宣传内容创作，通过精细面部描述与自然光照提示，轻松打造惊艳视觉效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "cosplay"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 984
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

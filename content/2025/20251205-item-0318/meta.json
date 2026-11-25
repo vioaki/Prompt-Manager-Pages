@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0318",
+  "title": "产品的工作室照片",
+  "category": "gallery",
+  "prompt": "A high-quality studio photograph of a [BRAND] fully covered in ultra-realistic [ANIMAL] texture (e.g., fur, feathers, skin, or scales), placed against a soft neutral background. The object’s original shape, key design elements, and brand identity remain clearly visible beneath the animal’s organic surface. Integrate the official logo of the brand prominently into the composition. Automatically generate a compelling and brand-appropriate slogan that draws symbolic inspiration from the animal’s qualities and matches the tone of a premium advertising campaign. The image must feature clean composition, soft shadows, minimalist styling, professional lighting, and highly detailed textures—each hair, scale, or wrinkle should be visible in sharp detail. Format 1:1.",
+  "description": "使用 Nano Banana Pro 创作极简风格的动物纹理产品摄影，将品牌元素与自然质感巧妙融合，适用于商业广告和视觉叙事场景。",
+  "tags": [
+    "banana",
+    "写实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

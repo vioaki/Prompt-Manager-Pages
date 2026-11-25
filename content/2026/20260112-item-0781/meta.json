@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260112-item-0781",
+  "title": "签售会写正字",
+  "category": "template",
+  "prompt": "以图中人物(严格参考脸部、五官、身材比例等)按要求生成写实照片，偶像亲签会。宅男粉丝在可爱的偶像大腿根画正字涂鸦的瞬间，大腿根上已经有好几个正字。男性视角的 POV，偶像身后是贴着她宣传海报的墙壁，偶像一只手捏着衣角并往上提起，另一只手做手指比心，看着镜头，她们中间隔着狭窄的签名台。明亮照明，肚脐肌肤白哲水嫩。2:3。",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "NSFW"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-01-12T22:05:33Z"
+}

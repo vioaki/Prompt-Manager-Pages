@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0689",
+  "title": "怪物猎人幼崽",
+  "category": "gallery",
+  "prompt": "生成《怪物猎人》中，金狮子的幼崽躺在被子上，真实风格，身体具金狮子的特征但处于未成熟的状态，非常幼小可爱，睁开眼睛，比例9：16",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "游戏",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-07T23:17:35Z"
+}

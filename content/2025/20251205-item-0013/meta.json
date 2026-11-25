@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0013",
+  "title": "树屋",
+  "category": "gallery",
+  "prompt": "A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden light pours through windows framed in the brand’s signature colors. A cozy seating area features playful, thematic furniture, and a circular rug inspired by [BRAND SYMBOL OR PRODUCT]. The coffee table bears the embossed logo, while a screen on the wall loops the phrase: “[BRAND SLOGAN].” A curated display of iconic items adds a sense of nostalgia. Subtle ambient lighting glows in brand tones, and a tray with signature treats sits near the window. It’s cozy, imaginative, and unmistakably [BRAND NAME]",
+  "description": "Nano Banana Pro 捕捉树屋静谧晨光，以品牌色调与自然元素融合，呈现高端生活与环保产品的优雅氛围，适合品牌推广与自然主题营销。",
+  "tags": [
+    "banana",
+    "产品广告",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1090,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

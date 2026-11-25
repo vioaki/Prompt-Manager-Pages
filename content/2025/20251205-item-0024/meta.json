@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0024",
+  "title": "水流身份",
+  "category": "gallery",
+  "prompt": "An ultra-high resolution 8K cinematic render of the [Brand Name] logo, sculpted entirely from flowing crystal-clear water. The liquid forms every curve and edge of the brand’s logo with fluid precision, highlighted by vibrant neon accents inspired by [Brand Name]’s color identity. The background is pitch black, creating sharp contrast and drama. The lighting is dynamic, revealing sharp reflections, glowing edges, and the motion of water as it ripples and splashes. Droplets, shine, and soft glass-like textures give the logo a surreal, luxurious, and futuristic appearance — poster-quality, 1:1 format.",
+  "description": "借助 Nano Banana Pro 模型，打造充满未来感的品牌标识，呈现霓虹光影与流动水晶质感的水流标志，适合科技行业宣传海报和动态视觉设计，突出“流体动态”与“晶莹剔透”的震撼视觉效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "超现实",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

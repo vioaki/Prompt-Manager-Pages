@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0046",
+  "title": "警方照片风格",
+  "category": "gallery",
+  "prompt": "Transform this image into a realistic police mugshot.\nAdd a gray background with height markings, harsh frontal lighting, and a nameplate with the person's name and a case number.\nThe photo should look like an official FBI or police booking photo, vertical format (4:5), with a neutral expression and no accessories.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成逼真的警方档案照片，适用于执法培训、影视制作或法医记录等场景，呈现专业FBI风格的摄影效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1104,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

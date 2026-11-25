@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0534",
+  "title": "碧蓝档案主页",
+  "category": "gallery",
+  "prompt": "根据给出图片1中的人物，提取 [image_1] 的关键特征（发型、发色、瞳色），\r\n生成一张该角色作为干员的《碧蓝档案》的游戏截图，要求界面是播放cg的大厅界面。横版画面。要求不要使用原图的艺术风格，也不要使用原图的动作和姿势，该角色在游戏中应该更贴合游戏的艺术风格（就像是游戏中的原生角色），拥有更符合cg的动态姿势.cg应当是角色特写，具有唯美的场景感和故事感，凑近镜头，有强烈的环境光泛光效果。我在第二张图片放了一张真实游戏截图，用来作为参考（不要参考原图的角色，姿势和构图，而且有一些是ui固有的图片和文本，不要更改ui固有的图片和文本）。我在第三、第四张图放了游戏cg作为艺术风格参考。\r\n按照以下要求一步步思考：\r\nStep1: 学习游戏截图，image_2的图中ui分布\r\nStep2：学习image_3、image_4的cg的线条、上色、光影风格，环境光泛光效果\r\nStep3:提取角色的人体特征，设计符合人物特色和碧蓝档案风格的光环(可删掉)\r\nStep4: 设计符合碧蓝档案游戏风格的场景cg构图\r\nStep5:进行符合图片内容构成和学习到的艺术风格的图片生成",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "游戏"
+  ],
+  "author": {
+    "name": "乖然",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 572
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-1.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-2.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-3.webp"
+    }
+  ],
+  "createdAt": "2025-12-05T14:38:00Z"
+}

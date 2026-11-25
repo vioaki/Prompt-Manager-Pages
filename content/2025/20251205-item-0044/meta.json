@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0044",
+  "title": "简单的输入中构思和创建有影响力的图像",
+  "category": "gallery",
+  "prompt": "Create a surrealistic image about diabetes that conveys the message in a powerful and influential way. Plan and prepare the visual concept and prompt, then generate the image as a photograph with a caption.",
+  "description": "Nano Banana Pro擅长创作超现实主义图像，特别适合健康宣传场景，如通过隐喻性视觉元素传递糖尿病防治的深刻信息。Nano Banana Pro能快速生成富有冲击力的摄影作品，帮助用户用创意画面提升公益传播的影响力。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-cgi-0317",
+  "title": "产品超逼真的CGI镜头",
+  "category": "gallery",
+  "prompt": "Ultra-realistic CGI shot of a giant [PRODUCT NAME HERE], seamlessly integrated into a matching real-world environment that reflects the product’s identity, surrounded by context-specific city or nature elements, cinematic composition with natural shadows and photorealistic reflections, high Kelvin sunlight for neutral lighting, captured in HDR 8K DSLR quality, surreal yet believable visual integration, brand logo clearly visible, slogan dynamically adapted to the product’s character, dramatic and immersive atmosphere, aspect ratio 2:3",
+  "description": "Nano Banana Pro助您打造超逼真CGI产品镜头，将产品无缝融入真实场景，呈现电影级光影与HDR画质，是品牌宣传与产品摄影的理想选择。Nano Banana Pro擅长创作虚实融合的视觉大片，通过高动态范围渲染和自然反射效果，为广告与影视项目注入震撼表现力。",
+  "tags": [
+    "banana",
+    "写实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

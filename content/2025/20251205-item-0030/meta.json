@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0030",
+  "title": "卡通风格文本标志",
+  "category": "gallery",
+  "prompt": "Create a bold, warped cartoon-style text design with two distinct layers. The top layer should say “SUPER GNARLY” in warped bubble letters with a melty, drippy texture, like ghost slime or goo. The letters should feel heavy and organic, with a slightly psychedelic or paranormal vibe. The bottom layer should say “SOCIETY” in much smaller, script-like or handwritten-style letters that tuck underneath or nestle between the larger title letters. Both layers should be solid white with thick black outlines. No gradients, shading, or texture. Layout should be playful and a little chaotic, but still readable. Vector friendly. Blue background. Square aspect ratio.",
+  "description": "借助 Nano Banana Pro 模型，打造扭曲泡泡字母与手写风格文字结合的卡通标志，适用于车辆品牌或潮流商品，营造迷幻又吸睛的视觉形象。",
+  "tags": [
+    "banana",
+    "插画",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 606
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

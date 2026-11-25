@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0373",
+  "title": "优雅姿势的最高分辨率照片",
+  "category": "gallery",
+  "prompt": "Create the highest-resolution picture of me posing elegantly with my back slightly turned and my head looking over the shoulder towards the camera. I am wearing a sleek, form-fitting strapless black evening gown, paired with long, elegant black velvet opera gloves. My hair is styled in loose, glossy waves cascading naturally over my shoulder.\nI wear small, subtle earrings and a delicate bracelet on one wrist. My expression is confident, graceful, and alluring. The background is a plain stucco gray with soft gradient lighting, giving it a high-fashion photography look. The lighting is dramatic but soft, highlighting the contours of my body and face with realistic shadows and textures.\nThe image should look like a high-quality, ultra-realistic fashion magazine photo, keeping my real face exactly as shown in the reference photo.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，轻松捕捉优雅姿态的高分辨率时尚摄影，适合自然或影棚环境下的高端品牌拍摄，呈现黑色晚礼服与自信表情的精致细节。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 600,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

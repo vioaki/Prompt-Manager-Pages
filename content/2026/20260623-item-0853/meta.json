@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "20260623-item-0853",
+  "title": "人物平面海报",
+  "category": "template",
+  "prompt": "帮我生成一张平面构成海报，主题为{{userText}}，部分构成要素用镂空排版，用 反色蒙版  遮住人物一部分，呈现出现代设计感，以给出参考图的场景人物为标准，配色人物pose你自己看着办\r\n，要求有英文日文文字点缀，整体充满几何感",
+  "description": "传入人物参考图，输入主题",
+  "tags": [
+    "肖像",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-06-23T14:19:40Z"
+}

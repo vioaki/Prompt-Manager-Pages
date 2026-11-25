@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0330",
+  "title": "全身夜景肖像",
+  "category": "gallery",
+  "prompt": "{\n    \"description\": \"A hyper-realistic, 4K, full-body night-time portrait of a 23-year-old Korean woman with clear pale skin and long straight black hair tucked behind one ear.\",\n    \"subject\": {\n      \"age\": 23,\n      \"ethnicity\": \"Korean\",\n      \"skin_tone\": \"pale\",\n      \"hair\": {\n        \"colour\": \"black\",\n        \"style\": \"long, straight, tucked behind one ear\"\n      },\n      \"pose\": \"standing at a frost-covered bus stop, arms folded against the cold\",\n      \"expression\": \"70 % quiet annoyance, 30 % amused resignation, as if re-reading a text she regrets sending\"\n    },\n    \"outfit\": {\n      \"top_layers\": [\n        \"black blazer\",\n        \"navy sweatshirt\",\n        \"crisp white dress shirt\",\n        \"thin black tie\"\n      ],\n      \"bottom\": \"ultra-short black pleated skirt\",\n      \"legwear\": \"brand-new white knee-length pelerine socks\",\n      \"footwear\": \"polished black shoes\"\n    },\n    \"environment\": {\n      \"location\": \"night-time city bus stop\",\n      \"ground\": \"icy pavement reflecting distant headlights\",\n      \"fog\": \"dense, occupying the top third of the frame\",\n      \"bus_shelter\": {\n        \"glass\": \"steamed-up with one finger-drawn smiley that melts faster than the surrounding condensation\"\n      },\n      \"lighting\": \"cool blue-white, high contrast, cinematic\"\n    },\n    \"hidden_detail\": \"reflection in her left shoe: a blurred red double-decker bus that may or may not be arriving\",\n    \"camera\": {\n      \"angle\": \"low eye-level, full body in frame\",\n      \"lens_simulation\": \"Phase-One medium-format realism\",\n      \"depth_of_field\": \"sharp focus on subject, soft bokeh on distant lights\"\n    },\n    \"output\": {\n      \"style\": \"hyper-realistic, cinematic, cool colour grading\"\n    }\n  }\n}",
+  "description": "Nano Banana Pro 专为打造超写实夜景人像而生，在低光城市环境中呈现细腻全身肖像，完美适用于时尚品牌宣传和氛围场景创作。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0352",
+  "title": "黑白风格肖像照",
+  "category": "gallery",
+  "prompt": "a woman standing confidently in a minimalist studio, shot from a slightly low angle, half-body portrait, her head tilted slightly down with a calm and enigmatic expression, middle-parted braided pigtails with a few loose strands falling over her face, subtle wet hair texture, wearing a tight black sleeveless dress and black leather gloves, holding a leather belt loosely in front of her body — dramatic single key light from upper right, high contrast, black and white tones, strong rim light accentuating her curves, plain textured wall background, cinematic noir atmosphere, fine art fashion photography, inspired by Helmut Newton and Peter Coulson, shallow depth of field, smooth gradients, elegant and powerful mood",
+  "description": "使用 Nano Banana Pro 拍摄黑白风格肖像照，以极简主义和高对比度光影呈现时尚人像，适合现代品牌项目和编辑摄影，突出神秘氛围与戏剧性效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 928,
+    "height": 1232
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

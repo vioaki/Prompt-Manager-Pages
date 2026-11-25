@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0419",
+  "title": "一个可爱的拟人化动物",
+  "category": "gallery",
+  "prompt": "A cute anthropomorphic [subject] in triple view: front-left, front, and back. Standing upright with a plump body, expressive face, and wearing [clothing/style]. Cartoon mascot in 2D animation style, clean bold lines, flat shading with subtle gradients, soft outlines, and a light neutral background.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作拟人化的可爱动物角色，适合儿童绘本插画和角色设计，为故事与教育内容注入生动多彩的魅力。",
+  "tags": [
+    "banana",
+    "3D",
+    "设定图",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 453
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

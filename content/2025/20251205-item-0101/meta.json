@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0101",
+  "title": "刺绣风格",
+  "category": "gallery",
+  "prompt": "{\n  \"title\": \"Adaptive Embroidered Brooch Prompt Generator\",\n  \"version\": \"2.0\",\n  \"description\": \"Generate a prompt for an embroidered brooch based on text description or uploaded image.\",\n  \"inputs\": {\n    \"reference_mode\": {\n      \"type\": \"select\",\n      \"label\": \"Reference Source\",\n      \"options\": [\"describe manually\", \"use uploaded image\", \"combine both\"],\n      \"default\": \"describe manually\"\n    },\n    \"theme_text\": {\n      \"type\": \"text\",\n      \"label\": \"Describe the Theme or Motif\",\n      \"placeholder\": \"e.g. an owl in a forest, biomechanical skull, dancing figures\"\n    },\n    \"image_reference_description\": {\n      \"type\": \"text\",\n      \"label\": \"Describe what's in the uploaded image (if using image mode)\",\n      \"placeholder\": \"e.g. a mechanical skull with succulents growing from it\"\n    },\n    \"shape\": {\n      \"type\": \"select\",\n      \"label\": \"Brooch Shape\",\n      \"options\": [\"circular\", \"oval\", \"square\", \"irregular\"],\n      \"default\": \"oval\"\n    },\n    \"style\": {\n      \"type\": \"select\",\n      \"label\": \"Embroidery Style\",\n      \"options\": [\n        \"traditional\", \n        \"folkloric\", \n        \"surreal\", \n        \"biomech-organic fusion\", \n        \"modern minimal\"\n      ],\n      \"default\": \"traditional\"\n    },\n    \"color_palette\": {\n      \"type\": \"select\",\n      \"label\": \"Color Palette\",\n      \"options\": [\n        \"earth tones and muted greens\",\n        \"pastel shades\",\n        \"neon surreal\",\n        \"rusted metal and white florals\",\n        \"monochrome with silver threads\"\n      ],\n      \"default\": \"earth tones and muted greens\"\n    }\n  },\n  \"prompt_template\": \"{final_theme} hand-embroidered brooch, {style} style, crafted with intricate threadwork and metallic accents, soft wool and silk embroidery, fine beadwork outlining the {shape} shape, natural color palette ({color_palette}), macro shot on neutral linen or stone background, ultra-detailed artisan aesthetic, realistic embroidery textures, soft atmospheric lighting --ar 1:1 --style raw --v 6 --q 2\",\n  \"logic\": {\n    \"final_theme\": {\n      \"if\": \"reference_mode == 'describe manually'\",\n      \"value\": \"{theme_text}\"\n    },\n    \"final_theme_alt\": {\n      \"if\": \"reference_mode == 'use uploaded image'\",\n      \"value\": \"{image_reference_description}\"\n    },\n    \"final_theme_combined\": {\n      \"if\": \"reference_mode == 'combine both'\",\n      \"value\": \"{theme_text} and elements from: {image_reference_description}\"\n    }\n  }\n}",
+  "description": "使用 Nano Banana Pro 模型，轻松生成简约刺绣胸针设计，融合毛毡材质与自然灵感的霓虹元素，适合时尚配饰和创意手作，打造现代刺绣风格的独特作品。",
+  "tags": [
+    "banana",
+    "手绘",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

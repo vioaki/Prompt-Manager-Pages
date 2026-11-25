@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0210",
+  "title": "部分咬掉的糕点",
+  "category": "gallery",
+  "prompt": "A high-resolution, studio-lit macro photograph of a pastry shaped like a [SUBJECT], with a partial bite taken out, placed on a neutral matte surface with visible crumbs and soft shadows, highlighting texture and detail",
+  "description": "使用Nano Banana Pro或Nano Banana Pro拍摄部分咬掉的糕点微距照片，呈现影棚级光影与细腻质感，完美适用于美食博客或商业广告，突出诱人细节与真实感。",
+  "tags": [
+    "banana",
+    "写实",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

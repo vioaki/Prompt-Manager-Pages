@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "20260223-asmr-0817",
+  "title": "足控asmr",
+  "category": "gallery",
+  "prompt": "请将图1转化成cosplay风格的写实照片，一个coser高度还原图像角色的发型发色，发饰，装饰，面容，服装，身材，拘束等细节，保持角色一致性,描绘衣料和肌肤在高调自然光的质感细节，背景道具和氛围请还原原图，描绘冷白皮肌肤因为出汗镀上的一层糖霜般的油性高光，布料被汗水打湿而紧贴肌肤的质感，丝袜略微透肉质感，真发丝散落的质感，，coser是顶级的东亚面孔模特,气质，情绪，都十分还原，特别是身材曲线十分还原，整体动作自然，不刻意。\r\n角色正在具有少女感的私人卧室进行asmr表演，坐在一块地面上一块柔软地毯。氛围暧昧，私密\r\n动作：角色正用涂满精油的白色吊带袜足部，双腿打开，用白丝内的脚趾夹住3dio mic的两侧，脚底和mic两侧平行（使用图2内mic样式，没有支撑杆直接平放在地上，腿部动作姿势参考图2，但不用参考图2渲染风格或者服装，手部动作，身材等细节，），身体微微前倾，双手在裆部前面支撑身体，身体曲线自然伸展，进行ASMR表演，角色穿着不显眼的打底裤，因此不必担心走光\r\n内层穿搭：白色吊带袜,\r\n表情：热恋情人般含情脉脉的暧昧微笑，自然不做作\r\n角度：角色全身特写\r\n4k uhd, sharp focus,  shot by dslr, 24 mm lens，\r\nar:9:16\r\n\r\n\r\nnegative prompt: nsfw, nudy, sexual content, cgi,3d,kigurumi, illustration, anime,西方人，深肤色, bra,  poke face heavy makeup, western,西方人，普通麦克风，裸足，未成年，r18，肉色丝袜，鞋子",
+  "description": "记得把丝袜换成参考图的颜色和款式😋\r\n备选版本,双手撑在后面\r\n\r\n\r\n请将图1转化成cosplay风格的写实照片，一个coser高度还原图像角色的发型发色，发饰，装饰，面容，服装，身材，拘束等细节，保持角色一致性,描绘衣料和肌肤在高调自然光的质感细节，背景道具和氛围请还原原图，描绘冷白皮肌肤因为出汗镀上的一层糖霜般的油性高光，布料被汗水打湿而紧贴肌肤的质感，丝袜略微透肉质感，真发丝散落的质感，，coser是顶级的东亚面孔模特,气质，情绪，都十分还原，特别是身材曲线十分还原，整体动作自然，不刻意。\r\n角色正在具有少女感的私人卧室进行asmr表演，坐在一块地面上一块柔软地毯。氛围暧昧，私密\r\n动作：角色正用涂满精油的白色裤袜足部，双腿打开，用白丝内的脚趾夹住3dio mic的两侧，脚底和mic两侧平行（使用图2内mic样式，没有支撑杆直接平放在地上，腿部动作姿势参考图2，但不用参考图2渲染风格或者服装，手部动作，身材等细节，），身体微微后仰，双手在身后的身体两侧位置支撑身体，进行ASMR表演，角色穿着不显眼的打底裤，因此不必担心走光\r\n内层穿搭：white pantyhose,\r\n表情：热恋情人般含情脉脉的暧昧微笑，自然不做作\r\n角度：角色全身特写\r\n4k uhd, sharp focus,  shot by dslr, 24 mm lens，\r\nar:9:16\r\n\r\n\r\nnegative prompt: nsfw, nudy, sexual content, cgi,3d,kigurumi, illustration, anime,西方人，深肤色, bra,  poke face heavy makeup, western,西方人，普通麦克风，裸足，未成年，r18，肉色丝袜，",
+  "tags": [
+    "banana",
+    "cosplay",
+    "NSFW",
+    "足"
+  ],
+  "author": {
+    "name": "鸽王",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 768,
+    "height": 1376
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-1.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-2.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-3.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-4.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-5.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-6.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-7.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-8.webp"
+    }
+  ],
+  "createdAt": "2026-02-23T04:10:41Z"
+}

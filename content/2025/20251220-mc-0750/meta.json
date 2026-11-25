@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "20251220-mc-0750",
+  "title": "MC皮肤",
+  "category": "gallery",
+  "prompt": "Generate a Minecraft skin based on the character in this image. The other image serves as a format example. Format: Top left shows the complete 64x64 skin texture map. Top right displays a render containing only the inner layer texture. Bottom left and bottom right show front and back renders incorporating both inner and outer layers. Background must be solid color. In the texture format explanation image, the red box represents the inner layer of a region, while the green box denotes the outer layer. The blue box indicates a face boundary line, with the text inside specifying the corresponding face and its pixel dimensions. The generated map format and pixel size must perfectly match the reference image. Do *not* include any red green or blue boxes or text in the generated image. Must accurately reproduce character features while adhering to Minecraft's character model constraints:Only for dual-layer player models; cannot include additional models. All inner layers are standard hexahedral unfolded materials. while the outer layer enhance dimensionality of elements such as hair and clothing, and additional decorative features, the outer layer does not require every section to be filled. It is important to note whether the generated skin can achieve the effect of the rendered image.",
+  "description": "",
+  "tags": [
+    "banana",
+    "像素",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-1.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-2.webp"
+    }
+  ],
+  "createdAt": "2025-12-20T10:36:02Z"
+}

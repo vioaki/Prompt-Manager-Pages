@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0344",
+  "title": "超级马里奥风格照片",
+  "category": "gallery",
+  "prompt": "生成一张图片，人物头戴红色帽子，帽上有白色圆圈加红色 “M” 标志；上身是红色短袖，下身搭配蓝色背带裤，裤上有黄色圆形装饰扣，穿着红色的袜子还原度高，道具丰富多样。",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成复古超级马里奥风格角色肖像，完美适用于游戏周边、社交媒体品牌和个性化头像设计，呈现标志性红帽与精致服装细节。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 686
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

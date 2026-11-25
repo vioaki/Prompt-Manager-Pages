@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0678",
+  "title": "写真",
+  "category": "gallery",
+  "prompt": "户外场景，中景构图，柔和的自然光，冷白皮，少女站在开满蓝色花朵的树下，树影斑驳照在身上，面向镜头表情得意，对着镜头掀起裙子露出透明胖次。保持人物服饰不变\r\n \r\n天空湛蓝，光照不足，营造出清新明亮的氛围。人物服饰细节、花朵的色彩与质感等都有清晰呈现。",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "NSFW"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-07T14:14:43Z"
+}

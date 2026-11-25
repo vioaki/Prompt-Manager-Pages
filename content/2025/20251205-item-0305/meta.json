@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0305",
+  "title": "奢侈品牌广告",
+  "category": "gallery",
+  "prompt": "A luxury [BRAND TYPE] brand advertisement featuring four stylish [GIRLS / MEN], each posed in separate architectural window frames set, each shown in a waist-up mid-shot, fully inside the window frames, with hands and props naturally breaking the frame edges, but no legs or lower body visible, arranged in a theatrical and 2×2 symmetrical grid composition.\n\n– one holding a [OBJECT 1] with [EXPRESSION AND ACCESSORIES]\n– another holding a [OBJECT 2] with [EXPRESSION AND ACCESSORIES]\n– another holding a [OBJECT 3] with [EXPRESSION AND ACCESSORIES]\n– another holding a [OBJECT 4] with [EXPRESSION AND ACCESSORIES]\n\nEach with expressive editorial facial poses, blending modern fashion with a sleek couture aesthetic.\n\nSet against an elegant [BACKGROUND COLOR AND MATERIAL] backdrop with subtle textures, captured with bright high-fashion studio lighting that emphasizes contours, reflections, and luxury detailing.\n\nThe mood is glamorous, iconic, and prestigious, shot in the style of a high-end [BRAND TYPE] luxury campaign. 2:3 ar. all four frames clearly shown in full height, no cropping at the bottom or top.",
+  "description": "借助 Nano Banana Pro 模型，打造高端品牌广告，以戏剧性的对称网格构图呈现人物在建筑窗框中的优雅姿态，完美适用于时尚与建筑行业的品牌视觉宣传。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1066,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

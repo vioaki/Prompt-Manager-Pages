@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-neoglologo-0149",
+  "title": "Neoglo风格Logo",
+  "category": "gallery",
+  "prompt": "Design a modern logo in NeoGradient Soft Tech style for a fictional startup called “NAME” in the “[INDUSTRY TYPE]” industry.\n\nThe logo must include:\n•A unique abstract icon\n•A clean, bold sans-serif logotype\n•Smooth glowing gradients blending vibrant colors like blue, purple, pink, orange, and teal\n•Seamless harmony between symbol and text\n•Minimalist, futuristic composition\n•On a pure black background\n•1:1 aspect ratio — ultra-HD\n\nThe logo should feel creative, modern, and ready for a bold digital brand.",
+  "description": "借助Nano Banana Pro与Nano Banana Pro模型打造未来感品牌标识，以极简设计融合霓虹渐变光影，专为科技初创与前沿行业呈现抽象图标与活力色彩，助您塑造鲜明视觉形象。",
+  "tags": [
+    "banana",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

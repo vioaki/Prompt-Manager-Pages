@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0007",
+  "title": "刺绣肖像",
+  "category": "gallery",
+  "prompt": "An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.",
+  "description": "使用 Nano Banana Pro 创作刺绣肖像，通过可见针迹与层次纹理，为人物赋予质朴而神圣的艺术风格，适合打造独特的手工质感作品。",
+  "tags": [
+    "banana",
+    "手绘",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1098,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

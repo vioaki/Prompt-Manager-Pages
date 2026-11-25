@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0445",
+  "title": "揭秘照片的幕后制作过程",
+  "category": "gallery",
+  "prompt": "I’d like to see a behind the scenes of a photoshoot how this photograph was created",
+  "description": "探索 Nano Banana Pro 如何助力摄影工作室和创意团队，打造艺术感与真实感兼具的视觉作品，提升专业展示与视觉叙事效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 896,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

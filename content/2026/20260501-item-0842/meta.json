@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260501-item-0842",
+  "title": "笨拙涂鸦重绘",
+  "category": "template",
+  "prompt": "Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is.",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "手绘",
+    "梗图"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 900
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-05-01T19:39:23Z"
+}

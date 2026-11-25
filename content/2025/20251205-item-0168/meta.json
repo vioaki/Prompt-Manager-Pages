@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0168",
+  "title": "霓虹灯品牌重新构想",
+  "category": "gallery",
+  "prompt": "Create a cinematic advertisement for “[PRODUCT NAME]” — use bioluminescent neon lighting that matches the brand’s visual identity — place the product at the center of the scene with surreal, minimalistic composition — automatically adapt the environment to reflect the product’s nature (e.g. tech, fragrance, luxury, automotive, beauty) — integrate the brand’s actual logo in high fidelity — generate a short, powerful 3-word tagline that fits the brand’s tone — long exposure lighting effects — dramatic shadows — ultra-sharp focus — dark or ambient background — aspect ratio 2:3 or 1:1 — ultra-HD resolution",
+  "description": "Nano Banana Pro 以生物发光霓虹灯打造超现实极简广告，自动适配科技、美妆或奢侈品场景，突出产品核心与品牌视觉。Nano Banana Pro 运用霓虹光影构建电影级品牌画面，融入高保真标识与简短标语，强化自然与奢华氛围，提升行业影响力。",
+  "tags": [
+    "banana",
+    "超现实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1066,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

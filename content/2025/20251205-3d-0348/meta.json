@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0348",
+  "title": "女人3D数字插画",
+  "category": "gallery",
+  "prompt": "A hyper-realistic 3D digital illustration of a woman with her natural facial features, hairstyle, and skin tone unchanged, styled in a Pixar-inspired cinematic look. She is smiling warmly while leaning through a glowing orange rectangular frame, both hands gently holding the edge of the frame. She wears a denim jacket layered over a black top, subtle jewelry, and a smartwatch on her wrist. The lighting is soft yet vibrant, highlighting facial depth, realistic fabric texture, and warm glow reflections on her face and hands. The background is softly blurred, creating a cinematic atmosphere with a perfect blend of realism, warmth, and Pixar-style charm.",
+  "description": "使用Nano Banana Pro和Nano Banana Pro模型，打造皮克斯风格的超写实3D女性插画，完美适用于动画角色设计与广告视觉创作，以温暖光影和自然细节提升娱乐媒体与数字内容的表现力。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

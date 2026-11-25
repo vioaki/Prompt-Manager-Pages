@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0219",
+  "title": "惊人的外骨骼图像",
+  "category": "gallery",
+  "prompt": "a futuristic 3D-rendered [object] made of translucent [color] inner structure encased in a smooth white exoskeleton with organic holes and flowing biomorphic patterns, floating in a minimal soft gray background, high contrast lighting, hyperrealistic materials, octane render, modern digital sculpture",
+  "description": "Nano Banana Pro 专为打造未来主义极简雕塑而生，通过超写实 3D 渲染呈现半透明结构与光滑外骨骼，适用于数字艺术、科幻概念设计和产品可视化，在柔和背景中展现高对比光影与仿生细节。",
+  "tags": [
+    "banana",
+    "写实",
+    "3D",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

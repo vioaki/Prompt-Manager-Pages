@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0063",
+  "title": "皱巴巴的纸片",
+  "category": "gallery",
+  "prompt": "A photorealistic image of the word '[NAME]' spelled out using torn, highly crumpled pieces of white paper. Each letter is painted in bold [COLOR] on individual scraps, arranged loosely and unevenly, as if placed casually by hand, on a wooden table. The composition should convey a natural, handmade aesthetic with visible creases, shadows, and wood grain detail",
+  "description": "使用 Nano Banana Pro 模型，轻松创作逼真的撕纸艺术图像，适用于品牌设计和手工摄影，呈现自然褶皱与阴影细节，提升视觉质感。",
+  "tags": [
+    "banana",
+    "写实",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

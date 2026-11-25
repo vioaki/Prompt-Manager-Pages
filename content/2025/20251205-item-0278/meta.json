@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0278",
+  "title": "品牌模切乙烯基贴纸",
+  "category": "gallery",
+  "prompt": "Generate a large die-cut vinyl sticker of the [BRAND] logo with thick white border, perfectly centered on a soft light blue background. The sticker is viewed straight-on from directly above with realistic drop shadows beneath. Clean, flat design with subtle 3D depth. The sticker takes up most of the frame and maintains original brand colors. 1080x1080 square format.",
+  "description": "使用 Nano Banana Pro 模型，轻松打造简洁的模切乙烯基贴纸，呈现扁平化 3D 风格，适用于品牌标识展示和数字样机场景，以像素级精准设计和逼真阴影提升视觉吸引力。",
+  "tags": [
+    "banana",
+    "产品广告",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

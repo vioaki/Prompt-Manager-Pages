@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0601",
+  "title": "四机位镜头",
+  "category": "template",
+  "prompt": "生成这张图片的正脸特写、侧身照、远景、背影的四种多机位镜头，然后整合输出到一张照片里，保持人物高度的一致性，适合生成连续剧情感镜头",
+  "description": "",
+  "tags": [
+    "banana",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 686,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:02Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0118",
+  "title": "奇趣风格3D乙烯基玩具",
+  "category": "gallery",
+  "prompt": "Chibi-style 3D vinyl toy of [subject], rendered in [color1] and [color2] tones, front-facing on a white background. Minimalist composition with soft shadows, oversized head and tiny body proportions, clean OC renderer output in Cinema 4D. Toy-like shine and playful charm.",
+  "description": "使用 Nano Banana Pro 模型，轻松打造奇趣风格的 3D 乙烯基玩具，以极简设计和双色调色彩呈现可爱大头小身造型，适合玩具创作、角色周边和生动营销视觉，带来玩具般光泽与趣味魅力。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

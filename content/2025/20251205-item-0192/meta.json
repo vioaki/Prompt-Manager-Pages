@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0192",
+  "title": "字母景观",
+  "category": "gallery",
+  "prompt": "the letter B beautiful and elegant decorated with a beautiful beachscape",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，将字母B转化为优雅的海滩景观设计，完美适用于品牌项目和创意视觉，融合自然元素与精致排版，打造独特的艺术构图。",
+  "tags": [
+    "banana",
+    "图标Logo",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

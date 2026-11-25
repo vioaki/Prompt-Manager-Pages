@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0205",
+  "title": "吃掉你的文字",
+  "category": "gallery",
+  "prompt": "Create the word “[WORD]” made entirely from its real texture and styled using the identity of the most iconic brand associated with it.\n\nThe word should:\n• Visually reflect the material (e.g. honey, chocolate, soda, candy).\n• Use the brand’s signature colors and typography.\n• Include the brand logo beneath the word.\n• Add a short slogan (3–4 words) matching the product’s vibe.\n• Be centered in a minimal background inspired by the product (e.g. breakfast table, soda splash, cookie tray).\n\n• Dimensions: 1:1\n• Style: clean, bold, product-focused\n• Render: ultra-HD, HDR, 8K",
+  "description": "使用 Nano Banana Pro，打造以真实材质构成的文字设计，结合极简品牌风格与自然纹理，完美适用于食品品牌标识和包装，呈现生动逼真的材质效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "图标Logo",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

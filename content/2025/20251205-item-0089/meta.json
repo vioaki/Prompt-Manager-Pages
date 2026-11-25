@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0089",
+  "title": "动感雕塑",
+  "category": "gallery",
+  "prompt": "A kinetic sculpture of a [subject], made of interlocking metal rods and panels in brushed [color1] and oxidized [color2]. Suspended in motion, with rotating parts casting mechanical shadows on a concrete pedestal.",
+  "description": "借助 Nano Banana Pro 打造动感雕塑，通过交错金属构件与氧化色彩，呈现工业美学与机械优雅，适用于建筑可视化、艺术装置或高端产品展示，营造精密光影变幻。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0351",
+  "title": "和漫威角色集体自拍",
+  "category": "gallery",
+  "prompt": "A ultra realistic group selfie, center is the person from the attached image (uploaded image facial details), wearing a fitted black shirt and ripped jeans, holding an iPhone for the selfie. Around are Chris Hemsworth as Thor, Gal Gadot as Wonder Woman, Scarlett Johansson as Black Widow, Mark Ruffalo as Hulk, Henry Cavill as Superman, RDJ in full armor all hugging, smiling, posing casually like close friends. Fun, joyful mood, bright daylight, cinematic quality, natural look, high detail.",
+  "description": "使用 Nano Banana Pro，轻松生成与漫威超级英雄的超写实集体自拍，生动捕捉欢乐互动场景，适合社交媒体分享或粉丝互动内容。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "次元融合"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

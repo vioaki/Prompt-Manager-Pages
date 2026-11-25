@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0536",
+  "title": "手游立绘",
+  "category": "gallery",
+  "prompt": "根据参考图绘制游戏角色全身立绘，采用tachi-e风格。\r\n\r\n角色以自然的方式与场景互动，姿势活泼灵动，整体气质展现出活力、骄傲与青春感。\r\n\r\n角色身材纤细苗条，拥有修长白皙的双腿。\r\n\r\n背景采用手游立绘常见的局部场景造景方式，场景元素呈硬边缘裁切状，透明背景，场景内容不限。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "设定图",
+    "游戏"
+  ],
+  "author": {
+    "name": "Moeblack",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 896,
+    "height": 1200
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-05T14:38:00Z"
+}

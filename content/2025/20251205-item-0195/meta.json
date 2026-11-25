@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0195",
+  "title": "自定义纹理的复古玩具",
+  "category": "gallery",
+  "prompt": "Retexture the uploaded image based on the JSON\n\n{\n  \"materials\": {\n    \"exterior\": \"matte injection-molded plastic\",\n    \"interior\": [\n      \"blocky colored plastic parts\",\n      \"oversized gears\",\n      \"simple rods\",\n      \"basic springs\",\n      \"toy decals\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"studio soft light\",\n    \"direction\": \"top and front fill\",\n    \"color\": \"warm daylight\",\n    \"mood\": \"nostalgic, cheerful\"\n  },\n  \"background\": {\n    \"type\": \"solid\",\n    \"color\": \"pastel yellow\"\n  },\n  \"camera\": {\n    \"angle\": \"eye-level side\",\n    \"focus\": \"medium sharp\",\n    \"depth_of_field\": \"deep\"\n  },\n  \"color_palette\": {\n    \"dominant\": [\"red\", \"blue\", \"yellow\"],\n    \"accents\": [\"mint green\", \"white\", \"peach\"]\n  },\n  \"vibe\": \"1980s retro toy, nostalgic, playful\"\n}",
+  "description": "使用 Nano Banana Pro，将上传图像转化为复古玩具风格，轻松定制纹理，适用于室内设计、自然主题项目或怀旧产品展示，营造温馨愉悦的视觉效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "复古",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

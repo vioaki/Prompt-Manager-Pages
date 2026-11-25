@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0110",
+  "title": "重点线条勾勒",
+  "category": "gallery",
+  "prompt": "A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique",
+  "description": "使用 Nano Banana Pro 模型，创作以发光蓝色线条勾勒解剖结构的数字插画，搭配暗色背景突出细节，并以红色高光强调关键部位，适用于医学可视化、科学展示或科技设计等需要精准细节的场景。",
+  "tags": [
+    "banana",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

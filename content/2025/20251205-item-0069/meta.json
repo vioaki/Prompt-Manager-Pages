@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0069",
+  "title": "景观洞穴入口的形状",
+  "category": "gallery",
+  "prompt": "Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.",
+  "description": "使用 Nano Banana Pro 模型，轻松生成轮廓清晰的洞穴入口景观，适合概念艺术和游戏场景设计，呈现自然与几何的完美融合。",
+  "tags": [
+    "banana",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 610
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

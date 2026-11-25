@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0600",
+  "title": "姿势表",
+  "category": "gallery",
+  "prompt": "请为这幅插图创建一个姿势表，摆出各种姿势",
+  "description": "",
+  "tags": [
+    "banana",
+    "设定图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 686,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:02Z"
+}

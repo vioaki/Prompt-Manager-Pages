@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0117",
+  "title": "城市绣花贴纸照片",
+  "category": "gallery",
+  "prompt": "Create a close-up, square-format (1:1) photo of an embroidered patch inspired by the uploaded image. The design should feature a clean, cartoon-style embroidered interpretation of the original subject with rich thread texture and vibrant colors. The shape of the patch can vary (round, oval, shielded, silhouette-based), but the output image must remain square.\nIntegrate the national colors of the country represented—such as in the text, the border, or small decorative accents—drawing inspiration from the flag to enhance local identity. Add embroidered capital-letter text like the name of the city or country, either curved or straight. Use a soft off-white fabric background and natural lighting to bring out texture and depth.",
+  "description": "使用 Nano Banana Pro，将照片转化为充满活力的卡通风格绣花贴纸，为城市摄影和纸艺项目增添趣味与质感，适合定制商品、社交媒体内容或创意品牌设计。",
+  "tags": [
+    "banana",
+    "写实",
+    "手绘",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

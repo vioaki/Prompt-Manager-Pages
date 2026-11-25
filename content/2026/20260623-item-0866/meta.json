@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "20260623-item-0866",
+  "title": "你甚至不肯叫我一声教父",
+  "category": "template",
+  "prompt": "根据参考图中角色生成一张“The Godfather”经典图:8k画质;人物保持原画风;动漫风格二次元插画\r\n主体: 参考图中角色，身体微微向左侧倾斜;眼部阴影;严肃深沉的表情;直视前方的强烈目光。\r\n​服装: 黑色燕尾服、白衬衫、黑领结、左翻领上插着一朵红玫瑰胸花。\r\n​动作/姿势: 右手抬起，手指（拇指和食指）相捏，做出经典的控制手势。\r\n​风格: 风格化的电影海报、高对比度、低调摄影（Chiaroscuro）效果、经典肖像、专业工作室打光。整体金色调加深黑和红。电影诺尔（Film Noir）美学。\r\n​场景: 背景深邃黑暗，模糊，暗示老派房间，远处有百叶窗。\r\n​文字与图形 (核心): 画面中下部，大号金色文字“The Godfather”，采用独特字体。标题下方，特定的傀儡师手牵线的图形。",
+  "description": "",
+  "tags": [
+    "二次元",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1481,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-06-23T14:38:18Z"
+}

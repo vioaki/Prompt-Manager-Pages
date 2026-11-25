@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0126",
+  "title": "一个字的无限反射",
+  "category": "gallery",
+  "prompt": "A [PERSON] in a dark room with a glowing projection of the word “[WORD]” repeated endlessly across the walls and body. The text is projected in high-contrast, neon [COLOR], wrapping around the contours of the object, creating a surreal, futuristic lighting effect. The background and object are seamlessly blended into the immersive text environment. Photorealistic, sharp shadows and light distortion where the text bends over curves. Studio lighting with deep contrast, moody cyberpunk aesthetic.",
+  "description": "借助 Nano Banana Pro，在黑暗环境中打造沉浸式霓虹投影，呈现科幻感十足的未来摄影与室内设计效果，适合创作高对比度、无缝融合的视觉艺术。",
+  "tags": [
+    "banana",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

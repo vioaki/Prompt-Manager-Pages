@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0245",
+  "title": "路牌图片",
+  "category": "gallery",
+  "prompt": "Image of a billboard with the text: “Image of a billboard with the text:”",
+  "description": "Nano Banana Pro与Nano Banana Pro能生成超现实路牌视觉，通过递归文字设计打造前卫广告画面，非常适合创意机构和数字艺术装置使用。",
+  "tags": [
+    "banana",
+    "写实",
+    "梗图",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

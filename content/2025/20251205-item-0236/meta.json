@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0236",
+  "title": "定制的枕头",
+  "category": "gallery",
+  "prompt": "Create a high-resolution 3D render of the [BRAND] logo designed as an inflatable, puffy object. The logo should appear soft, rounded, and air-filled – like a plush balloon or blow-up toy. Use a smooth, matte texture with subtle fabric creases and stitching to emphasize the inflatable look. Position the logo at a 45-degree angle to highlight depth and realism. Place the final result on a couch in a stylish living room with furniture and decor that matches the iconic colors of the [BRAND] logo. Output dimension: 1080x1080.",
+  "description": "借助 Nano Banana Pro 模型，打造柔软充气的品牌标识，适用于品牌推广和室内设计项目，通过细腻纹理和立体角度呈现逼真视觉效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

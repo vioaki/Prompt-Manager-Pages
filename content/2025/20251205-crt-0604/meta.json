@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-crt-0604",
+  "title": "爬出CRT屏幕",
+  "category": "template",
+  "prompt": "主体与动作: 第一人称视角，图中人物正在从CRT显示器中爬出，上半身探出屏幕，故障扭曲。\r\n· 场景: 90年代末/千禧年桌面，Windows 98 蓝天白云壁纸，低分辨率像素图标，老旧木桌，黑色大机箱，生活气息桌面，烟灰缸。\r\n· 辅助特效: 静态噪点，数字故障，电视雪花，Windows错误弹窗（重叠出现），电脑蓝屏（闪烁），VHS录像带瑕疵。\r\n· 风格与质感: 千禧年美学，梦核，怪核，阈限空间，低饱和度，褪色，胶片颗粒，昏暗房间，诡异氛围，令人不安，怀旧，模拟恐怖，低保真。",
+  "description": "",
+  "tags": [
+    "banana",
+    "复古",
+    "次元融合",
+    "恐怖"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1575
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:02Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0222",
+  "title": "电影场景",
+  "category": "gallery",
+  "prompt": "Close-up. Overhead shot from an extremely high vantage point, extremely low grain with iso100 film shadows on a Lomo LC-A. Realistic depth of field. Artistic composition. Overall bluish tones. Beautiful light and shadows. The black floor with the projected image of the blue sky that fills the screen. A very beautiful small-faced Japanese film actress with wet showy hair in a black dress shirt sitting cross-legged on the floor. She is wearing a long red skirt. Shiny black hair. Long eyelashes. Bright skin. Beautiful shining eyes. A smiling face. On the floor next to the actress is a white model of Saturn. The picture looks like a scene from a movie.",
+  "description": "Nano Banana Pro 助您捕捉电影级画面，呈现蓝调氛围与真实景深，特别适合拍摄艺术化风景和人物特写。Nano Banana Pro 以低噪点与高角度构图，打造光影交织的视觉叙事，让每一帧都充满电影场景的魅力。",
+  "tags": [
+    "banana",
+    "写实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

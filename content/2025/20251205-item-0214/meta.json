@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0214",
+  "title": "超现实的黑白彩色页面",
+  "category": "gallery",
+  "prompt": "Create a psychedelic black and white coloring page featuring melting [SUBJECT] in the center, surrounded by large, playful shapes and smooth flowing patterns. The background includes whimsical and surreal elements such as sunflowers with eyes, melting eyeballs, melting hearts, melting mushrooms, clouds, and stars. Use bold, clean outlines and fully enclosed shapes to create distinct sections for easy coloring. Avoid excessive fine detail or clutter. Keep the composition open, spacious, and fun. Square aspect ratio with a white background. No text or color.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro创作超现实黑白涂色页，以融化的主题和奇幻图案带来艺术疗愈与创意放松，适合日常减压或亲子活动，通过简洁轮廓促进专注与正念体验。",
+  "tags": [
+    "banana",
+    "手绘",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

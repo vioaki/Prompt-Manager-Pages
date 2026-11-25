@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0334",
+  "title": "都市上空巨大的涡旋冲破暴风云层",
+  "category": "gallery",
+  "prompt": "A massive spiral vortex tears through storm clouds above a futuristic illuminated city, revealing blue sky beyond a visual metaphor for artificial general intelligence breaking through the turbulence of current limitations to reach clarity beyond human comprehension.",
+  "description": "借助 Nano Banana Pro 模型，这幅未来主义画面描绘了人工智能突破局限的壮阔场景，适合科技展示与科幻媒体，展现创新穿透混沌的视觉震撼。",
+  "tags": [
+    "banana",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 800,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0302",
+  "title": "分层剪纸插图",
+  "category": "gallery",
+  "prompt": "Layered paper-cut illustration of [subject], built with overlapping shapes in soft [color1] and [color2], handcrafted textures, subtle shadows between layers, clean vector edges, centered on a matte cream background, whimsical and modern visual storytelling.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作分层剪纸插图，以柔和的叠加色彩和清晰矢量边缘，为出版、品牌或儿童媒体打造异想天开且现代的视觉叙事。",
+  "tags": [
+    "banana",
+    "插画",
+    "手绘"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 453
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

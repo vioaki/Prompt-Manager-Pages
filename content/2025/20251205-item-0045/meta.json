@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0045",
+  "title": "无声电影场景",
+  "category": "gallery",
+  "prompt": "[SUBJECT] depicted in a Sepia-Toned Silent Film Scene, evoking the drama and expression of early cinema. Use muted [COLOR1] and [COLOR2] sepia tones to enhance the nostalgic atmosphere",
+  "description": "使用 Nano Banana Pro 模型，以复古棕褐色调重现无声电影场景，营造怀旧氛围，适合历史风景或经典摄影项目。",
+  "tags": [
+    "banana",
+    "复古",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1102,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

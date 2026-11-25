@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0517",
+  "title": "前景鞋子王座",
+  "category": "template",
+  "prompt": "以参考图角色的鞋子为主题，生成新图。角色坐在王座上，要压迫感十足，右手拄着脑袋，左手放在把手上，双腿交叉二郎腿，采用近大远小的构图和超广角视，从右往上的角度拍摄，突出鞋子在画面中的主体地位，增强空间感和视觉冲击力，角色调整姿态。角色特征（发型、配色、服饰等）与背景保持不变。",
+  "description": "输入动漫少女图片",
+  "tags": [
+    "banana",
+    "二次元",
+    "肖像"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

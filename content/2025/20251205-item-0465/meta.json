@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0465",
+  "title": "真人电影片场泄露照片",
+  "category": "gallery",
+  "prompt": "Generate leaked photo BTS from KPOP Demon Hunters live action movie set",
+  "description": "使用 Nano Banana Pro 模型捕捉真实的电影片场泄露画面，呈现逼真的电影风格，适合电影制作预览、娱乐新闻报道或打造热门社交媒体内容。",
+  "tags": [
+    "banana",
+    "写实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 756
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

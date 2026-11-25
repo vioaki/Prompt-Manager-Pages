@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0399",
+  "title": "小巧可爱的等距视角",
+  "category": "gallery",
+  "prompt": "Tiny cute isometric [CHARACTER or PRODUCT], soft lighting, soft pastel colors, 3d icon clay render, substance 3d, pastel background",
+  "description": "Nano Banana Pro 能生成小巧可爱的等距 3D 角色或产品图标，采用柔和粉彩与粘土渲染风格，适合数字艺术和产品设计，营造温馨视觉体验。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1280,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0055",
+  "title": "手工毛线纹理",
+  "category": "gallery",
+  "prompt": "Crea un render 3D fotorrealista de este logo hecho con hilo grueso y tejido a mano. El hilo debe parecer suave, esponjoso y de gran tamaño, con patrones visibles de tejido como bucles, giros y trenzas. Usa colores brillantes y saturados, estética cálida. Resalta la textura de las fibras, la suavidad del material y el acabado artesanal. Iluminación de estudio suave. Fondo blanco o crema limpio. El logo debe estar centrado y sin elementos adicionales. Cuadrado.",
+  "description": "借助 Nano Banana Pro 模型，打造柔软蓬松的手工编织毛线 3D 标志，呈现温暖创意风格，适合品牌设计或纺织行业，突出纤维纹理与明亮色彩，营造温馨视觉体验。",
+  "tags": [
+    "banana",
+    "3D",
+    "手绘",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

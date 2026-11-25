@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "20260320-item-0828",
+  "title": "足😋",
+  "category": "gallery",
+  "prompt": "根据参考图生成角色，人物身材和身体比例与参考图相同：高细节脚部特写，角色光滑细腻的脚丫，脚趾圆润灵活、尽其可能可爱和诱人，脚底心或脚趾动态呈现，散发迷人魅力。通过足部聚焦与特写，让角色细腻白皙，娇柔粉嫩的足部细节清晰可辨和仿佛触手可及。角色需露脸然后用一只手手背挡在嘴部区域，轻微脸红害羞的偏过头不直视镜头。背景和整体氛围根据参考图自行创意设计，保持甜蜜暧昧或梦幻感。 剧情设定：角色用脚丫挑逗观众，姿势和动作根据性格自由发挥（如伸向镜头）。 \r\n要求裸足所以不生成丝袜 艺术流派: 核心风格: \"日系手绘涂鸦 (Japanese Hand-drawn Doodle)\" 次级风格: \"原宿可爱风 (Kawaii) / 贴纸艺术 (Sticker Art)\" 视觉情感: \"慵懒、少女心、轻松、略带复古感\" 线条技法 (Lineart): 笔刷质感: \"模拟铅笔或炭笔 (Pencil/Charcoal style)\" 线条特征: - \"边缘粗糙，带有噪点和抖动感\" - \"非矢量平滑，保留手绘的断续和笔触压力变化\" - \"线色多为深灰或深紫，而非纯黑\" 细节处理: \"衣物褶皱和发丝使用概括性的断线表现\" 色彩与纹理 (Color & Texture): 色板: \"低饱和度马卡龙色系 (Low Saturation Pastel)\" 主色调: 使用角色身上较多的颜色作为主色调 点缀色: 使用角色身上较少的颜色作为点缀 上色方式: - \"平涂 (Flat Color) 为主\" - \"色块边缘清晰，极少使用柔和渐变\" 后期纹理: - \"半调网点 (Halftone/Screentone) 覆盖全图，增加漫画感\" - \"模拟纸张的颗粒纹理\" \r\n附加：角色设计：三无气质 - 粉色双麻花辫 + 爱心呆毛 - 短精灵耳、无框圆镜 - 淡紫色兔子发卡 同步人物表情 - 自然柔和肉腿\r\n如果有明显的敏感内容可以进行添加以下指令（(foreground sticker:1.4), (chibi head sticker covering crotch:1.5), (sticker of the same character:1.3), big sticker, thick outline, cartoon vector style sticker, funny expression sticker）",
+  "description": "（生成自己角色记得把附加词条删除）",
+  "tags": [
+    "二次元",
+    "足"
+  ],
+  "author": {
+    "name": "绯斋月子",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-03-20T19:10:15Z"
+}

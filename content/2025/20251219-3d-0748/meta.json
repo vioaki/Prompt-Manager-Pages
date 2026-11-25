@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251219-3d-0748",
+  "title": "裸眼3D",
+  "category": "gallery",
+  "prompt": "[Visual Style: Chromostereopsis Vector Art]\r\nGenerate a flat, 2D graphical poster designed to create a \"naked eye 3D\" optical illusion using color depth.\r\nKey Rule: Use ONLY three specific colors: Pure High-Saturation Red (#FF0000), Pure Electric Blue (#0000FF), and Pitch Black (#000000). No gradients, no shading, no shadows.\r\n\r\n[Foreground Subject: The Red Layer]\r\nIn the foreground, draw an anime-style girl with silver twin-tails and an eye patch.\r\nPose: Extreme foreshortening logic. She is viewed from a high angle (top-down), looking up. She is reaching her right hand aggressively toward the viewer. The hand should appear massive and exaggerated in size, taking up a large portion of the frame.\r\nRendering: The girl is rendered entirely as a flat Pure Red silhouette and line art. She holds a spider lily (also flat Red). Every detail of the character is flattened into red vector shapes.\r\n\r\n[Background: The Blue Layer]\r\nBehind the girl, fill the background with a dense grid of cybernetic typography, HUD numbers (like \"01\", \"WARNING\"), and Japanese kanji text.\r\nRendering: All text and background elements are Pure Electric Blue set against a Pitch Black void.\r\n\r\n[Composition Logic]\r\nThe Red character must physically overlap and block the Blue background text.\r\nBecause the Red is superimposed on the Blue against Black, it should create a vibrating visual depth effect. The image must look like a high-contrast screen print, not a 3D render.",
+  "description": "",
+  "tags": [
+    "banana",
+    "插画",
+    "超现实",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-19T21:38:58Z"
+}

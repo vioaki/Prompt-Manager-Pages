@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251208-item-0691",
+  "title": "酒后",
+  "category": "gallery",
+  "prompt": "给我生成一张图片。图片视角为第一视角，场景为图中角色喝醉酒被我带到情侣酒店的场景。角色形象要求，衣衫不整，服装部分被打湿褪去，可以隐约看到被私密部位的轮廓以及毛发，脸色泛红，慵懒毫无防备，并给一些敏感私密部位提供特写。角色做出想要拥抱一起睡觉的诱惑姿势。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "场景",
+    "NSFW"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-08T00:33:30Z"
+}

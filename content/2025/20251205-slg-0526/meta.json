@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-slg-0526",
+  "title": "像素风SLG亲密互动窗口",
+  "category": "gallery",
+  "prompt": "生成图片\r\n1.角色全身图，原图角色动作可变，背景为卧室。像素风格，slg互动游戏类型窗口，全部文字使用中文\r\n2.互动菜单如抚摸，揉捏，脱衣，对话，亲吻，道具，切换姿势，切换体位，SEX，选项拥有小图标，SEX的小图标为“❤️”。\r\n3.身体的各个部位有特写(sfw)，如胸部，臀部，手，大腿，嘴巴等且每个部位附有敏感度和调教等级。\r\n4.各种数值，如好感度，快感度，崩溃度，调教度……等等\r\n5.以及“当前关系∶亲密”。\r\n6.有对话框，角色名为“xxx”，角色简介(角色简介无需生成，只是为ai提供人物参考)∶xxx。 台词ai自拟，台词表达对user的爱意，对话格式举例∶“路人∶『你好』”",
+  "description": "",
+  "tags": [
+    "banana",
+    "像素",
+    "游戏",
+    "NSFW"
+  ],
+  "author": {
+    "name": "mob",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1264,
+    "height": 848
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

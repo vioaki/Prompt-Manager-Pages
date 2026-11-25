@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0033",
+  "title": "人物戏剧夸张风格",
+  "category": "gallery",
+  "prompt": "A high-resolution vertical Pixar-style 3D character illustration.\n\nMain character:  \nSalvador Dalí — depicted as a tall, slim, and slightly exaggerated Pixar-style 3D character.  \nWearing a classic blue shirt, yellow tie, high-waisted plaid trousers with suspenders, and leather shoes.  \nHis iconic long upturned mustache, slick black hair, sharply arched eyebrows, and slightly eccentric posture.  \nStands with chest out, one hand on hip, head tilted slightly back in his typical theatrical flair.\n\nBackground:  \nFlat, clean yellow background with subtle surface texture.  \nStrong sunlight from top-left casts a distinct and enlarged shadow on the wall behind him.\n\nKey Concept – Shadow as spiritual projection:  \nThe shadow cast behind him does **not** mirror his body shape.  \nInstead, it takes the form of one of his most iconic artworks —  \na surreal melted clock with long dripping arms, inspired by “The Persistence of Memory”.\n\nThe melted clock shadow is positioned diagonally, starting from his shoulder,  \nstretching wide and low across the yellow wall, surreal and fluid, yet unmistakably symbolic.\n\nThis shadow is **Dalí’s legacy made visible** — a symbolic extension of his identity through time, dream, and visual distortion.\n\nLighting & Rendering:  \nPixar-like rendering with detailed but stylized textures.  \nUse subtle filmic grain, soft shadows, and warm color grading.  \nSubtle sparkles or light speckles inside the shadow to evoke dreamlike texture.\n\nTypography (top-left corner):  \n“Salvador Dalí” in minimalist black sans-serif font, “Dalí” bolded.",
+  "description": "使用Nano Banana Pro模型创作充满戏剧张力的皮克斯风格角色插画，完美适用于动画工作室与品牌设计，通过夸张动态姿势和极简肖像突出视觉冲击力。",
+  "tags": [
+    "banana",
+    "3D",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

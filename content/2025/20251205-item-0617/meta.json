@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0617",
+  "title": "口",
+  "category": "template",
+  "prompt": "基于参考图角色（角色A），按照以下要求生成日本动漫风格图片：\r\n\r\n图像工程:\r\n  元数据:\r\n    风格: 日系动漫 (Anime/Manga)\r\n    视角: 严格侧视 (Side view)\r\n    构图: 角色位于右侧，左侧为墙壁，大量留白\r\n\r\n  人物细节:\r\n    面部特征:\r\n      - 眼睛: 表情略微痛苦，仿佛在吞咽巨大物体；眼角有泪滴\r\n    姿态:\r\n      - 蹲姿 (Crouching/Squatting)\r\n      - 侧身面向左 (Facing left)，面向墙\r\n      - 上半身微微前倾，头部微微上扬，眼睛向上看\r\n      - 手在推墙后面的挡住的物体，被遮挡\r\n      - 有一只深色男人的手从左侧墙后面伸过来拉住角色的头，该男人被墙遮挡\r\n      - 角色的半张脸被墙壁遮挡，只能看到一只眼睛，其他部位按照透视关系有些许遮挡\r\n      - 身体周围有表示轻微颤动的线条 (Vibration lines)\r\n\r\n  环境要素:\r\n    墙壁:\r\n      - 位于画面最左侧\r\n      - 米色/浅褐色\r\n      - 表面有轻微磨损纹理\r\n      - 只有一部分可见\r\n  \r\n  文字与音效提取:\r\n    左侧音效 (黑色手写墨迹风格):\r\n      - 内容: \"呲溜♡ 呲溜♡ 呲溜♡\" (Chu - 亲吻声)\r\n      - 含义: 暗示墙壁遮挡的另一侧正在发生亲吻行为",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1575
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:03Z"
+}

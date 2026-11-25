@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-2d-0174",
+  "title": "2D单词海报设计",
+  "category": "gallery",
+  "prompt": "Create a surreal 2D poster design based on the word “[KEYWORD]” — the layout should be dominated by kinetic typography where the word is visually shaped or distorted to reflect its meaning — integrate a symbolic flat minimal illustration that reinforces the concept — the style must be inspired by risograph print: only 2 bold contrasting colors (no gradients) — include a poetic, short quote that resonates emotionally with the keyword — background must be clean and minimal — composition must be vertical, with strong visual impact and artistic balance — the overall tone should feel cinematic, surreal, and graphic — ultra-sharp, high-resolution, no clutter",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松创作超现实2D单词海报，结合动态字体与简约插画，适合艺术品牌和概念设计，以鲜明色彩传递情感冲击。",
+  "tags": [
+    "banana",
+    "插画",
+    "海报",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1066,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

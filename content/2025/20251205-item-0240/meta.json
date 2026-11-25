@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0240",
+  "title": "转换马赛克风格照片",
+  "category": "gallery",
+  "prompt": "Transform this image into a refined low-poly mosaic style. Preserve the original structure and recognizable details, especially facial features and contours. Use small, high-density polygons to maintain clarity and identity while creating a crystalline, faceted look. Keep the original color palette for a harmonious and natural aesthetic. Avoid altering or adding new elements.",
+  "description": "使用 Nano Banana Pro 模型，将自然摄影照片转换为优雅的低多边形马赛克风格，保留原始细节与面部轮廓，同时呈现晶莹剔透的立体效果，适合需要精细结构完整性的数字艺术创作。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0658",
+  "title": "舰队收藏",
+  "category": "gallery",
+  "prompt": "8K超高清画质，真实照片风格，手机拍摄效果，极致清晰细节，斜向视角，在一个金色主题装饰的KTV包厢内，5位女性COSPLAY站立在房间中站成一排，她们COS的角色为《舰队收藏》中的角色，从左到右分别是：长门、岛风、加贺、金刚、爱宕、时雨、夕立，5名少女身着各自的角色服装，身材性感，体态妖娆，她们的身前有KTV矮桌，桌上放有大杯的啤酒和果盘，画面外有一支手指向少女，背景画面清晰，能看到KTV包厢的整体装饰，整体色调为暖色调，光影柔和，具有浪漫主义风格，高分辨率，写实渲染，电影般的视觉效果",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1370,
+    "height": 765
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T21:02:33Z"
+}

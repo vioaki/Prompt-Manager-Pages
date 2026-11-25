@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0073",
+  "title": "可爱干净的底座立体模型",
+  "category": "gallery",
+  "prompt": "Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Character B], captured in a [scene/action], inside a [thematic display case shape] with [material]. The background features [visual effects: debris, aura, lightning, scenery], dynamic pose. The title \"[custom phrase]\" is embossed at the top in [font/style], matching the tone. Lighting is [studio, cinematic, ambient], color palette of [main colors]. Designed in a collectible, stylized, viral-friendly aesthetic.",
+  "description": "使用 Nano Banana Pro，轻松打造可爱干净的底座立体模型，呈现高度精细的 3D 渲染 Q 版角色场景，适合玩具设计师和数字艺术家创作动态姿势与电影级光照的收藏级作品。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1094,
+    "height": 604
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0036",
+  "title": "捷克木偶风格",
+  "category": "gallery",
+  "prompt": "Hand-Carved Wooden Puppet (Czech Marionette Style)\n\nA hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs, painted details, and a slightly eerie antique finish. Showcase theatrical posture, stage lighting, and cultural craftsmanship in the styling.",
+  "description": "使用 Nano Banana Pro 模型，打造捷克木偶风格的手工雕刻车辆，呈现精致的关节细节与复古质感，适合舞台展示、文化展览或独特收藏，结合戏剧性姿态与舞台灯光，凸显传统工艺魅力。",
+  "tags": [
+    "banana",
+    "手绘",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1088,
+    "height": 600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

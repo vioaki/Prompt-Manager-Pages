@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0070",
+  "title": "超现实主义油画",
+  "category": "gallery",
+  "prompt": "A surreal oil painting of a [subject], executed in the style of early 20th-century dreamscapes. Melting shapes, floating forms, and swirling [color1] and [color2] brushstrokes create a dreamlike dissonance.",
+  "description": "使用 Nano Banana Pro 创作超现实主义油画，融合20世纪初梦幻场景与流动形态，为艺术项目或数字媒体生成梦幻般的视觉效果，适合创意产业。尝试使用对比色调如 [color1] 和 [color2] 来增强超现实感。",
+  "tags": [
+    "banana",
+    "手绘",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1096,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0244",
+  "title": "一张铅笔素描",
+  "category": "gallery",
+  "prompt": "A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose",
+  "description": "Nano Banana Pro 模型专为打造动态漫画角色艺术而生，适用于纹身设计和纸艺项目，能生成高对比度铅笔素描，在深色背景上突出元素效果和强烈阴影。",
+  "tags": [
+    "banana",
+    "手绘",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

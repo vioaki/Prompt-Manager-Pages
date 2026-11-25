@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0042",
+  "title": "附魔粒子泛光",
+  "category": "gallery",
+  "prompt": "[SUBJECT] surrounded by an Enchanted Particle Bloom, with particles resembling magical flower petals or leaves. Employ soft, enchanting hues of [COLOR1] and [COLOR2] to create a sense of natural magic.",
+  "description": "使用 Nano Banana Pro 创作附魔粒子泛光效果，以柔和迷人的色调营造自然魔法氛围，适用于奇幻艺术、数字插画或需要梦幻感的品牌设计。",
+  "tags": [
+    "banana",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

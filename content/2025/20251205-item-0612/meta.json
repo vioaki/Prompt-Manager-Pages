@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0612",
+  "title": "青春遗憾照片墙",
+  "category": "template",
+  "prompt": "制作一面照片墙，参考图片中的角色和场景，都是这个角色在同个场景下（场景不需要完全固定，只要表达式在这个场所内就可以），不同角度，姿势，表情的照片，整体有叙事感，有开心有失落，像动画里的闪回画面，充满青春感和遗憾，保持角色特征画风，包括头饰",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "复古",
+    "壁纸"
+  ],
+  "author": {
+    "name": "江小津",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 883
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251209-item-0704",
+  "title": "恋の抑制力",
+  "category": "gallery",
+  "prompt": "景别控制 (Shot Focus): 肖像特写 (Close-up Portrait)，仅展示从胸部、肩部到头部 (Show only chest, shoulders, and head)，半身像 (Bust Shot)。\r\n\r\n风格： 新川洋司艺术风格 (Yoji Shinkawa Art Style)，《合金装备》概念艺术 (Metal Gear Solid Concept Art)，高精度素描 (Highly Detailed Sketch)。\r\n\r\n技法： 使用粗犷、有力的黑色墨线勾勒 (Strong, Powerful Black Ink Lineart)，纯粹的水墨画技法 (Pure Ink Wash Technique)。\r\n\r\n色彩： 黑白或灰阶的高对比度 (Black and White / Grayscale High Contrast)，偶尔点缀少量血红色 (Sparse Blood Red Accent) 或脏污的战术色 (Gritty Tactical Tones)。\r\n\r\n质感： 笔触需精准、有力 (Precise and Energetic Strokes)，背景带有泼溅的墨迹 (Ink Splatters) 和粗糙的纸张纹理 (Rough Paper Texture)。\r\n\r\n主体与融合： 基于上传图片中的人物的形象（保留其原有面部特征和发型），将其面部表情调整为忧伤 (Melancholic / Sorrowful)。\r\n\r\n姿势与手势：\r\n\r\n视线： 该人物的目光看向别处 (Gazing Away)，带有沉思或不安 (Pensive or Uneasy) 的情绪。\r\n\r\n手势： （如果手部在画面内）一只手做出V字手势 (V-sign / Peace Sign)，手靠在脸部附近，手部线条应锐利且具力量感。\r\n\r\n着装： 帕兹·奥尔特加·安德拉德 (Paz Ortega Andrade) 的标志性校服。\r\n\r\n上半身细节： 深蓝色 (Navy Blue) 的西装外套 (Blazer)，内搭白色衬衫 (White Shirt)，以及红色细绳蝴蝶结 (Red String Bow Tie / Ribbon)。所有服装的褶皱和阴影通过浓重的黑色墨线和水墨晕染来表达，强调层次感和对比度。",
+  "description": "",
+  "tags": [
+    "banana",
+    "手绘",
+    "肖像",
+    "游戏"
+  ],
+  "author": {
+    "name": "羊驼哥",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-09T00:19:06Z"
+}

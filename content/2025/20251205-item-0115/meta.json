@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0115",
+  "title": "动漫机甲风格化机械设计图",
+  "category": "gallery",
+  "prompt": "Transform this image into a stylized mechanical design sheet inspired by Japanese anime mecha blueprints.\nRender the subject with precise, clean linework and semi-realistic cel-shading, as if it were a technical illustration from an anime artbook.\nBreak down the design into parts (e.g. head, hand, accessory, full body) and arrange them like a reference sheet, with different angles and views.\nInclude soft handwritten notes or Japanese characters scattered like concept annotations.\nUse muted digital colors (red, gray, metallic tones) and draw the background in a loose watercolor anime landscape style — cliffs, cityscapes, or grassland ruins.\nThe final composition should feel like an official design page for an animated sci-fi series or manga.\nKeep the format horizontal, like a blueprint or character sheet, with a balance between precision and artistic flair.",
+  "description": "使用 Nano Banana Pro 模型，轻松生成动漫机甲风格的机械设计图，以精准线条和半写实赛璐珞着色打造科幻概念艺术，适用于游戏角色设计或未来主义插画场景。",
+  "tags": [
+    "banana",
+    "二次元",
+    "信息图",
+    "设定图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

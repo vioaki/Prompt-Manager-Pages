@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251210-smooth-criminal-0714",
+  "title": "Smooth criminal",
+  "category": "gallery",
+  "prompt": "横纵比 (Aspect Ratio): 3:4 或 4:5 (纵向构图，强调舞步的垂直感)\r\n\r\n景别控制 (Shot Focus): 全景或中景全景 (Full Shot or Medium Full Shot)，以捕捉完整的舞步和姿态。\r\n\r\n 核心要求： 电影级写实，动态捕捉 (Cinematic Photorealism, Dynamic Capture)。将上传图片中的动漫女孩形象转化为真人 Cosplay（东亚人面孔），并精确复刻 MJ 在《犯罪高手》中的 45°倾斜舞步 (Exactly replicate MJ's 45-degree Anti-Gravity Lean from Smooth Criminal)。\r\n\r\n主体人物与动作（MJ 舞步精髓）：\r\n\r\n人物形象： 上传图片中的动漫女孩的真人 Cosplay 版，强调东亚人特征 (East Asian features)，相貌清秀且充满活力 (Delicate and energetic appearance)。\r\n\r\n服装（强制替换）： 强制要求女孩穿着 MJ 在《犯罪高手》中的经典服装 (Mandatory requirement for the girl to wear MJ's classic Smooth Criminal outfit)：白色西装、蓝色条纹衬衫、白色领带和白色费多拉帽 (White suit, blue striped shirt, white tie, and white fedora hat)。服装必须具有高写实度的布料纹理和光泽感 (High-fidelity fabric texture and sheen)。\r\n\r\n舞步动作： 人物身体以精确的 45°角向前方倾斜，身体笔直且紧张 (Body straight and rigid)，双脚保持与地面接触 (Feet maintaining contact with the ground)。动作充满优雅和反物理学的张力 (Elegance and anti-gravity tension)。\r\n\r\n发型： 尽管穿着 MJ 的服装，发型仍需还原上传图片中动漫女孩的发型 (Replicate the anime girl's hairstyle)，并佩戴在帽子之下或旁边，作为 Cosplay 形象的一部分。\r\n\r\n环境与氛围（突出动作）：\r\n\r\n背景： 舞台聚光灯或简洁的背景 (Stage spotlight or minimalist background)，例如：复古俱乐部舞台或空旷的灰色摄影棚 (Vintage club stage or empty grey studio)。背景应模糊以突出动作。\r\n\r\n光线： 戏剧性的舞台追光 (Dramatic stage spotlighting)，强烈的对比度和清晰的阴影，强调舞步的锐利感。",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "梗图"
+  ],
+  "author": {
+    "name": "羊驼哥",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1289,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-10T00:10:18Z"
+}

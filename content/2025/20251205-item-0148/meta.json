@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0148",
+  "title": "乙烯基玩具",
+  "category": "gallery",
+  "prompt": "A comic-style caricature illustration of [subject], with an oversized head and expressive eyes, rendered in a hyper-realistic vinyl toy aesthetic. The character features exaggerated proportions, glossy textures, and playful details, blending caricature art with collectible figure charm.",
+  "description": "使用 Nano Banana Pro 模型，轻松打造充满活力的乙烯基玩具角色，融合漫画风格与超逼真收藏美学，适用于角色设计、商品开发和娱乐行业的创意插画。",
+  "tags": [
+    "banana",
+    "Q版",
+    "手办化",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

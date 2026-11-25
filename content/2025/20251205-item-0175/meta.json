@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0175",
+  "title": "生物发光",
+  "category": "gallery",
+  "prompt": "[SUBJECT] depicted as a Mythical Creature Luminescence, with glowing edges that accentuate the fantastical and legendary aspects. Utilize [COLOR1] and [COLOR2] to enhance the mythical and enchanting qualities.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作出带有发光边缘的奇幻生物插画，非常适合图书封面和游戏素材，突出神话动物的迷人光芒与传奇氛围。",
+  "tags": [
+    "banana",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

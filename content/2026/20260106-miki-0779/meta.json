@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20260106-miki-0779",
+  "title": "Miki吊在空中",
+  "category": "gallery",
+  "prompt": "提取图1，2中少女，为她生成一张同人图。\r\n角色为二次元设定角色，整体呈现为高真实度半写实渲染，\r\n融合真实摄影光影逻辑与部分 3D 皮肤体积质感，\r\n但严格保持动漫角色的面部结构与比例，不是真人、不是 3D 模型。\r\n皮肤呈现轻微病态感的苍白。\r\n\r\n【动作 / 姿态】\r\n\r\n少女直接悬吊在空中，无任何可见地面或房间结构。\r\n身体被一根自上方延伸而下的绳索悬挂，\r\n绳索在颈部位置形成绞结式悬吊结构，仅作为象征构图存在。\r\n四肢自然下垂，完全放松，\r\n身体呈现出轻微失重状态，没有挣扎、没有对抗。\r\n\r\n【绳索与花】\r\n\r\n绳索上缠绕并盛开大量雏菊：\r\n白色花瓣、黄色花蕊，状态新鲜干净，\r\n雏菊为偏真实摄影质感，具有自然花瓣厚度与细微瑕疵。\r\n少女手中轻轻握着一朵雏菊，花瓣完整。\r\n\r\n【表情与面部】\r\n\r\n少女眼神空洞、失焦，没有明确注视点。\r\n表情平静、麻木。眼角流下几滴泪珠\r\n脸部略微不可见，使用中等强度数字故障（glitch）效果作为风格点缀：\r\n横向像素错位、细条状噪点、极轻微色偏，\r\n仅覆盖面部局部，不破坏二次元面部结构。\r\n角色脸上必须保留创可贴，头上佩戴发卡。\r\n\r\n【风格与真实感核心（重点）】\r\n\r\nanime character with semi-realistic rendering\r\nphysically-based skin shading\r\nsubtle subsurface scattering (SSS)\r\nmicro skin texture (very subtle, not pores-heavy)\r\nnatural skin translucency at edges\r\nsoft light penetration through skin\r\nrealistic shadow depth on face and neck\r\n\r\n强调：\r\n\r\nnot live-action\r\nnot 真人照片\r\nnot 3D character model\r\nnot game asset\r\n\r\n衣物：\r\n\r\nreal fabric folds influenced by gravity\r\nvisible fabric thickness and weight\r\ncloth fiber suggestion, not hyper-detail\r\nno artificial shine, no plastic reflection\r\n移除长裤，改为光腿，上衣略微延长以遮挡任何内裤位置。\r\n\r\n【镜头与构图】\r\n\r\n镜头保持完全水平的平视角度。\r\n摄影机位于少女正前方，与上半身高度齐平。\r\n少女位于画面中心，占据画面绝大部分区域。小腿位于画面外\r\n\r\n【背景与空间】\r\n\r\n背景是略带真实照片风格的日本城市夜景，楼房大部分不超过10层的高度，使大部分灯光为暖色系，同时楼上有红色航标障碍灯，有平行的现代感Lensflare and bokeh。城市中有少量烟花，烟花类似火树银花，发出闪亮的橙红色光芒，天空冷色调，处于夜晚23点的天空，还能看见远处微微的蓝光但是大部分已是黑色\r\n背景强烈虚化，仅作为深度与氛围存在，\r\n空间感通过光影与景深暗示，而非实体环境。\r\n\r\n【光影与摄影感】\r\n\r\n冷色调（蓝灰、白），低饱和。\r\n高对比度但柔和过渡的电影级光影。\r\nrealistic camera exposure behavior\r\nshallow depth of field\r\nsubtle lens imperfections\r\nslight chromatic aberration\r\ncinematic light falloff\r\n后期加入胶片颗粒感，削弱数码锐利度。\r\nwide shot, cinematic perspective, shallow depth of field, realistic lighting\r\n\r\n【核心质量】\r\n\r\n((杰作)), ((最佳质量)), ((极致细节)), ((高分辨率))\r\n(masterpiece), (best quality),\r\n(anime character with photographic realism),\r\n(semi-realistic anime),\r\n(cold color palette)\r\n\r\n【Negative Prompt（非常重要）】\r\n\r\n(real person), (photorealistic human face),\r\n(3D model), (Unreal Engine), (game character),\r\n(plastic skin), (doll-like),\r\n(overly stylized anime), (flat shading),\r\n(chibi), (comic lineart),\r\n(extra limbs), (bad anatomy),\r\n(low quality), (simple texture), (bad reflection)",
+  "description": "得自己加参考图。\r\n我在用 Labnana 生成 AI 图片，效果还不错，分享给你试试～\r\n通过我的邀请链接注册，你也可以直接体验：\r\n👉 http://labnana.com?aff=73a295cf34a24453",
+  "tags": [
+    "banana",
+    "二次元",
+    "超现实",
+    "壁纸"
+  ],
+  "author": {
+    "name": "Miki",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2026-01-06T00:37:16Z"
+}

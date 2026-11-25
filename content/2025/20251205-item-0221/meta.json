@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0221",
+  "title": "时尚的胶囊海报",
+  "category": "gallery",
+  "prompt": "Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a horizontal tablet-capsule hovering above a surface covered in condensation and water droplets, with its shadow cast on the wet ground. One side of the capsule is transparent glass, while the other is glossy [COLOR/DESIGN] plastic, displaying the [BRAND] logo and name. Seamlessly floating inside the glass portion of the capsule is a photorealistic 3D model of the [LOGO], perfectly centered and suspended in zero gravity. The glass and plastic surfaces showcase strong reflections, refractions, and environmental distortions. The background is a softly blurred, elegant light-toned setting. Use a dynamic perspective with a stylish camera angle, professional studio lighting, and ultra-high detail to make the image look like a DSLR-captured photograph with impeccable realism.",
+  "description": "借助 Nano Banana Pro 模型，打造超写实风格的胶囊海报，适用于品牌宣传、摄影展示和景观主题营销，通过光泽色彩与冷凝效果增强视觉真实感。",
+  "tags": [
+    "banana",
+    "写实",
+    "微缩",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

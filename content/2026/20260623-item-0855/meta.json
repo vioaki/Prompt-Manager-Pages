@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20260623-item-0855",
+  "title": "灰卡纸",
+  "category": "template",
+  "prompt": "将背景替换为暗冷灰卡纸，仅绘制保留图中角色45度正侧脸和上半身，其他地方一笔概括，整体改为简笔速写大写写意风格，用流畅极简线条勾勒造型，自由挥洒狂草肆意，无明暗层次大量留白，侧逆光效果，受光处自带闪＊颜色颜色颜色＊且自发光有强烈辉光，明暗对比强烈。",
+  "description": "",
+  "tags": [
+    "二次元",
+    "手绘",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 594,
+    "height": 334
+  },
+  "refs": [],
+  "createdAt": "2026-06-23T14:21:48Z"
+}

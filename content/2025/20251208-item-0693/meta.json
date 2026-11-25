@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251208-item-0693",
+  "title": "举牌子",
+  "category": "gallery",
+  "prompt": "人物的动作是一副很害羞的样子，脸红红的不敢看镜头，双手紧紧握住木牌的木柄微微举起，整体还是要可爱风格\r\n画风是日系动漫风\r\n纯白色背景，内容主要呈现上半身和木牌内容，可以不显示全身\r\n木牌内容是：使用我的人设跑图的大佬…如果你们跑的是那种超变态的图…可以公开吗…",
+  "description": "需要一张提供图作为人物图",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "韵诺（搬运）",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-08T10:08:07Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0440",
+  "title": "将漫画人物融入你的真人照片",
+  "category": "gallery",
+  "prompt": "A photograph of a crowded subway train in Tokyo, hyper-realistic style. Sitting on one of the seats is a 2D black-and-white manga illustration of a tired samurai. The character is drawn with clean ink lines and cross-hatching shading. The lighting from the subway car hits the 2D drawing correctly, creating realistic highlights on the ink. The character holds a real photographic soda can, blending the 2D and 3D worlds. 4k, cinematic composition.",
+  "description": "使用 Nano Banana Pro 模型，将你的真人照片与动漫风格角色完美融合，适合打造独特的社交媒体内容、个性化头像或娱乐设计中的艺术项目。清晰的肖像和生动的提示词能带来最佳融合效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "次元融合",
+    "漫画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 670
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

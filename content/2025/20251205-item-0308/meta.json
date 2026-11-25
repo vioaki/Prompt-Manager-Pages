@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0308",
+  "title": "品牌工作室照片",
+  "category": "gallery",
+  "prompt": "[CHARACTER] sitting centered on an oversized puffy lounge sofa in [SOFA_COLOR], relaxed pose with one hand under chin, full-body. Clean white seamless studio, premium fashion-editorial lighting, hyper-real, minimal. Big spray-paint graffiti on the back wall reading “[TEXT]” with soft overspray and slight drips. 85mm look, crisp details, no clutter, no watermark. --ar 3:4",
+  "description": "使用Nano Banana Pro或Nano Banana Pro拍摄极简品牌肖像，在无缝工作室中以时尚沙发为背景，呈现超现实人物与艺术涂鸦的融合，适合时尚编辑和品牌形象项目，打造清晰无杂质的专业影像。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0332",
+  "title": "一幅如梦似幻的私密肖像照",
+  "category": "gallery",
+  "prompt": "a dreamy intimate portrait of a beautiful realistic asian woman lying under a blanket, soft natural light, cozy warm bedroom, cinematic film grain, 35mm film aesthetic, shallow depth of field, soft focus, delicate skin texture, natural makeup, slightly messy hair, Fujifilm Pro 400H look, pastel warm tones, realistic lighting, subtle haze, gentle atmosphere, by Petra Collins and Ren Hang --ar 3:4 --v7 --style raw",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，轻松创作如梦似幻的私密肖像，结合柔和自然光与电影胶片美学，完美适用于人像摄影和温馨室内场景，呈现细腻肤质与温暖氛围。",
+  "tags": [
+    "banana",
+    "写实",
+    "复古",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 930,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

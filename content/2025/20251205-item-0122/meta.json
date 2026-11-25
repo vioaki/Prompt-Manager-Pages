@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0122",
+  "title": "磨砂模糊剪影",
+  "category": "gallery",
+  "prompt": "A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere",
+  "description": "使用 Nano Banana Pro 拍摄磨砂模糊剪影，打造神秘的黑白肖像艺术，适合创意人像和时尚摄影，增强情感深度与视觉冲击。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

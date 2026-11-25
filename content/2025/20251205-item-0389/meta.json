@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0389",
+  "title": "和索尼克马里奥在一起合照",
+  "category": "gallery",
+  "prompt": "Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto a (Sonic y Mario). Ambientado en una sala de estar pequeña y luminosa con tonos blancos. Ángulo de cámara alto. Distorsión extrema de ojo de pez. Iluminación realista y cinematográfica. Personajes de anime integrados con realismo estilizado.",
+  "description": "使用 Nano Banana Pro 拍摄，轻松实现超逼真鱼眼自拍，与索尼克和马里奥在明亮客厅中合影，带来电影级光影和风格化写实效果，适合人像与风景场景。",
+  "tags": [
+    "banana",
+    "肖像",
+    "次元融合",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

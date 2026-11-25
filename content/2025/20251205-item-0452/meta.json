@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0452",
+  "title": "文字生成精美的杂志文章的照片",
+  "category": "gallery",
+  "prompt": "Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]",
+  "description": "借助 Nano Banana Pro，将文字转化为精美的杂志风格图片，轻松打造专业排版与鲜明视觉，是出版、营销和编辑项目的理想选择。",
+  "tags": [
+    "banana",
+    "写实",
+    "海报",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 896
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

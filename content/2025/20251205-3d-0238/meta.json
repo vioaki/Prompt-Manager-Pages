@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0238",
+  "title": "有趣的块状 3D 世界",
+  "category": "gallery",
+  "prompt": "Retexture the image attached based on the JSON below\n{\n  \"style_name\": \"Playful Chunky 3D Aesthetic\",\n  \"retexture_mode\": \"stylized_3d_overlay\",\n  \"object_analysis\": {\n    \"preserve_silhouette\": true,\n    \"geometry_sensitive_mapping\": true,\n    \"detail_retention\": \"moderate — focus on key forms and proportions\"\n  },\n  \"material_properties\": {\n    \"base_material\": [\"soft matte plastic\", \"rubbery polymer\"],\n    \"surface_details\": [\n      \"rounded edges and inflated volumes\",\n      \"smooth, toy-like finish\",\n      \"minimal seam lines\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"studio diffused light\",\n    \"intensity\": \"medium\",\n    \"shadows\": \"soft base shadows\",\n    \"highlight_behavior\": \"gentle gloss on curves and raised surfaces\"\n  },\n  \"color_palette\": {\n    \"dominant_colors\": [\"#f6f6f6\", \"#3a3a3a\", \"#f05423\"],\n    \"accent_colors\": [\"#ff875d\", \"#b0b0b0\", \"#f3f3f3\"]\n  },\n  \"background\": {\n    \"color\": \"#f9f9f9\",\n    \"type\": \"solid\",\n    \"texture\": \"none\"\n  },\n  \"style_tags\": [\n    \"3D cartoon realism\",\n    \"UI icon pack aesthetic\",\n    \"inflated minimalism\",\n    \"soft tech look\",\n    \"playful volume modeling\"\n  ]\n}",
+  "description": "使用 Nano Banana Pro 模型，为您的图像添加有趣的块状 3D 美学，打造简约卡通风格，适用于玩具设计、UI 元素和车辆概念，赋予柔和的哑光纹理和圆润体积感。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1118,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

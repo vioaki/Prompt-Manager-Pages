@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0436",
+  "title": "自由女神像建筑蓝图",
+  "category": "gallery",
+  "prompt": "A photorealistic wide-angle landscape shot of the Statue of Liberty with the New York City skyline and harbor in the background. Superimposed on the scene is a white, hand-drawn augmented reality technical overlay. Features include: 1. Sketchy white leader lines pointing to key details like the \"Torch,\" \"Crown Rays,\" and \"Copper Shell\" with handwritten text labels. 2. Large dimensional vertical measurement arrows indicating the total height from ground to torch. 3. Small floating wireframe icons showing wind load data and material composition. Aesthetic: Structural engineering analysis, F1 broadcast graphics style, bright outdoor daylight, architectural blueprint overlay.",
+  "description": "借助 Nano Banana Pro 模型，精准绘制自由女神像等建筑蓝图，适用于工程制图、历史保护与教学展示，呈现清晰可扩展的设计效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "手绘",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 670
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

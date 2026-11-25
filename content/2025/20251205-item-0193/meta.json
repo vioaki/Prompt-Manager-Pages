@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0193",
+  "title": "数字粘土雕塑",
+  "category": "gallery",
+  "prompt": "A digital clay sculpture of a [subject], captured in a [pose/action], resting on a minimalist [color] plinth etched with organic swirl patterns. The sculpt features smooth, flowing curves and a tactile finish, rendered in a refined [color palette] that evokes a soft, contemporary aesthetic.",
+  "description": "借助 Nano Banana Pro 模型，轻松创作极简数字粘土雕塑，流畅曲线与触感表面结合有机蚀刻基座，适用于当代艺术装置、产品设计可视化或建筑演示，呈现柔和现代美学。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

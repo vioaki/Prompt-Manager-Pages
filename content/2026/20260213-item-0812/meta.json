@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260213-item-0812",
+  "title": "推倒",
+  "category": "template",
+  "prompt": "替换图1角色为图2角色，与图1动作一致、表情一致，100%保留图2角色的发型、发色、眼睛颜色、服饰、头饰。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "奶龙皇",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2026-02-13T11:14:54Z"
+}

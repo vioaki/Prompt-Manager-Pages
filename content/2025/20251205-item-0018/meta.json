@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0018",
+  "title": "透明塑料袋装物体",
+  "category": "gallery",
+  "prompt": "A high-resolution photograph of a clear plastic drawstring bag placed on a light gray background. Inside the bag are multiple tiny 3D [subject] figures arranged neatly. The bag is tied with a soft white ribbon and has a black label tag that reads ‘[LABEL TEXT]’. Soft lighting and clean shadows emphasize the realistic textures and details",
+  "description": "Nano Banana Pro助您轻松拍摄高分辨率产品图，透明塑料袋搭配精致3D模型在柔和光影中尽显细节，完美适用于电商展示与创意营销。",
+  "tags": [
+    "banana",
+    "写实",
+    "3D",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

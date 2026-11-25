@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251208-item-0690",
+  "title": "网友见面",
+  "category": "template",
+  "prompt": "生成一张第一人称视角的写实风格照片，表现出“期望与现实”的迷因对比。不要出现文字。\r\n\r\n核心要求：手机屏幕内必须展示一张极其写实的真人cosplay照片，严禁生成任何二次元、动漫或绘画风格的图像。\r\n\r\n前景中，一只手拿着智能手机，屏幕上显示着角色1（基于参考图的中国真人coser）：体型偏胖，脸部也不好看。并非拍照页面。\r\n\r\n在清晰的现实背景中，地点可以是饭店或者广场，正对着观众站着角色2（基于参考图的中国真人coser）：脸比手机图更漂亮可爱，身材更偏向萝莉体型。表现出和手机图片的身高差距。\r\n\r\n整体光照与环境需严格基于现实物理世界。",
+  "description": "替换下提示词就可以人物互换了。",
+  "tags": [
+    "banana",
+    "cosplay",
+    "梗图"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1074,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-08T00:28:31Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0023",
+  "title": "按键删除周一",
+  "category": "gallery",
+  "prompt": "Detailed photographic image of a miniature person in bed feeling cranky under an opened 'Delete Monday' keyboard keycap, using the inside of the keycap as a mini bedroom complete with the usual bedroom stuff",
+  "description": "用Nano Banana Pro捕捉“按键删除周一”的创意微缩场景，将迷你卧室置于键帽之下，生动展现烦躁情绪，适合广告与艺术项目，传递共鸣情感。",
+  "tags": [
+    "banana",
+    "写实",
+    "微缩"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

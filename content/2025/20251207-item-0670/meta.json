@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0670",
+  "title": "免费摸胸",
+  "category": "gallery",
+  "prompt": "生成一张手机拍摄的图片。完全的真实照片画面。\r\n场景：参考人物举着牌子到头顶上面写字免费摸胸，参考人物的旁边有个男性的手抓着她的胸部，周围都是男性面带微笑，其中有个男性在用手机拍照这一画面。参考人物的正面视角，表情微笑。             将参考图中女孩们转化成真人风格cosplay，角色100%不变，服饰不变，体型不变",
+  "description": "不好出",
+  "tags": [
+    "banana",
+    "cosplay",
+    "NSFW"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-07T03:00:16Z"
+}

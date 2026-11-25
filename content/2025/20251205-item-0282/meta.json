@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0282",
+  "title": "Q版木雕人偶",
+  "category": "gallery",
+  "prompt": "Hyper-realistic carved wooden figurine of [CHARACTER], chibi proportions (big head, short body), standing on a plain wood block. Keep key face traits and iconic [OUTFIT/PROP]. Visible wood grain and chisel marks, matte finish. Warm studio light, soft shadow, seamless beige background. Centered full-body, slight 3/4 angle, shallow depth of field (85mm look). Ultra-detailed, photoreal, warm sepia grading. Aspect ratio [3:4].",
+  "description": "使用 Nano Banana Pro 模型，轻松生成超写实 Q 版木雕人偶，温暖复古的棕褐色调风格，适合品牌设计、肖像摄影和玩具收藏，展现细腻木纹与精致细节。",
+  "tags": [
+    "banana",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

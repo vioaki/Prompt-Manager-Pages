@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0296",
+  "title": "制作证件照",
+  "category": "gallery",
+  "prompt": "截取图片人像头部，帮我做成2寸证件照，要求:\n1、蓝底\n2、职业正装\n3、正脸\n4、微笑",
+  "description": "使用 Nano Banana Pro 模型，轻松制作专业证件照，提供蓝底正装正脸微笑效果，适合职场、学术或官方文件需求，展现自信得体的形象。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251210-item-0716",
+  "title": "一！瞬！千！击！",
+  "category": "gallery",
+  "prompt": "横纵比 (Aspect Ratio): 16:9 (上半身特写肖像比例)\r\n\r\n景别控制 (Shot Focus): 胸部以上特写 (Upper-Body Close-up)，从略低的仰视角度拍摄，最大化压迫感。\r\n\r\n‼️ 核心要求： SF6 风格 3D 渲染，肌肉/气势极限克隆 (SF6 3D Style, Extreme Muscle/Aura Clone)。将上传图片中的动漫女孩形象以高质量 3D 模型渲染，并精确复刻豪鬼的收招姿态和压迫感。\r\n\r\n主体人物与特征（SF6 终极克隆）：\r\n\r\n人物形象/体型（关键）： 上传图片中的动漫女孩，必须拥有豪鬼般极度壮硕的肌肉体型 (Muscular and bulky physique like Akuma)。以**《街头霸王 6》角色模型的厚重质感 (Heavy SF6 character model texture)** 处理。\r\n\r\n服装/发型： 精确保留和还原上传图片中动漫女孩的发型和服装 (Accurately retain and replicate the anime girl's hairstyle and outfit)。\r\n\r\n核心符号（背部）： 女孩背部皮肤或服装上有巨大、燃烧的红色汉字“天” (Giant, burning red Chinese character \"天\" on her back)。\r\n\r\n姿势/气势： 呈背对观众的姿态 (Back facing the viewer)，上半身充满极致的威压感 (Utmost sense of intimidation)。\r\n\r\n背景与光影：\r\n\r\n光影： 采用极端高对比度的 SF6 战斗光线 (Extreme high-contrast SF6 battle lighting)。光线主要来自背部的“天”字，使人物身体处于深沉阴影之中 (Deep shadow)。\r\n\r\n环境： 纯粹的黑色背景 (Pure black background)，周围围绕着爆炸性的红色气场或墨迹 (Explosive red aura or ink strokes)。\r\n\r\n风格与质感：\r\n\r\n风格： 《街头霸王 6》的街头风格、写实 3D 渲染 (Street Fighter 6 street style, realistic 3D rendering)。",
+  "description": "",
+  "tags": [
+    "banana",
+    "3D",
+    "肖像",
+    "游戏"
+  ],
+  "author": {
+    "name": "羊驼哥",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2025-12-10T03:48:30Z"
+}

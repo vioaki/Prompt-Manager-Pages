@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0368",
+  "title": "身穿一件宽松的白色衬衫肖像照",
+  "category": "gallery",
+  "prompt": "Create a black and white high-fashion editorial portrait of me, keeping my real face exactly as in the reference photo (no edits, same features, no retouching). I am wearing a loose white blouse. My pose is bold and expressive, with one arm raised to hold my hair up, partially covering my face. My gaze is intense and directed at the camera, creating a strong and enigmatic aura. The background is a plain minimalist wall with sharp natural daylight casting defined shadows, adding depth and contrast.\nLighting is harsh and high-contrast, highlighting my facial contours, sharp cheekbones, and the texture of the hair and fabric. The style should feel raw, dramatic, and artistic.\nThe overall image is high-fashion editorial in monochrome, cinematic, and striking.",
+  "description": "使用 Nano Banana Pro 拍摄黑白极简肖像，捕捉大胆姿态与深邃眼神，适合时尚品牌或艺术创作，营造强烈而神秘的叙事氛围。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 600,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

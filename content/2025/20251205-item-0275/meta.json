@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0275",
+  "title": "俏皮现代的应用程序图标设计",
+  "category": "gallery",
+  "prompt": "A playful and modern app icon design of a cute coffee cup character with a winking eye and smiling mouth, red-orange flame-like hair on top, minimal flat vector style, glossy highlights, soft shadows, centered composition, high contrast, vibrant colors, rounded corners, on a transparent background, icon-friendly, no text, no details outside the frame, size is 1024x1024.",
+  "description": "借助 Nano Banana Pro 模型，打造俏皮现代的应用程序图标，以极简角色设计和生动扁平矢量风格，适用于餐饮或生活类应用，提升用户互动体验。",
+  "tags": [
+    "banana",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1118,
+    "height": 624
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

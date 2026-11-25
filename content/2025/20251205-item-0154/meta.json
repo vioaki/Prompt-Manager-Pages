@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0154",
+  "title": "作为家具的著名地标",
+  "category": "gallery",
+  "prompt": "The [LANDMARK - Statue of Liberty/Eiffel Tower/Big Ben] perfectly carved and functional as a [FURNITURE_PIECE - lamp/bookshelf/coffee table], living room setting, normal scale furniture, photorealistic detail.",
+  "description": "Nano Banana Pro 将自由女神像等著名地标转化为功能家具，如台灯或书架，在客厅中呈现逼真细节，适合室内摄影与雕塑创作。Nano Banana Pro 同样以写实风格重塑埃菲尔铁塔等元素，为车辆主题项目注入艺术活力，打造创意生活空间。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

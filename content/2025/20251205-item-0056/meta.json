@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0056",
+  "title": "血月下的决斗",
+  "category": "gallery",
+  "prompt": "[SUBJECT] in a cinematic painting, battling amid crumbling ruins under a colossal blood moon — ambient sparks flying. Set in an ancient valley, illuminated by firelight and shadows. soft [COLOR1] and vibrant [COLOR2], mood intense and epic.",
+  "description": "借助 Nano Banana Pro，捕捉史诗般的电影艺术感，呈现血月下决斗的震撼场景，适合奇幻插画、游戏概念艺术或沉浸式数字叙事，通过柔和的与鲜艳的色彩对比增强视觉深度。",
+  "tags": [
+    "banana",
+    "插画",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1094,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

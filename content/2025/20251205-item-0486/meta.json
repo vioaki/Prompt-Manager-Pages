@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0486",
+  "title": "和路飞的一张超酷自拍",
+  "category": "gallery",
+  "prompt": "Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted. Use a Thousand Sunny deck background with bright blue sky. Keep the selfie composition intact and integrate both characters naturally.",
+  "description": "使用Gempix2创作一张与路飞在千阳号甲板上的超酷自拍，生动还原动漫角色表情，适合社交媒体分享或粉丝艺术项目。明亮构图和自然人物融合，让自拍场景充满活力与真实感。",
+  "tags": [
+    "banana",
+    "二次元",
+    "肖像",
+    "次元融合"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

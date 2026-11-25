@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0610",
+  "title": "汗湿特写",
+  "category": "template",
+  "prompt": "根据图1（角色A）人物，按以下设计要求生成图片：\r\n\r\n视觉产品需求文档:\r\n元数据:\r\n艺术风格: 日系赛璐璐/动漫风格 (Japanese Anime Style)\r\n构图视角: 正面平视，胸像/头部特写 (Bust-up/Headshot)，画面范围仅到锁骨\r\n\r\n角色视觉规范:\r\n发型设计:\r\n质感: 湿发效果 (Wet look)，发簇分明，略带凌乱感\r\n刘海: 刘海些许发丝因汗粘在额头，两侧鬓角发丝向内弯曲贴合脸型\r\n细节: 头顶有少许飞发\r\n\r\n面部特征:\r\n眼睛:\r\n形状: 下垂眼/半睁眼 (Half-open)，眼角下垂\r\n关键特征: 瞳孔中心呈现清晰的白色/淡粉色心形图案 (Heart-shaped pupils)\r\n神态: 迷离、失焦、极度松弛或力竭感\r\n嘴部:\r\n形状: 小口微张，呈“O”型\r\n细节: 内部不可见细节，仅表现开口轮廓\r\n皮肤:\r\n肤色: 白皙\r\n面部红晕: 脸颊及鼻梁区域大面积高饱和度红晕 (Heavy blush)\r\n液体效果: 面部（额头、脸颊、下巴）及颈部布满明显汗珠，汗珠具有高光和阴影立体感\r\n\r\n身体特征:\r\n肩颈: 裸露状态，无衣物遮挡可见区域\r\n皮肤质感: 同样带有红晕及汗水光泽，锁骨线条隐约可见\r\n\r\n环境与特效:\r\n氛围:\r\n主题: 运动后的力竭/恍惚状态\r\n视觉特效 (VFX):\r\n蒸汽: 画面左右下角及边缘覆盖白色柔焦雾气/蒸汽 (Steam/Mist)，产生朦胧感\r\n光影:\r\n光源: 正面柔光照明\r\n高光: 重点强调汗珠的反光、湿润皮肤的油润感以及湿发的反光点",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "肖像",
+    "NSFW"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 686,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:03Z"
+}

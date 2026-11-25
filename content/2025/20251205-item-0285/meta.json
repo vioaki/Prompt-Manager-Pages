@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0285",
+  "title": "我知道你很急但你先别急",
+  "category": "gallery",
+  "prompt": "别人催我时，我回复：我知道你很急，但你先别急\n\n请为此设计表情包图片",
+  "description": "使用 Nano Banana Pro 模型生成幽默表情包，轻松应对催促场景，为聊天和社交平台增添轻松氛围。",
+  "tags": [
+    "banana",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 772,
+    "height": 714
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

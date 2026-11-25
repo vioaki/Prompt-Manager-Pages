@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0423",
+  "title": "幽默涂鸦风格",
+  "category": "gallery",
+  "prompt": "A doodle-style [subject], naive lines, humorous shape exaggeration",
+  "description": "使用 Nano Banana Pro 模型创作趣味涂鸦风格视觉，为营销材料、社交媒体或创意项目增添生动活泼的图形元素。",
+  "tags": [
+    "banana",
+    "插画",
+    "手绘",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

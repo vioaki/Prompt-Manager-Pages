@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0087",
+  "title": "海洋中三艘不同的奇幻帆船",
+  "category": "gallery",
+  "prompt": "Three different fantasy sailboats in the ocean, multiple scenes of beautiful aurora borealis and colorful moons with snowy mountains, a dreamy, fantasy landscape, in the style of digital art.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成梦幻般的奇幻海景，三艘帆船在极光与彩月下航行，适合游戏设计和插画创作。",
+  "tags": [
+    "banana",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0052",
+  "title": "三种形状和三种颜色",
+  "category": "gallery",
+  "prompt": "Create a minimalist image of a [SUBJECT] using three geometric shapes, using a different color in each shape",
+  "description": "使用 Nano Banana Pro，将主题简化为三种几何形状与不同色彩，打造极简风格设计，适用于品牌标识、数字艺术和教育视觉，传递简洁与清晰感。",
+  "tags": [
+    "banana",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

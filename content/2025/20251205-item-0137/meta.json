@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0137",
+  "title": "将您最喜欢的品牌变成生活方式产品",
+  "category": "gallery",
+  "prompt": "A high-quality studio product photo of a [brand name]-branded [product type], [floating / standing] against a solid background in the brand’s signature color. The product features the brand logo prominently and uses the official brand color palette. Clean composition, soft shadows, ultra-realistic materials and textures, no text, no props, professional commercial lighting, sharp focus, minimalist aesthetic.",
+  "description": "使用 Nano Banana Pro 模型，轻松将品牌转化为简约自然的生活方式产品，打造专业级商业摄影效果，突出品牌色彩与标志，适合品牌推广和产品展示。",
+  "tags": [
+    "banana",
+    "产品广告",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "20260703-item-0875",
+  "title": "吓哭了是奇点爷",
+  "category": "gallery",
+  "prompt": "请将图2的角色替换到图1的场景中\r\n眼睛，眼镜，发色和服饰严格跟随图2。\r\n角色食指盯着嘴唇做出嘘声动作，嘴角抿嘴微笑，眼睛半咪，瞳孔散发和瞳孔相同的微光，自信神秘的气质。\r\n图片带有暗角\r\n保留图1背景中的黑色徽章装饰\r\n最终成果应为高度协调的二次元风格插画，人物线条清晰流畅，无明显人工生成痕迹，呈现如原画师手绘般的整体质感",
+  "description": "是卡奴喵",
+  "tags": [
+    "二次元",
+    "梗图"
+  ],
+  "author": {
+    "name": "江鸟",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1067
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-07-03T09:26:17Z"
+}

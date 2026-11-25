@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20260421-item-0838",
+  "title": "抱膝面部特写",
+  "category": "gallery",
+  "prompt": "生成一张参考图人物超近距离面部特写海报，动作是抱膝坐着（脸贴近腿），动画截图风格。\r\n3:2比例，4k分辨率。",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "二次元",
+    "肖像",
+    "海报"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1536,
+    "height": 1024
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-04-21T22:50:51Z"
+}

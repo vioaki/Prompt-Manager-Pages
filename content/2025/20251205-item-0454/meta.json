@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0454",
+  "title": "固定参考图姿势生成图片",
+  "category": "gallery",
+  "prompt": "{\n    \"reference_image\": \"image_0.png\"\n  },\n  \"image_generation_prompts\": {\n    \"main_positive_prompt\": \"High-angle bird's-eye view shot of a female  east Asian idol subject lying on the floor of a cluttered closet, strictly following the upside-down pose and anatomical structure shown in image_0.png. She is wearing a rich blue lace-overlay mini dress with a milkmaid bodice, sweetheart neckline, cap sleeves, and a lettuce hem. She wears heavy, knee-high red leather boots with a vertical front seam. Visible tattoos include a barbed wire band on the thigh and stick-and-poke heart and key motifs on the chest. The floor is covered in piles of mixed textiles, tulle, and clothing. The background walls are painted yellow, featuring white wire shelving, semi-transparent plastic storage drawers, and a packed clothing rack. Lighting is overhead tungsten, creating a warm sepia, vintage 90s disposable camera filter look. The mood is exhaustive, messy, and romantically grunge.\",\n    \"short_prompt\": \"Fairy grunge aesthetic, girl in rich blue dress and red leather boots lying upside-down in cluttered closet with yellow walls, pose from image_0.png, sepia tone, high angle shot.\",\n    \"negative_prompt\": \"minimalism, clean floor, bright daylight, cold lighting, organized, empty space, modern furniture, neon colors, hd digital look, glossy finish, wide angle, fisheye, distorted limbs, missing tattoos, incorrect pose.\"\n  },\n  \"scene_components\": {\n    \"subject\": {\n      \"pose\": \"Upside-down, limbs contorted as per the 3D model in image_0.png.\",\n      \"expression\": \"Detached, tired, or 'rotting' aesthetic.\",\n      \"distinctive_features\": [\n        \"Barbed wire thigh tattoo (90s grunge style)\",\n        \"Small stick-and-poke chest tattoos (heart and key)\"\n      ]\n    },\n    \"wardrobe_details\": {\n      \"dress\": {\n        \"color\": \"Rich blue\",\n        \"fabric\": \"Sheer floral lace mesh over opaque lining\",\n        \"cut\": \"Mini length, milkmaid peasant bodice, off-the-shoulder cap sleeves\",\n        \"details\": \"Ruffled lettuce hem, lingerie-inspired\"\n      },\n      \"footwear\": {\n        \"style\": \"Vintage knee-high riding boots\",\n        \"material\": \"Red leather\",\n        \"vibe\": \"Rugged, utilitarian, 70s/90s construction\"\n      }\n    },\n    \"environment_details\": {\n      \"setting\": \"Walk-in closet or bedroom corner\",\n      \"wall_color\": \"Yellow\",\n      \"flooring\": \"Completely obscured by layers of clothing (The 'Floordrobe')\",\n      \"furniture\": [\n        \"White wire shelving unit\",\n        \"Stack of semi-transparent plastic drawers\",\n        \"Wrought iron decorative rack with scrollwork\",\n        \"White plastic laundry basket with circular cutouts\"\n      ],\n      \"clutter_textures\": [\n        \"Layers of tulle\",\n        \"Black fabric with white polka dots\",\n        \"Heavy grey knit material\",\n        \"Densely packed hanging clothes\"\n      ]\n    }\n  },\n  \"technical_parameters\": {\n    \"camera_angle\": \"High-angle / Bird's-eye view\",\n    \"lighting_setup\": \"Direct overhead source (ceiling light)\",\n    \"shadows\": \"Downward casting, flattening the subject slightly\",\n    \"color_grading\": {\n      \"primary_tones\": [\"Sepia\", \"Cream\", \"Off-white\", \"Rich blue\", \"Red\", \"Yellow\"],\n      \"filter_style\": \"Warm vintage, tungsten indoor lighting, low contrast\"\n    }\n  }\n}",
+  "description": "Nano Banana Pro与Nano Banana Pro模型专为精准姿势生成设计，通过固定参考图实现动画角色、时尚设计和数字艺术的风格统一与定位准确。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 725,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0416",
+  "title": "超逼真的野生动物摄影场景",
+  "category": "gallery",
+  "prompt": "Ultra-realistic wildlife photography scene, (use reference face from uploaded photo). A man wearing proper wildlife-safari clothing — light brown outdoor shirt, rugged cargo pants, and sturdy field boots. He is lying flat on the grassy ground, holding a professional DSLR camera with a large telephoto lens, focusing on wildlife. On his shoulder sits a playful lion cub looking into the distance. Golden hour natural light, African savannah background, cinematic depth of field, 8K detail, vibrant colors. Keep my face 100% accurate. HD quality DSLR.",
+  "description": "使用 Nano Banana Pro 模型，捕捉超逼真的野生动物摄影场景，细节丰富、色彩鲜活，适合自然摄影与纪录片项目，为专业作品集或教育内容增添真实魅力。",
+  "tags": [
+    "banana",
+    "写实",
+    "场景",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 700,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

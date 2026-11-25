@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0200",
+  "title": "黑客帝国的绿色代码",
+  "category": "gallery",
+  "prompt": "Transform this image into a digital Matrix-style scene. The background and subject should be composed of cascading neon green code on a black backdrop, similar to the iconic Matrix digital rain. Use glowing green symbols (Japanese katakana, numbers, and Latin letters), with some motion blur and depth. Add subtle lighting effects to simulate screen glow and enhance the cyberpunk, high-tech atmosphere",
+  "description": "使用 Nano Banana Pro 模型，将图像转化为《黑客帝国》风格的数字场景，以霓虹绿色代码和黑色背景营造科幻氛围，适合打造赛博朋克标志、科技品牌或沉浸式科幻艺术。",
+  "tags": [
+    "banana",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

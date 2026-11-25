@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0016",
+  "title": "品牌我的世界风格",
+  "category": "gallery",
+  "prompt": "\"A Minecraft-style voxel recreation of a [BRAND NAME] [OBJECT], built entirely from pixelated cubes — detailed voxel modeling, signature brand colors and logo, blocky textures, clean lighting, stylized yet recognizable, 3D render, high resolution, playful and creative interpretation",
+  "description": "借助Nano Banana Pro与Nano Banana Pro模型，将品牌标识转化为充满趣味的体素艺术，打造独特的《我的世界》风格品牌形象。这种方块美学与品牌识别完美融合，特别适合游戏周边与数字营销，以像素化创意提升视觉吸引力。",
+  "tags": [
+    "banana",
+    "像素",
+    "产品广告",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1104,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

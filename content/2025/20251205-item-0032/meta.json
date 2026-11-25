@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0032",
+  "title": "云的艺术",
+  "category": "gallery",
+  "prompt": "A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]",
+  "description": "使用 Nano Banana Pro，捕捉白天天空中的云朵艺术，以逼真风格呈现梦幻般的风景摄影，适合摄影师和创意机构在不同地点创作唯美的天空视觉。",
+  "tags": [
+    "banana",
+    "写实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

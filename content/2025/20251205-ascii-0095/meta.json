@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-ascii-0095",
+  "title": "复古电脑开机画面解析为ASCII艺术",
+  "category": "gallery",
+  "prompt": "Retro CRT computer boot screen that resolves into ASCII-art of NYC's tallest building",
+  "description": "使用 Nano Banana Pro，将复古电脑开机画面转化为纽约最高建筑的 ASCII 艺术，完美融合怀旧科技与建筑美学，适合数字艺术装置或复古科技项目。",
+  "tags": [
+    "banana",
+    "像素",
+    "复古"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

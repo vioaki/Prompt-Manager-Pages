@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0687",
+  "title": "二次元转真人（第二版）",
+  "category": "gallery",
+  "prompt": "写实风格照片，核心要求：展示一张极其写实的真人cosplay照片，严禁生成任何二次元、动漫或绘画风格的图像。\r\n角色A（基于参考图一的中国真人coser）：肤白纤细，皮肤经过高度精修、完美无瑕，脸型小巧，头身比例优越。刘海需呈现碎层感与层次感，发质柔软，发丝细节丰富，具备真实发丝纹理。需保持参考图的原发型、瞳色不变。\r\n\r\n整体光照与环境需严格基于现实物理世界。\r\n\r\n角色A:",
+  "description": "不稳定，需要多次抽卡，但出图很神\r\n画面比例3:4，似乎效果也很好？",
+  "tags": [
+    "写实",
+    "cosplay"
+  ],
+  "author": {
+    "name": "逐辰十七",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-1.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-2.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-3.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-4.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-5.webp"
+    }
+  ],
+  "createdAt": "2025-12-07T20:49:19Z"
+}

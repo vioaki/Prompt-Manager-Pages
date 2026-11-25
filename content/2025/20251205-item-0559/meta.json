@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0559",
+  "title": "地铁中的漫画人物",
+  "category": "template",
+  "prompt": "一张中国拥挤的地铁列车的照片，超现实主义风格。其中一个座位上坐着一张图一中人物的二维黑白漫画插画。这个人物是用干净的墨水线条和交叉影线阴影绘制的。地铁车厢的光线正确地照射到二维图画上，在墨水上形成了逼真的高光。这个人物手里拿着一个真实的摄影汽水罐，将二维和三维世界融合在一起。4k，电影构图。",
+  "description": "输入人物图片",
+  "tags": [
+    "banana",
+    "次元融合",
+    "漫画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:01Z"
+}

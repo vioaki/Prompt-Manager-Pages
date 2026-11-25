@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0558",
+  "title": "风格对比肖像画",
+  "category": "template",
+  "prompt": "A cinematic 16:9 wide shot featuring a single centered headshot based directly on the subject in the provided reference image. The face is split vertically in half by a distinct sharp black line.\r\n\r\n[LEFT HALF - ORIGINAL SOURCE STYLE]: A faithful preservation of the exact art style, color palette, shading, hair, and features as seen in the uploaded reference image. It should look almost identical to the source image on this side.\r\n\r\n[RIGHT HALF - GRITTY REALISM]: A photorealistic reinterpretation of the exact same subject and features from the left half. Rendered with gritty realism, detailed skin texture, pores, realistic hair strands, and cinematic lighting that creates deep shadows. The style resembles a high-detail character model from Unreal Engine 5.\r\n\r\nThe facial features and structure align perfectly across the central split line to form a single, unified character portrait, despite the drastic clash in art styles. 8k resolution.",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "肖像",
+    "次元融合"
+  ],
+  "author": {
+    "name": "西",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T14:38:01Z"
+}

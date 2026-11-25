@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20260421-item-0837",
+  "title": "葬送的芙莉莲原画展",
+  "category": "gallery",
+  "prompt": "Frieren: Beyond Journey's End exhibition poster style, Frieren in the foreground, standing and looking back at the viewer while holding a suitcase; Fern in the lower right distance, standing with her back to the viewer and facing the city. The scene is a high stone terrace or city wall, with a stone pillar, ivy, green leaves, and blue-white flowers in the upper left, a medieval fantasy city in the distance with red rooftops, spires, a lake, mountains, and a castle on a hill, birds flying in the foreground, delicate vintage ornamental border around the image, title logo in the upper right: \"葬送のフリーレン / FRIEREN / アニメーション原画展\". Official anime key visual style, fantasy anime poster, delicate refined illustration, cool blue-white palette, soft natural daylight, strong atmospheric perspective, distant haze, serene and beautiful mood, nostalgic journey feeling, highly detailed background, cinematic composition, polished rendering, high-finish artwork.",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "二次元",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1055,
+    "height": 1491
+  },
+  "refs": [],
+  "createdAt": "2026-04-21T22:41:19Z"
+}

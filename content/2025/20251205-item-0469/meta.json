@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0469",
+  "title": "进击的巨人画风菜谱：红烧肉",
+  "category": "gallery",
+  "prompt": "请绘制一张 红烧肉 的制作流程图，搭配简要说明、食材克数，并加入一个特朗普作为角色。整体采用 日本流行杂志风格的页面结构，但视觉上融合 《进击的巨人》画风，呈现彩色漫画般的强烈表现力与动感。",
+  "description": "使用 Nano Banana Pro 模型，打造《进击的巨人》风格的震撼红烧肉视觉作品，适合美食博主和动漫爱好者呈现戏剧化的烹饪场景。",
+  "tags": [
+    "banana",
+    "二次元",
+    "信息图",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 559
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

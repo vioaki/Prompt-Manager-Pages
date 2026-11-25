@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0075",
+  "title": "3D零食卡通世界",
+  "category": "gallery",
+  "prompt": "A 3D-rendered digital illustration featuring a retro-style food truck inspired by the brand [INSERT BRAND NAME], designed with smooth pastel colors and soft textures. A black-and-white cartoon character stands beside the truck, holding a product that visually represents the brand. The environment reflects the brand’s world—playful hills, trees, and skies stylized with its color palette and product shapes. The brand’s logo is clearly displayed on the truck, and a short slogan appears naturally within the scene. Format: 1:1, isometric view, cinematic lighting, clean and joyful composition.",
+  "description": "使用Nano Banana Pro和Nano Banana Pro模型，打造复古3D卡通风格的柔和色彩品牌资产，完美适用于食品行业推广、角色插画和趣味景观设计。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

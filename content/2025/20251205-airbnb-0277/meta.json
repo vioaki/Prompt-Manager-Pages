@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-airbnb-0277",
+  "title": "创建Airbnb创意广告",
+  "category": "gallery",
+  "prompt": "Create Airbnb creative ad, show a suitcase opening like a dollhouse, revealing a cozy room inside, tagline: “Feel at home, anywhere.”",
+  "description": "使用 Nano Banana Pro 模型，轻松打造温馨的玩具屋风格广告，将行李箱转化为迷你家居场景，突出“随时随地有家的感觉”，非常适合室内和旅行主题的创意营销。",
+  "tags": [
+    "banana",
+    "微缩",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

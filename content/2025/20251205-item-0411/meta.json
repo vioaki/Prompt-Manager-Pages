@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0411",
+  "title": "夸张的高清全身漫画",
+  "category": "gallery",
+  "prompt": "A realistic HD full body caricature of [subject: name], [describe exaggerated physical features, emotional expression]. [outfit in detail], and [mention an epic  action].  location, lighting, atmosphere, mood]. In the style of caricature realism, [highlight expression, texture, pose or object details], cinematic lighting, sharp focus, hyper-realistic rendering, caricature.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松创作夸张的高清全身漫画，结合漫画写实风格与超精细渲染，完美适用于时尚肖像、车辆展示或娱乐广告中的动态角色插图，通过锐利焦点和电影级光线突出表情与细节。",
+  "tags": [
+    "banana",
+    "插画",
+    "肖像",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 381
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

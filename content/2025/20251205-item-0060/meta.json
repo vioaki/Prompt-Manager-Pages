@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0060",
+  "title": "品牌设计指南海报",
+  "category": "gallery",
+  "prompt": "Create a vertical 9:16 brand design guide poster using the uploaded product image. Adapt the design style to match the product’s niche and visual identity. Structure the poster with clear, elegant sections: (1) Large logo display and safe zone usage, (2) Product mockup centered and highlighted, (3) Primary and secondary color palette swatches with hex codes, (4) Typography guide with heading, subheading, body font samples, and line spacing specs, (5) Iconography or graphic motif examples used by the brand, (6) Image treatment style with sample lifestyle or studio visuals, (7) Grid system or layout rules, (8) Packaging mockups and surface applications, (9) Do’s & Don’ts with annotated visuals. Use minimalist white or soft neutral background with structured layout dividers and drop shadows. The result must be visually rich, clean, and suitable for a printed or digital brand book.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro打造极简品牌设计指南海报，清晰展示产品视觉形象与排版规范，适合设计工作室和企业形象项目，提升专业呈现效果。",
+  "tags": [
+    "banana",
+    "海报",
+    "产品广告",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

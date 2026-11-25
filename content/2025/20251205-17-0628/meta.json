@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-17-0628",
+  "title": "17",
+  "category": "gallery",
+  "prompt": "生成一张YouTube梗图，上面是这个角色发的第一个视频截图，标题是“我要成为AI微调高手！”封面是她站在模型LORA拟合曲线前。只有廖廖几个点赞和播放。\r\n下面是一年后，“标题为我下海了，请多关照”，配图是这个动漫角色的擦边色气封面，服装半脱状态，不露点，很像小黄本的画风。播放率上千万，点赞过百万。文字使用简体中文，",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "逐辰十七",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:04Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-blender-0521",
+  "title": "Blender建模演示页面",
+  "category": "gallery",
+  "prompt": "1:1保持参考图角色外貌，服饰，配色，配饰，生成3d图。放到一个基于Blender建模演示的房间内，要有blender的界面，房间没有渲染仅有一些基础的勾线和法线，只有参考角色的建模是完整且渲染了的。让她在演示房间内坐下并盯着镜头，镜头是从上到下再稍微侧边一点一看着角色。保持她原本的表情，以常见的动漫风三渲二游戏的风格呈现，记得要加一点渲染的黑边。16:9比例",
+  "description": "",
+  "tags": [
+    "banana",
+    "3D",
+    "场景"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

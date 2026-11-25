@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0109",
+  "title": "3d 超写实场景模型",
+  "category": "gallery",
+  "prompt": "3d hyperrealistic model-scenery of a long-haired woman wearing a flowing maxi dress walking up a curved staircase with an arched doorway at the end with a view to a tiny glowing moon, framed by lush climbing vines, setting over a round base made out of moss and tiny bioluminescent mushrooms, ethereal lighting, staging aesthetics, dark plain background --ar 4:5 --c 6 --s 100",
+  "description": "Nano Banana Pro 助您打造超写实3D场景，细腻呈现长发女子漫步弧形楼梯的梦幻氛围，适合室内可视化与景观艺术创作。Nano Banana Pro 以空灵光影细节，为奇幻媒体项目注入生物荧光蘑菇的沉浸美感。",
+  "tags": [
+    "banana",
+    "写实",
+    "3D",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 960,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-instagram-0498",
+  "title": "一个全新的Instagram账号",
+  "category": "gallery",
+  "prompt": "Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror selfie, a café shot, friends at dinner, a blurry party photo, a walking shot, a laptop/coffee work shot, a pet moment, a sunset, and a candid laugh.",
+  "description": "使用 Gempix2 或 Nano Banana 2 轻松生成真实自然的周末生活照片合集，适合生活方式博主打造随性故事感的 Instagram 内容，突出日常瞬间的生动与氛围。",
+  "tags": [
+    "banana",
+    "肖像",
+    "场景",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 474,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

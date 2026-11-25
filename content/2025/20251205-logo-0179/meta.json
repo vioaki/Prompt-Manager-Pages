@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-logo-0179",
+  "title": "鸟类羽毛制成LOGO",
+  "category": "gallery",
+  "prompt": "A detailed overhead shot of a fluid, colorful OpenAI logo created by arranging hundreds of naturally shed exotic bird feathers. Capture the incredible iridescence, delicate barbs, and varied textures against a misty white backdrop with side lighting.",
+  "description": "借助 Nano Banana Pro 模型，使用自然脱落的异国鸟类羽毛打造流畅多彩的虹彩徽标，适合环保与创意行业的品牌设计，在朦胧背景中突显精致纹理与生动色调。",
+  "tags": [
+    "banana",
+    "写实",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

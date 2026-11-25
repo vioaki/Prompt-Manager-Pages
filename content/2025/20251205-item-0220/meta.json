@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0220",
+  "title": "舒适的周末从这里开始",
+  "category": "gallery",
+  "prompt": "retexture the image attached based on the json below:\n{\n  \"style_name\": \"Soft Minimal 3D Plastic\",\n  \"retexture_mode\": \"shape_lock\",\n  \"object_analysis\": {\n    \"preserve_silhouette\": true,\n    \"geometry_sensitive_mapping\": true,\n    \"detail_retention\": \"flatten complex details into simplified geometry blocks\"\n  },\n  \"material_properties\": {\n    \"base_material\": [\n      \"smooth matte plastic\",\n      \"metallic edge trim with satin finish\",\n      \"semi-reflective black screen surface\"\n    ],\n    \"surface_details\": [\n      \"subtle color gradient\",\n      \"rounded bevels and corners\",\n      \"soft transition between surfaces\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"soft gradient ambient light\",\n    \"shadows\": \"minimal, soft-edged shadows\",\n    \"highlights\": \"diffused, low-intensity reflections\"\n  },\n  \"background\": {\n    \"color\": \"pastel gradient (blue to cream)\",\n    \"texture\": \"smooth and untextured\",\n    \"elements\": \"clean background with no added geometry\"\n  },\n  \"rendering\": {\n    \"style\": \"isometric 3D render\",\n    \"resolution\": \"high, with slight bloom\",\n    \"focus\": \"central object, no depth blur\"\n  },\n  \"color_palette\": {\n    \"primary\": [\"cool grey\", \"steel blue\", \"soft charcoal\"],\n    \"accents\": [\"light lavender\", \"pastel yellow\"]\n  }\n}",
+  "description": "使用 Nano Banana Pro，通过柔和极简的 3D 塑料风格重塑图像，为产品可视化和数字艺术打造干净现代的视觉效果，简化几何形式，保持轮廓一致。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

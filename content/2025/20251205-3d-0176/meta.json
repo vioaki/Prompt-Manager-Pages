@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0176",
+  "title": "创建多种3D风格头像",
+  "category": "gallery",
+  "prompt": "Create a 3D-rendered digital illustration of a stylized cartoon boy character, standing in a neutral pose. The character should be rendered in a realistic-minimalist 3D style, with soft rounded proportions and plush matte textures — similar to high-end Cinema 4D + Redshift product renders.",
+  "description": "使用 Nano Banana Pro 创建多样化的 3D 风格头像，以逼真极简风格呈现，适用于品牌设计和角色塑造，带来柔和哑光质感。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

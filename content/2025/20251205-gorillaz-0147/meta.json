@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-gorillaz-0147",
+  "title": "Gorillaz风格角色",
+  "category": "gallery",
+  "prompt": "Create a stylized full-body portrait of [your subject] in the Gorillaz character aesthetic. Give the character an exaggeratedly lanky build with long, skinny legs and narrow arms. Use simplified, angular features and thick, bold outlines. Style the hair to be spiky, tousled, or exaggerated, in a non-natural color like [blue or green]. The eyes must be blank white with no pupils. Use flat, solid colors only. No gradients, shadows, or textures. Background should be a single flat color. Design must be vector friendly and print ready.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松打造Gorillaz风格角色肖像，夸张的瘦长身形与粗轮廓线条，适合音乐视觉、动画概念或独特品牌设计，呈现扁平纯色的鲜明艺术效果。",
+  "tags": [
+    "banana",
+    "插画",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

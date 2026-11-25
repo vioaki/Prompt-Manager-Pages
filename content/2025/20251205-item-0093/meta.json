@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0093",
+  "title": "品牌平面纸风格",
+  "category": "gallery",
+  "prompt": "A flat branded paper folds itself into the full 3D shape of a [Air Jordan 1 shoes], mid-motion. Dramatic studio lighting, origami texture detail, gradient shadows, Japanese minimalism feel.",
+  "description": "借助 Nano Banana Pro，打造日式极简纸艺风格品牌视觉，适用于时尚与零售行业的产品发布和生活方式营销，通过戏剧性光影与折纸纹理呈现动态效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "手绘",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1096,
+    "height": 608
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

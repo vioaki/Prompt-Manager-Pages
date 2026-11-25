@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0473",
+  "title": "传统的工笔风格水墨画",
+  "category": "gallery",
+  "prompt": "A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a giant turtle swimming calmly through a turbulent river, carrying a playful and anachronistic tableau on its shell:\nAt the turtle’s forefront, Tang Sanzang and the Queen of the Women's Kingdom amusingly reenact the iconic scene from the movie Titanic. The Queen stands serenely with arms outstretched like Rose, while Tang Sanzang tenderly embraces her waist from behind like Jack, immersed in romantic sentiment. \nBehind them, Sha Wujing (Sha Monk) leisurely sits cross-legged, casually holding a fishing rod with a cigarette dangling from his lips, completely relaxed as he fishes. Beside him, Zhu Bajie humorously stands on the turtle’s shell, comically relieving himself into the river, with an exaggeratedly proud expression. Further back, Sun Wukong rides energetically on a surfboard amidst the rolling waves, carrying a modern rocket launcher aimed confidently at a mysterious UFO hovering above.\nTraditional Chinese calligraphy adorns one side of the painting, accompanied by a classic red artist’s seal inscribed \"寶玉印\". The artwork cleverly blends classical aesthetics with contemporary humor, creating a playful and satirical fusion across eras.",
+  "description": "Nano Banana Pro与Nano Banana Pro助您精准还原传统工笔水墨画的细腻笔触与典雅意境，适用于艺术复刻、文化项目及追求经典美学的设计场景，通过强调精细线条与柔和色彩渐变，呈现极致优雅的视觉体验。",
+  "tags": [
+    "banana",
+    "手绘",
+    "国风",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 655
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0050",
+  "title": "清洁琴键的小人物",
+  "category": "gallery",
+  "prompt": "tilt-shift photo of a grand piano keyboard, side view from the left looking along the keys to the right, shallow depth of field, tiny human figures cleaning the piano keys with brushes, cloths, and buckets, whimsical and surreal scene, soft lighting, hyper-detailed, high realism",
+  "description": "用 Nano Banana Pro 创作超现实微缩摄影，捕捉小人清洁钢琴琴键的奇幻场景，适合艺术肖像项目，呈现高细节与柔和光影的视觉叙事。",
+  "tags": [
+    "banana",
+    "写实",
+    "微缩"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

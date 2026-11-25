@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0264",
+  "title": "童趣插画",
+  "category": "gallery",
+  "prompt": "Create a full body, flat vector illustration of [CHARACTER] in a whimsical, wavy cartoon style. Use thin black outlines and smooth, rounded shapes. The character should have a tiny white-colored head with tiny dot eyes and a simple nose and mouth. The body should have exaggerated, playful proportions. Use bold, flat colors for the clothing. No gradients. No shading. No smudging. Place the character on a solid blue background. Vector friendly. Square aspect ratio.",
+  "description": "使用 Nano Banana Pro 创作充满童趣的扁平矢量插画，以俏皮风格设计卡通角色，适合儿童时尚、品牌形象和车辆装饰，用鲜明色彩和纯色背景打造吸睛的视觉作品。",
+  "tags": [
+    "banana",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 595,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

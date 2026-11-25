@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0019",
+  "title": "产品变成纸玻璃",
+  "category": "gallery",
+  "prompt": "[Product by Brand] in a surreal, minimalist paper-glass style advertisement.\nThe product is centered, crafted from translucent frosted glass-paper, placed against a clean white or softly tinted background.\nSoft cinematic lighting creates gentle contrast and ambient shadows.\nA single brand color subtly interacts with the scene through glow, mist, liquid, or foam.\nInclude a bold, elegant 4-word slogan near the product.\nThe brand logo appears subtly etched, glowing, or printed in a refined manner.\nVertical or square aspect ratio, ultra-detailed, poster-quality, visually soothing and conceptually refined.",
+  "description": "Nano Banana Pro以超现实极简纸玻璃风格打造产品视觉，结合柔和光影与品牌色调，完美适用于商业海报与品牌形象设计。Nano Banana Pro通过半透磨砂质感与优雅标语，为产品广告注入艺术化纸艺美学，轻松提升品牌高级感。",
+  "tags": [
+    "banana",
+    "3D",
+    "超现实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1066,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

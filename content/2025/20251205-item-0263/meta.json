@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0263",
+  "title": "一个复古茶包",
+  "category": "gallery",
+  "prompt": "A single vintage tea bag lying on a clean white background, hand-painted with an intricate illustration resembling a book cover. The tea bag has delicate aged paper texture, soft warm lighting, and realistic details. On the painted design, leave a clear blank space labeled [BOOK] for the book title. Cinematic, high-resolution, vertical format 9:16.",
+  "description": "使用 Nano Banana Pro 模型，创作复古纸艺风格的茶包插图，适合书籍封面设计、出版推广或手工茶品牌，呈现手绘质感和陈旧纹理的逼真效果。",
+  "tags": [
+    "banana",
+    "手绘",
+    "复古",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

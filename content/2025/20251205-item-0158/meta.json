@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0158",
+  "title": "物品纹理处理",
+  "category": "gallery",
+  "prompt": "retexture the image attached based on the JSON below:\n{\n  \"style_name\": \"Transparent Studio Render\",\n  \"visual_rules\": {\n    \"form\": {\n      \"shape\": \"preserve original object shape\",\n      \"outline\": \"no outlines, use smooth geometry transitions and bevels\"\n    },\n    \"lighting\": {\n      \"style\": \"studio-style 3-point lighting or soft HDRI setup\",\n      \"highlight\": \"subtle specular highlights for semi-matte plastic or coated surfaces\",\n      \"shadow\": \"soft drop shadow directly beneath the object, cast on a translucent floor plane\"\n    },\n    \"texture\": {\n      \"surface\": \"smooth or lightly textured based on object, clean shader setup with minimal noise\",\n      \"branding\": \"bold and high-contrast, treated as printed decals or sticker-style labels\"\n    },\n    \"material\": {\n      \"finish\": \"semi-matte or satin shader, mimicking printed plastic or coated materials\"\n    },\n    \"color_handling\": {\n      \"strategy\": \"make the object's primary color the focal point\",\n      \"enhancement\": \"slightly boosted saturation and contrast for clean product visualization\"\n    },\n    \"background\": {\n      \"type\": \"fully transparent (alpha channel)\",\n      \"shadow\": \"optional soft drop shadow directly beneath the object to ground it visually\"\n    }\n  },\n  \"rendering\": {\n    \"camera_angle\": \"centered front view or slightly elevated for dimensional clarity\",\n    \"depth_of_field\": \"neutral or slightly shallow to keep object fully sharp\",\n    \"background_blur\": \"none, background remains transparent\"\n  }\n}",
+  "description": "Nano Banana Pro与Nano Banana Pro通过透明工作室级渲染，为产品打造极简品牌风格，结合自然灵感的纸艺设计，呈现平滑光影过渡与细腻涂层质感，完美适用于专业视觉呈现。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

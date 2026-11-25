@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0479",
+  "title": "图片的8种初始草图",
+  "category": "gallery",
+  "prompt": "Create 8 different initial sketches leading to this final character.",
+  "description": "Nano Banana Pro 模型提供 8 种初始草图风格，专为创意行业设计，快速生成广告、设计或故事叙述的视觉概念，助您探索多样艺术效果。",
+  "tags": [
+    "banana",
+    "手绘",
+    "设定图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 604,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

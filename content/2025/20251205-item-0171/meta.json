@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0171",
+  "title": "生成电影氛围图",
+  "category": "gallery",
+  "prompt": "Cinematic still, A [ description of the character or action scene], with a [ background/environment], a dynamic angle, a [light effect or lighting condition], motion blur, high-resolution photography, a cinematic scene, cinematic lighting, and high contrast.",
+  "description": "Nano Banana Pro 模型专为生成电影氛围图设计，适用于角色与风景摄影，以动态角度、高对比度和戏剧性光影打造沉浸式场景，是电影制作、游戏开发和广告设计的理想工具。",
+  "tags": [
+    "banana",
+    "写实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 626
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

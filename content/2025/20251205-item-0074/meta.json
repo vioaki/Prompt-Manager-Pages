@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0074",
+  "title": "黑白漫画风格插图",
+  "category": "gallery",
+  "prompt": "Highly dramatic and epic black and white manga-style illustration of [Your character and description].  Powerful, dynamic pose, exaggerated features emphasizing the intensity of the scene. Background with explosive energy bursts, lightning effects, and a whirlwind of debris",
+  "description": "使用 Nano Banana Pro 模型，轻松生成充满戏剧张力的黑白漫画风格插图，适用于漫画封面、游戏概念艺术和动态宣传材料，通过夸张的动态姿势和爆炸性能量特效，强化视觉冲击力。",
+  "tags": [
+    "banana",
+    "二次元",
+    "漫画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1096,
+    "height": 610
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

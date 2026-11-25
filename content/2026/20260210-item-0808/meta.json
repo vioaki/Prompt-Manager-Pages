@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20260210-item-0808",
+  "title": "双人街霸",
+  "category": "template",
+  "prompt": "一张来自格斗游戏《街头霸王6》（Street Fighter 6）的4K高分辨率游戏实机截图。画面中是两个参考图角色在模仿Guile进行镜像对决。他们分别蹲在屏幕最左侧和最右侧的角落里，两个角色都一动不动，模仿guile的经典防御姿势。他们什么动作也没有做，只是互相盯着对方。画面呈现出高度精细的、照片级真实的3D RE引擎风格，带有动态光影效果。背景舞台是一个现代化的、细节丰富的空军基地航母甲板。画面上有完整的SF6风格UI界面覆盖：顶部是带有街头涂鸦美学的彩色满血条，分别标有“P1 xxxxx”和“P2 xxxxx”；血条下方是绿色的满“动力槽（Drive Gauge）”；中间的计时器显示数字“96”；底部有超必杀技槽（Super Art gauges）。画面中没有任何攻击特效，充满了一种静止、尴尬且紧张的对峙氛围。 \r\n16:9 最高品质",
+  "description": "",
+  "tags": [
+    "banana",
+    "3D",
+    "游戏"
+  ],
+  "author": {
+    "name": "奶龙皇",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2026-02-10T17:06:24Z"
+}

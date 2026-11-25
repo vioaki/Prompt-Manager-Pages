@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0228",
+  "title": "胶囊从透明的药瓶中倾倒",
+  "category": "gallery",
+  "prompt": "Hyper-realistic poster, 1080x1080. Small glossy/glass capsules spilling from a transparent medicine bottle onto a wet surface. Each capsule features [white]/[red] plastic and transparent glass, with [KFC] logo and a floating 3D icon inside. Strong reflections, studio lighting, water droplets, soft elegant background, DSLR photo realism.",
+  "description": "Nano Banana Pro 模型擅长打造超写实产品视觉，专为以标志为核心的摄影和优雅海报设计而生，适用于医药或高端品牌的商业广告，突出反光表面与工作室级细节。",
+  "tags": [
+    "banana",
+    "写实",
+    "微缩",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

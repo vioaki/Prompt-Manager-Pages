@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0632",
+  "title": "二次元接客",
+  "category": "gallery",
+  "prompt": "生成一张手机拍摄的图片。完全的真实照片画面。\r\n画面真实，有手机随手拍摄的模糊和劣质感。夜晚在一个中国城中村里面参考图的几位角色分别站在不同的门口处玩着手机或者抽着烟，也有的会热情走到你面前拉着你的手。有个门口上方有着住宿的牌子。将参考图中女孩们转化成真人风格cosplay，角色100%不变，服饰不变，体型不变。",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "场景",
+    "NSFW"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:04Z"
+}

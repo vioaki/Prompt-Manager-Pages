@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0123",
+  "title": "时尚品牌娃娃",
+  "category": "gallery",
+  "prompt": "A hyper-realistic photograph of a fashion doll styled in the aesthetic of [BRAND], sitting on a plush, cream-colored bed with soft folds. The doll’s look reflects the brand’s signature elements — from hair and outfit to accessories — arranged thoughtfully to evoke a dreamy, vintage-inspired editorial. Studio-lit with warm, diffused lighting and a creamy, ivory-toned palette, the scene emulates luxury fashion photography with a soft, dollhouse-like atmosphere and shallow depth of field.",
+  "description": "Nano Banana Pro 助您打造超现实时尚品牌娃娃摄影，融合复古美学与柔和影棚灯光，呈现梦幻编辑场景和自然主题标识，提升高端品牌形象。",
+  "tags": [
+    "banana",
+    "手办化",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

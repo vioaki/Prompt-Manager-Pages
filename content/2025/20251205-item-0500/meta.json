@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0500",
+  "title": "女子海边电影风格肖像照",
+  "category": "gallery",
+  "prompt": "A young woman standing on the beach at dusk, captured in a soft emotional film-style portrait. \nHer dark hair is messy from the sea breeze, strands blowing across her face. \nShe has natural, slightly flushed skin with a subtle grainy texture. \nWearing a white spaghetti-strap top and denim bottoms. \nThe background shows dark ocean waves and a moody sky with soft sunset colors—dusty pink, blue-gray, and muted lavender. \nThe overall image features a low-saturation, cool-toned cinematic film filter with soft contrast, slight grain, and a hazy atmosphere. \nClose-up portrait, melancholic mood, natural lighting, realistic details, 8K.",
+  "description": "使用 Gempix2 或 Nano Banana 2 拍摄海边电影风格肖像，营造柔和情绪化画面，适合时尚摄影与生活方式品牌，呈现朦胧氛围与深度故事感。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

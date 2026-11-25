@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0226",
+  "title": "可爱的卡通灵魂",
+  "category": "gallery",
+  "prompt": "A cute cartoon ghost is the absolute main subject of the picture. It has a pure white body with a smooth and rounded contour, and two simple black oval eyes, with no extra features. This ghost is floating quietly in the very center of the picture. The background is a pure, bright purple, creating a simple, modern, and friendly atmosphere. The composition is a centered close-up, and the aspect ratio is 1:1 square. There is no text in the entire image. The image style is typical flat design and vector art, minimalist, much like an app icon or a logo, characterized by clean lines and solid color blocks, without any gradients or textural details. The image quality required is high-resolution with clean, sharp edges. The overall feeling it gives is one of a cute, simple, and modern piece of digital art.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作简约可爱的卡通角色，设计简洁、色彩明亮，适合儿童内容、品牌形象或数字贴纸，吸引年轻受众。",
+  "tags": [
+    "banana",
+    "插画",
+    "Q版"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

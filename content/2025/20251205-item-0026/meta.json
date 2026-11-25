@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0026",
+  "title": "狭窄走廊里奔跑",
+  "category": "gallery",
+  "prompt": "A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside [Place], chased at high speed by [CHARACTER2]. Their facial expressions reflect tension and focus, with beads of sweat glistening under dramatic lighting.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，轻松创作3D卡通动画，打造角色在狭窄走廊中紧张追逐的精彩场景，适合游戏开发和动画故事叙述，呈现逼真的情感表达和戏剧性光影效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1104,
+    "height": 600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

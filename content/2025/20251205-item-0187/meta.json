@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0187",
+  "title": "后世界末日氛围",
+  "category": "gallery",
+  "prompt": "a young cartoon boy with big goggles and scarf driving a tiny makeshift vehicle in the desert, cute post-apocalyptic vibe, indie animation style, soft colors, emotional and adventurous --ar 3:4 --raw --p",
+  "description": "借助 Nano Banana Pro，轻松打造柔美色调的独立动画场景，完美呈现后末日世界中情感丰富的车辆冒险，适合卡通系列或游戏素材创作。",
+  "tags": [
+    "banana",
+    "插画",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 928,
+    "height": 1232
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

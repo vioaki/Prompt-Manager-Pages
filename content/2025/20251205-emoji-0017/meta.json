@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-emoji-0017",
+  "title": "Emoji变成一个花盆",
+  "category": "gallery",
+  "prompt": "A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition",
+  "description": "使用 Nano Banana Pro 模型，轻松创作简约风格的动物表情花盆摄影，适合家居装饰或自然主题内容，呈现生动多肉植物与柔和背景的精致对比。",
+  "tags": [
+    "banana",
+    "写实",
+    "Q版",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1094,
+    "height": 1100
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

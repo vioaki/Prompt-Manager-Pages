@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0350",
+  "title": "超精细逼真的美丽女人肖像",
+  "category": "gallery",
+  "prompt": "Ultra-detailed, photorealistic portrait of a beautiful woman, high fashion editorial, deep white plunging V-neck lace sequined evening gown, elegant low bun updo, soft studio lighting, light grey background, dramatic shadowplay, hyperrealistic, 8K",
+  "description": "Nano Banana Pro 助您创作超精细逼真的美丽女人肖像，融合高级时装与戏剧光影，完美适用于时尚摄影、品牌宣传及艺术项目，呈现 8K 超现实主义视觉冲击。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 686,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

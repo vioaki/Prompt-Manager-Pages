@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251216-item-0735",
+  "title": "圣诞树小偷",
+  "category": "gallery",
+  "prompt": "这是一则新闻采访，图二角色拿着话筒采访图一角色，问道：“就算你想偷圣诞树，这种方法也太极端了吧。“”图一角色在一旁弯着腰，一脸羞愧的看向镜头。在她的身后，她有一个巨大的圣诞树一样的尾巴，圣诞树的顶端被角色的臀部遮挡住，一部分裙摆盖在上面。精美的二次元画风。背景热闹的圣诞夜，周围有很多围观群众，有人拿出手机拍照图片比例16:9",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "四姐",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1376,
+    "height": 768
+  },
+  "refs": [],
+  "createdAt": "2025-12-16T18:47:47Z"
+}

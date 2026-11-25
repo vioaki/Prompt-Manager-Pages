@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0165",
+  "title": "水果蜡烛",
+  "category": "gallery",
+  "prompt": "A minimal still life of a round glass candle filled with [fruit], labeled “[SCENT NAME]”, placed on elegant white silk fabric. The candle glass is [glass color], and the wax matches the fruit color. The scene is softly lit by natural daylight with subtle shadows and smooth highlights. Hyperrealistic texture, clean aesthetic, top-down view, styled like high-end product photography.",
+  "description": "使用 Nano Banana Pro 拍摄水果蜡烛，呈现极简静物与自然光影，适合电商和生活方式品牌的高端产品摄影。Nano Banana Pro 助你捕捉超现实纹理，提升自然与景观元素的 SEO 可见性。",
+  "tags": [
+    "banana",
+    "产品广告",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1120,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

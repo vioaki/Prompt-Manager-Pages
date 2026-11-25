@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0657",
+  "title": "控制",
+  "category": "template",
+  "prompt": "character_design:\r\nidentity_source: \"基于参考图 (Based on Reference Image)\"\r\napparel_source: \"基于参考图 (Based on Reference Image)\"\r\nconsistency_requirement: \"严格保持参考图中的人物特征、发型、发色及服饰设计不变\"\r\n\r\nvisual_composition:\r\nperspective: \"背面视角 (Back view / Dorsal view)\"\r\nframing: \"膝盖以上/全身 (Knee-up to Full body)\"\r\nbackground: \"纯白/极简背景 (Simple white background)\"\r\n\r\npose_and_expression:\r\nposture:\r\nlegs: \"膝盖微弯，内八字 (Knock-kneed)，呈现不稳状态\"\r\narms: \"双臂置于身后，双手叠加在身后一起放在臀部下方 (Hands holding skirt down from behind)\"\r\nbody_language: \"颤抖 (Trembling)，畏缩\"\r\nfacial_features:\r\nvisibility: \"侧脸可见 (Profile view)\"\r\nexpression: \"羞耻，困扰 (Embarrassed, distressed)\"\r\ndetails: \r\n- \"面部红晕 (Blushing/Flushed face)\"\r\n- \"闭眼 (Eyes closed/wincing)\"\r\n- \"汗珠 (Sweat drops)\"\r\n\r\ninteraction_elements:\r\nforeground_prop:\r\nitem: \"遥控器 (Remote control)\"\r\ncolor: \"粉色\"\r\nholder: \"一只手 (男性/第一人称视角手部)\"\r\nui_elements: \r\n- \"旋钮 (Dial)\"\r\n- \"状态指示气泡: 'ON'\"\r\nvisual_effects:\r\ntext_fx: \"日文拟声词 'ヴヴヴヴ' (Vu-vu-vu-vu，表示震动声)\"\r\nmotion_fx: \r\n- \"身体周围的颤抖线条 (Shake lines)\"\r\n- \"臀部位置的震动特效线 (Vibration/Electric effect lines)\"",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "西",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1365,
+    "height": 768
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T20:11:22Z"
+}

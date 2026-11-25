@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0178",
+  "title": "抽象液体排版文字",
+  "category": "gallery",
+  "prompt": "Abstract liquid typography spelling \"text\", made of thick, transparent water-gel with realistic refraction and soft shadows. Each letter appears sculpted from droplets with surface tension, smooth curves, and light reflections. Water droplets scattered on the surface, minimal background, hyper-realistic lighting, photorealistic render",
+  "description": "使用 Nano Banana Pro 模型，打造超现实的抽象液体排版文字，适用于摄影与品牌设计，呈现透明水凝胶字母的逼真折射和柔和光影，为数字艺术注入现代简约美学。",
+  "tags": [
+    "banana",
+    "超现实",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

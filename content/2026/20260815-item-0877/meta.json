@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20260815-item-0877",
+  "title": "裂痕彼端",
+  "category": "template",
+  "prompt": "绝美二次元动画电影截图，4K分辨率。京都动画与新海诚混合风格，细腻平涂，赛璐珞上色。\r\n极具张力的倾斜俯视视角，大景深，前景手部透视拉伸。\r\n角色微微张开嘴唇，眼神平静却透露出无法言说的隐忍与淡淡哀伤，直视镜头。一只手从画面深处向镜头前用力伸来。\r\n画面第一层叠加着“破碎的镜面”特效，蜘蛛网状的裂纹正在蔓延，细碎发光的玻璃碎片在空中悬浮剥落。\r\n电影级冷色调（灰蓝、深紫与微弱的冷白光），边缘色散，强烈的背光与轮廓光，带有胶片颗粒感与电影宽画幅黑边。",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "二次元",
+    "超现实",
+    "壁纸"
+  ],
+  "author": {
+    "name": "aki",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 900
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-08-15T14:11:21Z"
+}

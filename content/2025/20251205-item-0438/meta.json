@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0438",
+  "title": "火星监控录像",
+  "category": "gallery",
+  "prompt": "Grainy surveillance security camera footage from inside a Mars habitat airlock. High-angle top-down view. Elon Musk is sitting on a metal crate, looking up directly at the camera with a tired, manic expression. He is wearing a dirty SpaceX flight suit. The lighting is dim industrial red emergency lighting. Image quality is poor: video compression blocks, horizontal tracking lines, and noise. \"REC\" blinking icon and timecode in green font on screen.",
+  "description": "借助 Nano Banana Pro 模型，捕捉火星监控录像的震撼画面，呈现电影级真实感，适用于航天机构、科幻制作及需要外星监控的安全模拟场景。",
+  "tags": [
+    "banana",
+    "复古",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 670
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-2020-0256",
+  "title": "20世纪20年代亚瑟·拉克姆风格的童话插画",
+  "category": "gallery",
+  "prompt": "Transform this image into a 1920s fairy tale illustration in the style of Arthur Rackham. Use muted watercolor tones and intricate ink linework. Fill the scene with whimsical forest creatures, twisted tree branches, and hidden magical objects. The overall tone should be mysterious, enchanting, and slightly eerie. Add handwritten calligraphy-style captions and riddles.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，将你的图片转化为20世纪20年代亚瑟·拉克姆风格的童话插画，呈现柔和的水彩色调与精致墨水线条，适合奇幻书籍和游戏场景，营造神秘迷人的氛围。",
+  "tags": [
+    "banana",
+    "插画",
+    "手绘",
+    "复古"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

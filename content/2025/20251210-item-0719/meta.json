@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "20251210-item-0719",
+  "title": "雌小鬼",
+  "category": "gallery",
+  "prompt": "（1k）根据上图角色生成一张图:精致CG, 动漫风格, 与参考图相同的服装、瞳色、发饰,坐姿\r\n角色一:嚣张,大笑,坐在图二角色的身上，一只没有穿鞋（但穿着袜子的脚）伸出以一种胜利者的姿态搭在图二角色头或者脸上，双手叉腰\r\n角色二:被压在身下，还被踩着脑袋，但露出享受的表情，脸上有红晕\r\n人物保持原画风,柔和的色彩, 温和的光线,侧光,干净的线条,室内\r\n注意事项:区分开两位角色的服装细节\r\n绘制合理的角色姿势",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图"
+  ],
+  "author": {
+    "name": "影猫",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 848,
+    "height": 1264
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    },
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-10T10:52:19Z"
+}

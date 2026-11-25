@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0066",
+  "title": "透明容器里有一个微型的3D世界",
+  "category": "gallery",
+  "prompt": "A giant [transparent or glossy] [object/container] with a miniature 3D diorama inside it, depicting [a symbolic or narrative scene], studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone (e.g., surreal, poetic, or sci-fi).",
+  "description": "借助 Nano Banana Pro 打造未来科幻风格的透明容器微型3D世界，细腻展现光影折射与纹理细节，适合概念艺术与沉浸式叙事场景。",
+  "tags": [
+    "banana",
+    "3D",
+    "微缩"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1104,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0051",
+  "title": "由鲜花组成的小房子",
+  "category": "gallery",
+  "prompt": "A small house made of flowers, a tree with colorful leaves growing on top and around the door, in the style of fantasy, mountainscape in the background, natural lighting, soft colors, rich details, and a full atmosphere, subtle painterly style",
+  "description": "使用 Nano Banana Pro 模型，创作由鲜花组成的小房子奇幻场景，适用于书籍插画或游戏素材，以柔和色彩和丰富细节营造宁静氛围。",
+  "tags": [
+    "banana",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

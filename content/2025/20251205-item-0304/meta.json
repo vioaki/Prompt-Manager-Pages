@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0304",
+  "title": "人物电影级渲染",
+  "category": "gallery",
+  "prompt": "Full-body shot of a [character + location], with a powerful aura of energy around [him/her] and [visual effect], [action or movement] in a dynamic pose. Realistic photography, cinematic lighting, and hyper-detailed rendering.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作电影级人物渲染，实现超写实全身动态姿势与能量特效，适用于游戏角色设计、影视预演等专业场景。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 453
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

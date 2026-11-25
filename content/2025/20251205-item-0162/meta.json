@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0162",
+  "title": "用气泡膜覆盖表情符号",
+  "category": "gallery",
+  "prompt": "A hyper-realistic 3D render of the emoji [❤️‍🔥], entirely wrapped in transparent bubble wrap. The plastic is tightly fitted, with clearly visible air-filled bubbles creating overlaid reflections and soft distortions of the emoji underneath. The wrap has a glossy, crinkled texture that catches the light in detailed highlights. Set against a soft, neutral grey background with subtle shadows. Studio lighting should emphasize the tactile quality of the bubble wrap and the surreal effect it creates. Whimsical, satisfying, and visually clean.",
+  "description": "使用 Nano Banana Pro 模型，轻松生成超写实 3D 表情符号包裹气泡膜的惊艳效果，适合数字营销和社交媒体内容，以细腻的光泽与质感吸引眼球。",
+  "tags": [
+    "banana",
+    "写实",
+    "3D",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0153",
+  "title": "自己的国家地标时尚杂志",
+  "category": "gallery",
+  "prompt": "a luxurious fashion magazine cover designed in the style of [COUNTRY], blending iconic landmarks, cultural symbols, and local fashion aesthetics. The layout mimics high-end editorial design, with headlines inspired by the country’s language, trends, and lifestyle. Sophisticated, cinematic lighting, vertical 9:16 format, ultra-detailed, Vogue-level elegance",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，打造融合标志性地标与文化符号的豪华时尚杂志封面，以高端编辑风格呈现，适用于时尚品牌设计和生活方式出版物，带来Vogue级别的优雅视觉体验。",
+  "tags": [
+    "banana",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

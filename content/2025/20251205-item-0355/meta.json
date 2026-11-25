@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0355",
+  "title": "时尚女性与熊合影",
+  "category": "gallery",
+  "prompt": "Ultra-cinematic shot of a confident, stylish woman in a sleek, dark suit blazer and combat boots, standing with a massive brown bear slightly behind her, with her hand resting on the bear. It's clear that the bear is her protector and loyal, trained companion. Ultra-detailed photo in Russian style. Dramatic, directed lighting, minimal environmental immersion, solid red background. The image exudes boldness, strength, and a feeling of high tension.",
+  "description": "使用 Nano Banana Pro 拍摄，打造极简主义风格下的时尚大片，适合展现女性与熊的戏剧性合影，突出力量与高张力氛围，适用于时尚摄影或艺术创作。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0185",
+  "title": "心爱的角色制作动漫风格的签名",
+  "category": "gallery",
+  "prompt": "A minimalistic black-and-white autograph design in a single-line drawing style, featuring the handwritten signature: [CHARACTER NAME], integrated with cute line art elements inspired by the character’s appearance and personality (for example: hair, outfit details, weapons, magical symbols). Include a small mascot or doodle of the character in simplified chibi style, surrounded by decorative elements (stars, hearts, sparkles, musical notes, flowers) that match their vibe. Clean, cute, modern design suitable for tattoo or sticker. High-resolution line art.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作极简动漫风格角色签名，融合单线绘图与个性化Q版元素，适合粉丝艺术、品牌周边或数字内容，以简洁美学展现角色魅力。",
+  "tags": [
+    "banana",
+    "二次元",
+    "手绘",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 624
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

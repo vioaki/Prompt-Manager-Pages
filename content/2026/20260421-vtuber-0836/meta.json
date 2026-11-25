@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20260421-vtuber-0836",
+  "title": "VTuber标志设计",
+  "category": "template",
+  "prompt": "6种不同日语风格VTuber标志并排展示，名字是“{{userText}}”",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2026-04-21T22:39:55Z"
+}

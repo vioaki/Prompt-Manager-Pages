@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0283",
+  "title": "3D纸艺作品",
+  "category": "gallery",
+  "prompt": "A 3D papercraft representation of [Subject], composed of layered paper cutouts, resting on a simple cardboard base. Highlights of [color 1] and [color 2] paper textures create depth and dimension. Set against a softly lit crafts room, realistic lighting, intricate paper edges, shallow depth of field",
+  "description": "使用Nano Banana Pro或Nano Banana Pro创作精美3D纸艺作品，通过多层剪纸和对比色彩打造立体感，适合室内装饰与车辆模型设计。在柔和灯光的手工房场景中，呈现逼真纸张纹理与精致细节，提升视觉深度。",
+  "tags": [
+    "banana",
+    "3D",
+    "手绘"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

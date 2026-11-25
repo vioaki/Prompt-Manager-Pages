@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0233",
+  "title": "电影镜头拍摄",
+  "category": "gallery",
+  "prompt": "Cinematic shot of [detailed character description], shot from [camera angle], [lighting type], [color palette], shot at close range, 35mm film grain, wide angle lens, f2.0 bokeh, shallow depth of field.",
+  "description": "Nano Banana Pro与Nano Banana Pro助你打造电影级角色镜头，通过广角与浅景深呈现戏剧化肖像，结合35mm胶片颗粒与光影氛围，完美适用于影视制作与数字艺术创作。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

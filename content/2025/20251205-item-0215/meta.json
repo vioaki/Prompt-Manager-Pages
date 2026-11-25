@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0215",
+  "title": "冬日国家",
+  "category": "gallery",
+  "prompt": "A super detailed, realistic snow globe containing the essence of [Country Name]. Inside the globe: miniature snowy landscapes, iconic landmarks, cultural symbols, and natural elements representing [Country Name], rendered with extreme realism and rich textures. Delicate falling snow creates a magical, atmospheric effect inside the globe. The background is clean and softly lit to focus entirely on the globe. The image is 1:1 aspect ratio. At the bottom of the image, the text “[Country Name]” is clearly written in an elegant serif font",
+  "description": "借助 Nano Banana Pro，打造超写实雪景球，完美呈现冬日国家的建筑地标与自然风光，适用于品牌标识、景观设计及文化项目，营造魔幻氛围。",
+  "tags": [
+    "banana",
+    "微缩",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 568
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

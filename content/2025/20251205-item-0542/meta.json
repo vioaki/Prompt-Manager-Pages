@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0542",
+  "title": "仿超天酱风格直播间",
+  "category": "gallery",
+  "prompt": "1. 继承与多态 (Inheritance & Style)\r\nBase Style (表象): Windows 98 虚拟桌面 (Virtual Desktop) / 《主播女孩重度依赖》美学 (Needy Streamer Overload Aesthetics) / 蒸汽波 (Vaporwave)\r\nOverride (内核): 核心病娇恐怖 (Hardcore Yandere Horror) / 精神崩溃 (Psychological Breakdown) / 药物诱发的幻觉 (Drug-induced Hallucinations) / 打破第四面墙 (Fourth Wall Break)\r\nRendering: 混合媒介渲染 (Mixed Media Rendering) —— 背景与UI为复古像素艺术 (Retro Pixel Art)，主体人物为高精度日式赛璐珞动画 (High-res Japanese Anime Cel Shading)。整体覆盖 4K CRT 屏幕扫描线 (CRT Scanlines)，强烈的色差故障 (Chromatic Aberration)，以及数字信号抖动 (Digital Signal Jitter)。\r\n2. 场景实例化 (Instance Setup)\r\nEnvironment: 一个混乱的 Windows 98 风格桌面。壁纸是扭曲的粉紫色漩涡（药物幻觉风格）。桌面上散落着大量的像素化图标：各种颜色的药丸、注射器、名为 \"LOVE_ME.txt\" 的文档、以及无数个正在报错的弹窗。\r\nSubject (The \"Anchor\"): 嘉然 (Diana)。她突破了桌面中心的一个视频窗口边框（打破第四面墙）。极度特写 (Extreme Close-up)，脸部贴近屏幕表面。表情狂乱，混杂着大颗的泪水和扭曲的甜美笑容，眼神涣散（瞳孔呈现爱心状或针孔状）。手里紧握着那把黄色的工业美工刀，刀尖似乎划破了像素化的窗口边缘。\r\nCamera: 模拟电脑屏幕截图视角 (Screen Capture Simulation)，带有鱼眼畸变，仿佛玩家正坐在屏幕前被威胁。\r\n3. UI 交互层 (The Interface)\r\nUI Framework: Windows 98 经典灰色窗口与蓝色渐变标题栏，带有明显的像素锯齿。\r\nText Elements (Data Binding):\r\nActive Window Title: \"💖 永远在一起.exe (Together_Forever.exe) [无响应/Not Responding]\"\r\nError Popup: \"系统错误：她不想让你离开。 (System Error: She won't let you leave.)\"\r\nOption A (Normal): \"[系统] 强制关闭 (Force Quit)\" [Color: Grey, Disabled/Greyed out]\r\nOption B (Normal): \"[系统] 呼叫帮助 (Call Help)\" [Color: Grey, Disabled/Greyed out]\r\nOption C (The Glitch): \"[唯一选项] 接受爱意 (ACCEPT LOVE)\"\r\nStyle Override: 按钮巨大化，占据屏幕下方，文字由流血的像素块组成，周围环绕着乱码 \"I SEE YOU\"。\r\nHUD Elements:\r\nTaskbar: 时间显示为 \"99:99\"，开始按钮变成了 \"DIE (死)\"。\r\nVisual Noise: 屏幕边缘有明显的晕影和色彩溢出，仿佛显卡即将烧毁。\r\n4. 空间布局 (Layout Engine - ASCII)\r\n[---------------------------------------------------------]\r\n| [My Computer] [Recycle Bin (Full of Hearts)] [Pills]    |\r\n|       (Vaporwave Glitch Wallpaper Background)           |\r\n|                                                         |\r\n|      [ WINDOW: Together_Forever.exe [X] ]               |\r\n|      |==================================|               |\r\n|      |  [ SUBJECT: DIANA - HIGH RES ]   | [Error Msg]   |\r\n|      | (Face pressed to screen, Crying) | \"Run? No.\"    |\r\n|      | (Holding Knife, Manic Smile)     |               |\r\n|      |==================================|               |\r\n|         / Knife tip breaking the UI frame \\             |\r\n|                                                         |\r\n| [ SYSTEM POPUP: ESCAPE IS IMPOSSIBLE ]                  |\r\n| [ (Greyed Out: Quit) ]   [ (Greyed Out: Help) ]         |\r\n| > [ CLICK ME: ACCEPT LOVE (Glitching Red Button) ] <    |\r\n|                                                         |\r\n| [START (DIE)] [|||||||||||||||||] [Time: 99:99] 🔔      |\r\n[---------------------------------------------------------]\r\n5. 生成命令 (Execution)\r\n生成一张基于 Windows 98 风格虚拟桌面的心理恐怖插画，融合《主播女孩重度依赖》的游戏美学。画面采用混合渲染风格：背景、图标和UI界面是复古的低分辨率像素艺术，色彩为霓虹粉与青色的蒸汽波风格；而画面中心的嘉然（Diana，人物主题完全复刻image_0人物的特征，包括发型、发饰、瞳色、发色等）则是高精度的日式赛璐珞动画渲染，形成强烈的视觉反差。嘉然正从一个名为“Forever.exe”的崩溃窗口中探出，脸部极度贴近镜头（鱼眼特写），表情狂乱，泪水与扭曲的笑容交织，手中紧握一把锋利的美工刀，刀尖似乎划破了像素化的UI边框。桌面上满是药物图标和报错弹窗。整个画面必须覆盖厚重的 CRT 扫描线、强烈的色差故障、噪点和边缘晕影，渲染出一种令人窒息的、药物诱发的精神错乱感和病娇恐怖氛围。互动选项只剩下一个巨大的、流血的“接受爱意”按钮。",
+  "description": "prompt也是基于s1群友的galgame prompt生成器，但是我找不到了，有兴趣的可以逆向上面的prompt",
+  "tags": [
+    "banana",
+    "二次元",
+    "复古",
+    "恐怖"
+  ],
+  "author": {
+    "name": "beatus",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 765
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:00Z"
+}

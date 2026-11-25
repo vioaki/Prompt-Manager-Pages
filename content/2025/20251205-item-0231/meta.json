@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0231",
+  "title": "讽刺版的你",
+  "category": "gallery",
+  "prompt": "Based on your understanding of my personality and past interactions, create a humorous and satirical image that teases me in a playful way. The image must have comedic features, using exaggerated expressions or surreal visual metaphors. Artistic style: cartoon or caricature with high contrast and expressive details. The goal is to amuse, not insult. Ensure the satire is clever and mindful.",
+  "description": "Nano Banana Pro擅长生成幽默讽刺的卡通车辆图像，通过夸张的艺术风格为娱乐或营销场景增添趣味，让观众在会心一笑中感受巧妙调侃。",
+  "tags": [
+    "banana",
+    "插画",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

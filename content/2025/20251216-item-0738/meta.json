@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251216-item-0738",
+  "title": "裸体抱枕（使用非人参考图）",
+  "category": "gallery",
+  "prompt": "character_features:\r\nbase: \"基于参考图角色\"\r\nexpression: \"羞涩专注地直视镜头，面颊高饱和度红晕\"\r\npose: \"仰卧 (Supine)，双臂紧抱抱枕，双腿弯曲分开，裸露大腿\"\r\nclothing: \"躯干被遮挡，仅见裸露的四肢，无明显衣物\"\r\ninteractive_elements:\r\nprop: \"浅黄色/奶黄色柔软织物抱枕，受压起皱\"\r\ninteraction: \"角色紧抱抱枕，遮挡住口鼻下半部至大腿根部\"\r\nscene_environment:\r\nsetting: \"卧室床铺，暖色褶皱床单，头部下方有枕头，暗示木质床头板\"\r\ncomposition_and_camera:\r\nangle: \"高角度俯视 (Top-down view)\"\r\nframing: \"中近景，聚焦于眼部和被挤压的抱枕\"\r\naspect_ratio: \"9:16\"",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-16T21:05:12Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0184",
+  "title": "微型毛毡羊毛人物",
+  "category": "gallery",
+  "prompt": "A felted wool figure of a [subject], handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of layered fabrics and pastel props, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread.",
+  "description": "使用 Nano Banana Pro 创作微型毛毡羊毛人物，通过柔软纹理和分层布景，打造温馨故事书般的 3D 艺术或产品摄影，呈现触感十足的定格动画风格。",
+  "tags": [
+    "banana",
+    "手绘",
+    "手办化",
+    "微缩"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

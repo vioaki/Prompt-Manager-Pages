@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "20260623-mc-0858",
+  "title": "MC化",
+  "category": "template",
+  "prompt": "提示词翻译：\r\n将输入图像中的整个场景转换为《我的世界》截图风格。使用与《我的世界》游戏美学一致的块状、像素化体素和纹理来渲染所有物体、人物和环境。应用逼真的光影效果，包括动态照明、柔和的阴影以及水面或金属等表面的反射，以营造沉浸式的氛围。场景应看起来像是通过玩家的第一人称视角观看的，并且屏幕底部可见标准的《我的世界》用户界面（快捷栏、生命值和饥饿值条）。\r\n\r\n\r\nTransform the entire scene from the input image into a Minecraft screenshot style. Render all objects, characters, and the environment using blocky, pixelated voxels and textures, consistent with the Minecraft game aesthetic. Apply realistic shader effects, including dynamic lighting, soft shadows, and reflections on surfaces like water or metal, to create an immersive atmosphere. The scene should appear as if viewed through the first-person perspective of a player, complete with the standard Minecraft user interface (hotbar, health, and hunger bars) visible at the bottom of the screen.",
+  "description": "",
+  "tags": [
+    "像素",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-06-23T14:30:28Z"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-rick-and-morty-0458",
+  "title": "rick and morty画风卡片",
+  "category": "gallery",
+  "prompt": "使用 rick and morty 画风，非常详细地介绍xxxxx",
+  "description": "使用 Nano Banana Pro 模型，轻松创作充满《瑞克和莫蒂》风格的动态卡片，适合娱乐媒体、社交内容或宣传材料，以鲜艳色彩和超现实元素打造吸睛数字艺术作品。",
+  "tags": [
+    "banana",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

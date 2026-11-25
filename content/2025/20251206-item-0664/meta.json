@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251206-item-0664",
+  "title": "牌佬落泪",
+  "category": "gallery",
+  "prompt": "Generate a hyper-realistic photograph with RAW photo quality, captured by a top-tier camera. The image must exhibit realistic skin textures, rich lighting layers, and a natural depth of field. Absolutely no anime, cartoon, CG, or painted elements are allowed—the result must be a 100% authentic photographic representation. The scene is set in a restaurant, captured from a first-person perspective. I am sitting alone, holding chopsticks in one hand and a card in the other, which is exactly the provided picture. In the background, a cosplayer (dressed as the anime character) is dining with her boyfriend, feeding him a bite of food. The composition should evoke a sense of loneliness and contrast between the observer and the observed.",
+  "description": "上传一张卡牌高清图即可",
+  "tags": [
+    "banana",
+    "梗图",
+    "游戏",
+    "NTR"
+  ],
+  "author": {
+    "name": "Toratuber",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1087,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-06T23:20:17Z"
+}

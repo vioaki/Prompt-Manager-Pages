@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20260623-item-0854",
+  "title": "迷你果汁",
+  "category": "template",
+  "prompt": "フォトリアル。明るい雰囲気、屋外風の木のテーブルの上のトロピカルなドリンクの中、参考画像のキャラクターが氷の上に腰かけている。背景はフォトリアルだが、参考画像のキャラクターは画像を精巧に模した小さな生き物のように、背景に自然に溶け込んでいる。カメラは画面いっぱいにドリンクを捉えている。ミクロの視点。繊細なソーダの泡。グラスに添えられたトロピカルなカットフルーツ。",
+  "description": "传入人物参考图",
+  "tags": [
+    "二次元",
+    "次元融合",
+    "微缩",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1122,
+    "height": 1402
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-06-23T14:21:08Z"
+}

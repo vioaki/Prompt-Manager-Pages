@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0528",
+  "title": "素世春日影梗图科普",
+  "category": "gallery",
+  "prompt": "请你先研究、了解清楚《mygo》的剧情，并掌握长崎素世大喊“为什么要演奏春日影！”和“求你了！”两个梗的用法，然后用一张图以看似严肃、科学的态度但实际是开玩笑地用中文科普着两个梗。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图",
+    "信息图"
+  ],
+  "author": {
+    "name": "Akemi",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

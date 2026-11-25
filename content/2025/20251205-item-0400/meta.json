@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0400",
+  "title": "超逼真全身肖像与角色互动",
+  "category": "gallery",
+  "prompt": "Ultra-realistic full-body portrait of the attached image.\nThe person is interacting with {fictional character} in a {pose/interaction type}.  \nStudio or neutral environment, soft cinematic lighting, {optional color palette}.  \nThe person wears {clothing style and colors}, The fictional character retains its original appearance, including skin color, clothing, and signature features.  \nExpression and mood: {emotional tone}, captured in photorealistic textures, realistic lighting, cinematic composition, high fashion editorial quality.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松创作超逼真全身肖像与角色互动，完美适用于时尚摄影和电影级视觉叙事，在工作室或中性环境中呈现细腻情感与生动细节。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "次元融合"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 686,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

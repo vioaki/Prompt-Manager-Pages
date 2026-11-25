@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0420",
+  "title": "穿着充气羽绒服的鸟儿",
+  "category": "gallery",
+  "prompt": "A bird wearing an inflatable [COLOR] down jacket perched on the top of a dry tree branch. the background is a blurred green grassland, in the style of real photography with natural lighting.",
+  "description": "Nano Banana Pro 能捕捉穿着充气羽绒服的鸟儿那种俏皮温馨风格，非常适合节日宣传、童书插画或传递温暖幽默的社交媒体内容。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 678,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

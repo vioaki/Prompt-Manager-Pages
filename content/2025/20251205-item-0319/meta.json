@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0319",
+  "title": "角色创建",
+  "category": "gallery",
+  "prompt": "3d rendering, c4d, cartoon style, [ACTION-DRIVEN CHARACTER IN EXAGGERATED POSE, EXPRESSING IRONY OR DEFIANCE], [MINIMAL BACKGROUND OF CONTEXTUAL SETTING], minimalist art style, simple design, high resolution, no low-quality details, high detail,best quality, professional photography, depth of field, soft lighting, sharp focus, cinematic lighting, cinematic camera settings",
+  "description": "使用 Nano Banana Pro 创建极简卡通角色，以夸张姿势表达讽刺或反抗，适合动画和游戏开发，提供高分辨率、电影级质量的 3D 渲染。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 383
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

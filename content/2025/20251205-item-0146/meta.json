@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0146",
+  "title": "怀旧午后阳光",
+  "category": "gallery",
+  "prompt": "a pillow fort in the backyard, shaded by a big old tree. Sunlight filters through the leaves, and a young boy and his golden retriever naps beside a tray of lemonade and cookies. Wind chimes tinkle gently in the breeze. Warm afternoon light, playful and nostalgic, children's book illustrated feeling",
+  "description": "使用 Nano Banana Pro 模型，轻松创作怀旧童书风格的温暖场景，适合故事书插画、贺卡或家庭主题品牌设计，捕捉阳光后院与惬意小憩的纯真魅力。",
+  "tags": [
+    "banana",
+    "复古",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

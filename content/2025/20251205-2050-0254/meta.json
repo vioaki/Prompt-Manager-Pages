@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-2050-0254",
+  "title": "20世纪50年代的海报",
+  "category": "gallery",
+  "prompt": "Transform this image into a 1950s poster in the style of mid-century modern graphic designers. Use flat, geometric color blocks with strong typographic elements.  The overall tone should be optimistic, nostalgic, and promotional. Add bold location labels and promotional slogans.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成20世纪50年代风格海报，融合扁平几何色块与醒目排版，营造乐观怀旧的宣传氛围，适合复古广告、旅游推广或怀旧品牌项目。",
+  "tags": [
+    "banana",
+    "复古",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

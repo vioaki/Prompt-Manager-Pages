@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-tech-summit-2025-0082",
+  "title": "渐变挤出Tech Summit 2025大会视觉效果",
+  "category": "gallery",
+  "prompt": "Retexture this image in the following JSON style aesthetic:\n{\n  \"styleAesthetic\": {\n    \"title\": \"Isometric Multicolor Extrusion with Grid Control\",\n    \"overallVibe\": \"Playful modern 3D iconography with directional extrusion and dynamic isometric grids\",\n    \"viewAngle\": {\n      \"type\": \"Isometric\",\n      \"facingDirection\": \"right\",  // options: left, right, front\n      \"rotationDegrees\": {\n        \"x\": 30,\n        \"y\": 30\n      }\n    },\n    \"renderingStyle\": \"Clean 3D extruded vector with soft lighting and high contrast between faces\",\n    \"objectSurface\": {\n      \"frontFace\": {\n        \"color\": \"#ffffff\",\n        \"material\": \"Matte white plastic\",\n        \"lighting\": \"Soft diffuse\"\n      },\n      \"extrudedSide\": {\n        \"type\": \"Multicolor gradient\",\n        \"gradientStyle\": \"Diagonal sweep\",\n        \"colorStops\": [\n          \"#ff0040\", \"#ff8000\", \"#ffff00\", \"#00ff90\", \"#00cfff\", \"#8000ff\"\n        ],\n        \"material\": \"Glossy plastic\",\n        \"lighting\": \"Ambient with light falloff\"\n      }\n    },\n    \"extrusion\": {\n      \"direction\": \"right\",  // determines which side is extruded: left, right, front\n      \"depth\": \"moderate\"\n    },\n    \"shadows\": {\n      \"type\": \"Drop shadow\",\n      \"direction\": \"bottom-right\",\n      \"opacity\": 0.15,\n      \"blurRadius\": \"6px\"\n    },\n    \"background\": {\n      \"type\": \"Isometric grid\",\n      \"color\": \"#ffffff\",\n      \"gridStyle\": {\n        \"lineColor\": \"#e0e0e0\",\n        \"lineWeight\": \"1px\",\n        \"orientation\": \"opposite-extrusion\"  // automatically flips grid lines to oppose the extrusion direction\n      }\n    },\n    \"moodKeywords\": [\n      \"Dimensional\",\n      \"Clean\",\n      \"Geometric\",\n      \"Colorful\",\n      \"Tactile\",\n      \"Structured\"\n    ]\n  }\n}",
+  "description": "借助 Nano Banana Pro 模型，轻松打造俏皮现代的三维图标风格，通过等距多色挤出与网格控制，为科技演示、创意品牌和动态界面设计注入干净立体的向量美学。",
+  "tags": [
+    "banana",
+    "3D",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0676",
+  "title": "随意自拍",
+  "category": "gallery",
+  "prompt": "将上传的图片转换为一张极其普通且毫无特色的 iPhone 自拍照，没有明确的主体或构图感——就像随意拍摄的快照。照片应包含轻微光线不均匀。角度尴尬，构图凌乱，整体美感刻意平淡——就像不小心从口袋拿出手机时拍到的一样。拍摄时间为白天",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1015,
+    "height": 1514
+  },
+  "refs": [],
+  "createdAt": "2025-12-07T13:38:13Z"
+}

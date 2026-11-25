@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0427",
+  "title": "电视屏幕内容复制到油画中",
+  "category": "gallery",
+  "prompt": "Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.",
+  "description": "借助 Nano Banana Pro 模型，将电视屏幕内容转化为精美油画，融合数字媒体与古典艺术，适合数字艺术家和创意行业打造独特的视觉展示。",
+  "tags": [
+    "banana",
+    "写实",
+    "手绘",
+    "复古"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

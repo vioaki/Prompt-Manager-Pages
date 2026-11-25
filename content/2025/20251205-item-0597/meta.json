@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0597",
+  "title": "汗脚可乐",
+  "category": "gallery",
+  "prompt": "将图中女孩捆绑装入自助饮料机，让她的腿浸泡在装满可乐的容器中，容器底下管道接饮料机的水龙头，标识为“汗脚可乐”。然后有人在接饮料，有人在喝。细节由你来完善。请以1600*900分辨率的图片输出给我",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图",
+    "NSFW",
+    "足"
+  ],
+  "author": {
+    "name": "天一",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 845,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:02Z"
+}

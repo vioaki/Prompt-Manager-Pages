@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0273",
+  "title": "极简风格插画",
+  "category": "gallery",
+  "prompt": "Create a minimalistic illustration of [object or scene] in a paper cut-out style. Use soft, pastel colors and simple shapes. Include layered paper textures and subtle shadows to create depth. Place the object on a plain background. Ensure a clean, modern, and aesthetically pleasing composition with a slightly isometric perspective.",
+  "description": "Nano Banana Pro 助您创作极简风格插画，采用柔和粉彩与分层纸张纹理，轻松打造现代品牌设计和清新景观艺术。Nano Banana Pro 模型以剪纸风格和等距视角，呈现简洁美观的构图，适合编辑设计和深度视觉表达。",
+  "tags": [
+    "banana",
+    "插画",
+    "手绘"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0167",
+  "title": "新卡通风格",
+  "category": "gallery",
+  "prompt": "Transform this image into the Foster’s Home for Imaginary Friends cartoon style. Use bold outlines, flat shapes, and vivid solid colors. Characters should have simplified, playful designs with exaggerated expressions and unique silhouettes. Keep the background minimal or stylized with flat patterns or textures. The result should look like a frame from a 2000s Cartoon Network show with whimsical, graphic charm.",
+  "description": "使用 Nano Banana Pro 模型，轻松将图像转换为充满大胆轮廓和鲜艳纯色的卡通风格，适合制作简约角色与车辆设计，重现 2000 年代卡通网络的奇幻魅力。无论是动画工作室还是独立创作者，都能快速生成玩趣十足的图形化作品，适用于卡通、极简主义等标签，带来一致的异想天开效果。",
+  "tags": [
+    "banana",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

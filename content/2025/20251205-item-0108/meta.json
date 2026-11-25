@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0108",
+  "title": "皮克斯风格角色表",
+  "category": "gallery",
+  "prompt": "A character sheet of [detailed description of thecharacter], in the style of Pixar, featuring multiple poses and expressions from different angles, including concept art, pencil sketches, a full-body reference sheet, and a white background. The sheet includes wide shots, low-angle views, 3D renders, and Octane renderings, highly detailed result.",
+  "description": "使用Nano Banana Pro轻松生成皮克斯风格角色表，适用于动画工作室和游戏开发，提供多角度动态姿势与高细节3D渲染参考。Nano Banana Pro则能快速创建概念艺术和全身参考图，帮助专业设计师高效完成角色设计。",
+  "tags": [
+    "banana",
+    "3D",
+    "设定图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0260",
+  "title": "纸制玩具版本",
+  "category": "gallery",
+  "prompt": "Ultra-detailed render of a [CHARACTER NAME] paper toy version in box form (papertoy) made from matte folded cardboard and cut with visible paper texture, clean edges and neat folds. Cubic head and body, square extremities, simplified facial features, flat printed colors and subtle shading for greater depth. The clothing and accessories faithfully imitate the appearance of the reference image in a minimalist geometric papercraft style, maintaining compact proportions and chibi style. Neutral studio lighting, soft shadows, smooth background, photorealistic product photography, 4K, no text or logos. 1080x1080 dimension.",
+  "description": "使用 Nano Banana Pro 模型，轻松打造简约几何风格的纸制玩具角色，适用于品牌、摄影和时尚项目，展现细腻的折叠美学与质感深度。",
+  "tags": [
+    "banana",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 1108
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0022",
+  "title": "新市场中的美妆品牌",
+  "category": "gallery",
+  "prompt": "A product photography shot of a [PRODUCT] inspired by [FOOD BRAND], placed against a soft light gray background. The product is sharply focused with soft studio lighting. The packaging design includes the official [FOOD BRAND] logo and reflects the brand’s colors and style. The product is sleek, glossy, and realistic, with high detail and elegant presentation. No food items, just the makeup product. Include only the makeup item in the shot. Modern aesthetic, luxury cosmetic branding",
+  "description": "借助 Nano Banana Pro，轻松拍摄美妆产品摄影，呈现光滑亮泽的化妆品，搭配柔和影棚灯光与简约灰色背景，完美适用于美妆品牌与食品灵感包装设计，打造真实细腻的高端产品展示效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1104,
+    "height": 1112
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

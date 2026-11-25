@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0034",
+  "title": "马赛克壁画",
+  "category": "gallery",
+  "prompt": "A mosaic mural of a [subject], crafted from chipped ceramic and glass shards in sun-faded [color1] and weathered [color2]. Set into a cracked plaster wall, the irregular shapes and grout lines add a rustic, timeworn charm.",
+  "description": "使用 Nano Banana Pro 模型，打造复古马赛克壁画，以碎裂陶瓷和玻璃碎片在褪色色调中呈现，为室内设计或商业空间增添质朴、时光沉淀的魅力。",
+  "tags": [
+    "banana",
+    "手绘",
+    "复古"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

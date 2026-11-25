@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251209-item-0705",
+  "title": "尴尬比心",
+  "category": "gallery",
+  "prompt": "请用nano banana pro 进行图片生成：\r\n\r\n横纵比 (Aspect Ratio): 3:4 (纵向)\r\n\r\n景别控制 (Shot Focus): 肖像特写 (Close-up Portrait)，仅展示从胸部、肩部到头部的范围 (Show only chest, shoulders, and head)，半身像 (Bust Shot)。\r\n\r\n 核心要求： 强制性要求将上传的动漫人物图片转化为写实真人 Cosplay 形象 (Mandatory requirement for photorealistic Cosplay conversion of the uploaded anime character)。\r\n\r\n主体人物与互动：\r\n\r\n\r\n\r\n人物： 上传图片中的动漫女孩的真人 Cosplay 版 和 科比·布莱恩特 (Kobe Bryant)。\r\n\r\n动漫人物特征： 东亚少女 (East Asian girl)，真人 Cosplay 质感 (Photorealistic Cosplay Texture)。\r\n\r\n表情：\r\n\r\n动漫 Cosplay 女孩： 笑容灿烂 (Bright, wide smile)，可爱好看 (Cute and attractive)，眼睛张开不眯起 (Eyes wide open, not squinting)。\r\n\r\n科比： 笑容满面 (Smiling broadly)，眼神看向镜头。\r\n\r\n互动与手势（核心情境）：\r\n\r\n姿势： 两人并肩站立，科比的一只手臂搭在动漫 Cosplay 女孩的肩膀上 (Arm around the Cosplay girl's shoulder)。\r\n\r\n手势：\r\n\r\n动漫 Cosplay 女孩： 做一只手比心的手势 (One hand forming a half-heart gesture)，意图与科比完成比心。\r\n\r\n科比： 对着镜头竖起大拇指 (Giving a thumbs-up)，完全忽略女孩的比心手势 (Completely ignoring the girl's heart gesture)。\r\n\r\n情境： 画面呈现出女孩在做半个比心手势，但科比依旧竖起拇指的尴尬或喜剧性合影 (Awkward or comedic photo of girl forming a half-heart while Kobe gives a thumbs-up)。\r\n\r\n环境与风格：\r\n\r\n\r\n\r\n背景： 夜晚的广州塔 (Guangzhou Tower at night)。塔身灯光璀璨，背景虚化 (Bokeh effect) 且带有城市夜景的光斑。\r\n\r\n风格与效果： 手机拍摄的写实照片 (Realistic photo shot with a smartphone)，带有明显的数字噪点 (Digital Noise) 和颗粒感 (Grain)，模拟高ISO夜景照片 (High ISO night photography) 的效果。\r\n\r\n排除词 (Negative Prompt): 卡通 (Cartoon), 动漫 (Anime), 绘画 (Painting), 眯眼 (Squinting eyes), 模糊 (Blurry), 低分辨率 (Low Resolution)。",
+  "description": "背景可以从其他AI文字工具上要求修改描述",
+  "tags": [
+    "banana",
+    "cosplay",
+    "梗图"
+  ],
+  "author": {
+    "name": "羊驼哥",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-09T18:16:05Z"
+}

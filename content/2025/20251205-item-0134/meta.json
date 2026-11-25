@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0134",
+  "title": "日常用品有皮肤",
+  "category": "gallery",
+  "prompt": "A high-quality studio photograph of a [OBJECT] fully covered in ultra-realistic [ANIMAL] texture (e.g., fur, feathers, skin, or scales), placed against a soft neutral background. The object’s original form remains visible but is wrapped in the animal’s natural pattern and surface detail. The image features clean composition, soft shadows, sharp focus, minimalist styling, professional lighting, and highly detailed textures—each hair, feather, or wrinkle should be visible. Format 1:1.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作极简风格、动物纹理覆盖的日常用品视觉作品，适合商业广告与自然主题品牌项目，呈现清晰细腻的毛发或羽毛细节。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

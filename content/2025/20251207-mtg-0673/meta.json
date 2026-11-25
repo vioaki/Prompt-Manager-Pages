@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-mtg-0673",
+  "title": "任意角色MTG卡牌（鸡飞）",
+  "category": "gallery",
+  "prompt": "就{{角色名称}}，结合ta的人物形象、设定，画一张万智牌；\r\n要求包含完整的人物名称、费用、卡图、效果文本、风味文本和身材（身材指生物的攻击力/生命值）；\r\n要求重新设计卡图，绘制合适的动作、场景、额外物品和角色，不要与给定参考图一致；\r\n效果尽可能原创大胆，但仍符合颜色轮韵味；\r\n属于鸡飞（unstable/unhinged/unglued）系列；\r\n卡片文本使用简体中文；",
+  "description": "",
+  "tags": [
+    "banana",
+    "插画",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 896,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-07T03:38:17Z"
+}

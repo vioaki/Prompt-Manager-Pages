@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "20260211-25-0811",
+  "title": "25个头像视角",
+  "category": "gallery",
+  "prompt": "{\r\n  \"system_mode\": \"Universal_Matrix_Resynthesizer\",\r\n  \"task\": \"structure_identity_fusion\",\r\n  \"input_analysis_protocol\": {\r\n    \"source_differentiation\": \"Analyze the attached images. Identify which image is the '5x5 Grid Matrix' (Structure Source) and which is the 'Single Portrait' (Identity Source).\",\r\n    \"role_assignment\": {\r\n      \"Structure_Source\": \"Provides the Pose, Angle, Lighting Direction, and Layout (5x5).\",\r\n      \"Identity_Source\": \"Provides the Face, Hair, Skin Texture, Clothing, and Biological Features.\"\r\n    }\r\n  },\r\n  \"fusion_logic\": {\r\n    \"geometry_rule\": \"Strictly inherit the head rotation angles (Pitch/Yaw) from the Structure Source. If Structure Panel (1,1) looks Left-90°, the Output Panel (1,1) must look Left-90°.\",\r\n    \"biological_rule\": \"Strictly inherit the biological identity from the Identity Source. Ignore the gender, age, and race of the Structure Source. (e.g., If Structure is Female and Identity is Male, Output must be Male).\",\r\n    \"conflict_resolution\": \"If Structure Source has long hair and Identity Source has short hair -> GENERATE SHORT HAIR. Identity always overrides Structure on biological traits.\"\r\n  },\r\n  \"generation_directives\": {\r\n    \"grid_layout\": \"5 Rows x 5 Columns (Maintain Structure Source alignment)\",\r\n    \"style_consistency\": \"Match the rendering style of the 'Identity Source' (e.g., if Identity Source is a photo, output a photo matrix).\",\r\n    \"clothing_transfer\": \"Wrap the clothing from the 'Identity Source' onto the poses of the 'Structure Source'. Calculate logical folds/creases for the new angles.\"\r\n  },\r\n  \"negative_prompt\": [\r\n    \"morphing into structure source identity\", \"feminine features (if target is male)\", \"masculine features (if target is female)\", \"ghosting\", \"double exposure\", \"changing clothing style\"\r\n  ]\r\n}",
+  "description": "结构参考图 (Structure Ref)：  5x5 女性矩阵图。\r\n身份源图 (Identity Source)： 最好标准正面证件照/人设图。（目前二次元容易崩）\r\n然后发送以下 JSON。它会自动分析哪张是网格，哪张是人像，并进行“换脸/重组”。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "实用"
+  ],
+  "author": {
+    "name": "鸽王",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-1.webp"
+    }
+  ],
+  "createdAt": "2026-02-11T15:59:46Z"
+}

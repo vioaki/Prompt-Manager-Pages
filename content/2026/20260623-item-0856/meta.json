@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "20260623-item-0856",
+  "title": "电车亲密倚靠",
+  "category": "template",
+  "prompt": "根据上图角色生成一张图:精致CG, 动漫风格, 与参考图相同的服装、瞳色、发饰,坐姿\r\n角色一:疲惫,闭上眼睛,放松,靠在角色二的肩膀上,休息,校包,左手被角色二的右手牵着,右手自然地放在大腿上\r\n角色二:右手牵着角色一的左手,另一只手拿着手机,看手机,宠溺的微笑\r\n氛围:依偎,亲密,温馨的时刻,放松\r\n人物保持原画风,柔和的色彩, 温和的光线,侧光,干净的线条,室内, 地铁车厢,坐在火车车厢内,景深,\r\n注意事项:区分开两位角色的服装细节、瞳色\r\n绘制合理的角色姿势",
+  "description": "",
+  "tags": [
+    "二次元",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1194
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-06-23T14:24:52Z"
+}

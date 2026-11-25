@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-cosplay-0501",
+  "title": "麦当劳Cosplay喂薯条",
+  "category": "gallery",
+  "prompt": "在一家麦当劳餐厅内，对面是一个身着我发送的这张图片的cosplay服装的少女，角色要为现实中的中国顶级美女coser，完美还原原图中角色的身材（包括胸部大小）、服装，包括瞳孔颜色样式及妆容。同时避免高p、过度磨皮、整容脸等非自然效果。图片整体为现实风格，避免生成2d、3d等非现实风格。她正在给我喂薯条。我的第一视角是拿着手机，并且看着对面的少女，手机在图片的左下角，手机上是我发送给你的照片。少女闭着嘴轻轻微笑，不要露出牙齿，眼神含情脉脉",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "美食"
+  ],
+  "author": {
+    "name": "西",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

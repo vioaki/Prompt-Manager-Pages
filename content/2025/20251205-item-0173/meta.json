@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0173",
+  "title": "三维几何效果",
+  "category": "gallery",
+  "prompt": "A bison in the center of an array of colorful geometric shapes, surrounded by symbols representing different aspects like family and home. The artwork features warm colors in an oil painting style, with an Art Nouveau illustration showcasing ornate details and colorful patterns. The scene also includes a night sky and desert landscapes. The artwork should have a rich texture and a three-dimensional effect with intricate detailing.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro创作温暖色调的新艺术风格三维几何插画，结合野牛与家庭符号元素，打造纹理丰富的立体景观视觉效果，适用于象征性主题插画与装饰艺术场景。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

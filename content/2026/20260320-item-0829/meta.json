@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260320-item-0829",
+  "title": "养",
+  "category": "gallery",
+  "prompt": "场景构建：方形玻璃鱼缸\r\nInside the fish tank, the space is spacious and has a deep field of view. (The character is floating in the water) (The character is in the center of the picture) .A few small fish are swimming in the fish tank. The huge fish tank (the character takes up one-third of the tank) has a layer of white sand added to the bottom and coral-like decorations.Role glasses are placed outside the fish tank.The background outside the fish tank is the interior of an aristocratic mansion in Europe.\r\n核心动态\r\n【(以图1作为角色参考(严格参考发色、瞳色。角色是动漫角色不是人偶或真人)\r\nThe character hugs their knees, curling up in the water, quietly closing their eyes and sleeping. Their legs are bare, without shoes or socks, remaining calm. Physical limitations: Clothing in water should float without exposing private parts.Remove the character's glasses and display the character's exposed buttocks within the legal limits.\r\n/* 光影与氛围 */\r\ncinematic lighting, dramatic shadows, cold light, vivid colors, aesthetic\r\nAvoid using realistic-style images. Don't include underwear.Strictly follow the body proportions of the characters as shown in the reference pictur.Use the light from the moonlight outside the window for illumination.\r\n最终成图整体都要使用角色的画风",
+  "description": "看不懂直接机翻就行（本来就是中文机翻英文）",
+  "tags": [
+    "二次元",
+    "超现实",
+    "NSFW"
+  ],
+  "author": {
+    "name": "绯斋月子",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-03-20T19:13:26Z"
+}

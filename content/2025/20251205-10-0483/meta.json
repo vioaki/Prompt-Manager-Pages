@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-10-0483",
+  "title": "10种不同发型",
+  "category": "gallery",
+  "prompt": "Create a grid of 10 different hairstyles for this women. List the name of each hairstyle and the brief history about the hairstyle. They can be from any era.",
+  "description": "借助 Nano Banana Pro 模型，探索多样发型风格，呈现真实与艺术感，适合时尚作品集、美发推广或数字艺术项目，提升视觉吸引力。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

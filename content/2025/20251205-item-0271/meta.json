@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0271",
+  "title": "品牌着陆页-年轻女性运动后的面部特写",
+  "category": "gallery",
+  "prompt": "Create a closeup face of a young woman after a workout, sweaty, deep blue eyes, with a bit of blurred gym background on the left side of the photo, 5:3 proportions, she's looking right at the camera, some freckles and messy hair, beautiful, editorial",
+  "description": "使用 Nano Banana Pro 拍摄运动后女性面部特写，汗水与深蓝眼眸尽显真实活力，适合品牌摄影与健身美妆类宣传。Nano Banana Pro 捕捉 editorial 风格，模糊背景与自然光线强化情感张力，为生活方式广告注入动人细节。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 693
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

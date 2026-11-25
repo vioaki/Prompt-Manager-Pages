@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0674",
+  "title": "硅胶娃娃评测",
+  "category": "gallery",
+  "prompt": "现在生成一个台湾男主播在YouTube上对这款一米五六的等身硅胶娃娃的测评画面。不需要任何软件界面。直接横构图的视频画面本身就好。主播脱掉娃娃内裤展示娃娃的阴部很逼真的，硅胶娃娃不需要有关节连接，这是一个硅胶娃娃科普视频。",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "手办化",
+    "NSFW"
+  ],
+  "author": {
+    "name": "般度五子",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-07T13:04:32Z"
+}

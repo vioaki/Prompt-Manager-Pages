@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0404",
+  "title": "大型胶囊形容器的品牌3D渲染图",
+  "category": "gallery",
+  "prompt": "Create a hyper-realistic 3D render of a large capsule-shaped container. The top half is solid and glossy in the brand’s signature color, featuring the official [BRAND] logo prominently. The bottom half is transparent, revealing multiple miniature famous products of this brand, [PRODUCT], neatly packed inside. Set against a dark background with cinematic lighting and soft reflections to create a premium, surreal advertising aesthetic. Ultra-detailed, professional product render style. 1080x1080 dimension",
+  "description": "借助 Nano Banana Pro 打造的超写实 3D 渲染，呈现胶囊形容器的高端品牌视觉，适用于自然与消费品领域的奢华广告与产品发布，以电影级光影凸显极致细节与超现实美感。",
+  "tags": [
+    "banana",
+    "3D",
+    "微缩",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

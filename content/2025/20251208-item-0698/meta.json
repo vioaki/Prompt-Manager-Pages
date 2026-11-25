@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251208-item-0698",
+  "title": "阿铁打",
+  "category": "gallery",
+  "prompt": "场景为更衣室隔间\r\n镜头为纯俯视视角\r\n\r\n图左人物大腿张开，小腿交叉环绕夹紧图右人物的腰部\r\n图左人物双手搂着图右人物的脖子\r\n图左人物脸红，翻白眼，伸舌头\r\n\r\n两人紧紧抱在一起\r\n\r\n图右人物背朝镜头，将图左人物按在地上",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "造史人",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-08T11:30:56Z"
+}

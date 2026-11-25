@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0616",
+  "title": "日系小人海报",
+  "category": "template",
+  "prompt": "基于参考图所示人物，生成一张人物宣传海报（角色名：{{userText}}）。按照以下画风绘制：\r\n\r\n画风:\r\n艺术流派:\r\n核心风格: \"日系手绘涂鸦 (Japanese Hand-drawn Doodle)\"\r\n次级风格: \"原宿可爱风 (Kawaii) / 贴纸艺术 (Sticker Art)\"\r\n视觉情感: \"慵懒、少女心、轻松、略带复古感\"\r\n\r\n线条技法 (Lineart):\r\n笔刷质感: \"模拟铅笔或炭笔 (Pencil/Charcoal style)\"\r\n线条特征:\r\n- \"边缘粗糙，带有噪点和抖动感\"\r\n- \"非矢量平滑，保留手绘的断续和笔触压力变化\"\r\n- \"线色多为深灰或深紫，而非纯黑\"\r\n细节处理: \"衣物褶皱和发丝使用概括性的断线表现\"\r\n\r\n色彩与纹理 (Color & Texture):\r\n色板: \"低饱和度马卡龙色系 (Low Saturation Pastel)\"\r\n主色调: \"淡粉色 (Pale Pink) 与 灰紫色 (Muted Purple)\"\r\n点缀色: \"薄荷绿 (Mint Green) - 用于发色内层挑染和阴影\"\r\n上色方式:\r\n- \"平涂 (Flat Color) 为主\"\r\n- \"色块边缘清晰，极少使用柔和渐变\"\r\n后期纹理:\r\n- \"半调网点 (Halftone/Screentone) 覆盖全图，增加漫画感\"\r\n- \"模拟纸张的颗粒纹理\"\r\n\r\n人物造型 (Character Design):\r\n头身比例: \"约3.5-4头身 (Stylized Chibi)\"\r\n解剖特征:\r\n- \"头部圆润夸张\"\r\n- \"四肢极度纤细，呈'火柴人'或'面条'状 (Spaghetti limbs)\"\r\n- \"手脚简化，手指略尖\"\r\n面部特征:\r\n- \"眼睛大而呈梯形/矩形，瞳孔简化，神态慵懒/无神 (Deadpan/Jitome)\"\r\n- \"腮红使用简单的斜线涂鸦表示\"\r\n- \"嘴巴通常为小点或简单的线条\"\r\n\r\n构图与特效 (Composition & FX):\r\n贴纸效果:\r\n- \"主体人物周围有一圈明显的白色描边 (Thick White Outline)\"\r\n- \"人物后方有淡淡的投影 (Drop Shadow)，营造剪纸/贴纸的立体感\"\r\n背景设计:\r\n- \"纯色底 (通常为粉色)\"\r\n- \"背景叠放放大的、低透明度的同角色线稿草图\"\r\n装饰元素:\r\n- \"手写风格的日语拟声词气泡\"\r\n- \"手绘的星星、爱心、闪光符号 (Sparkles)\"\r\n- \"展示人物的全身像与特写头像组合 (Character Sheet layout)\"",
+  "description": "输入角色图片和角色名",
+  "tags": [
+    "banana",
+    "二次元",
+    "Q版",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:03Z"
+}

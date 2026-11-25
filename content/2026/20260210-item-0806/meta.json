@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260210-item-0806",
+  "title": "哈气2",
+  "category": "template",
+  "prompt": "参考图一，将图二角色转变为趴在地上哈气的表情包，模仿图一中角色的表情神态和动作，100%保留图2角色头部装饰和五官特征。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图"
+  ],
+  "author": {
+    "name": "奶龙皇",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 864,
+    "height": 1232
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2026-02-10T17:05:14Z"
+}

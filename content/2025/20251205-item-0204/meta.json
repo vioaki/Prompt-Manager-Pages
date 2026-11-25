@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0204",
+  "title": "逼真的产品照片",
+  "category": "gallery",
+  "prompt": "A realistic product photo of a [brand name] [bottle or jar] sculpted entirely from fresh [ingredient name], arranged perfectly to form the shape of the original packaging, including a detailed and accurate label on the front. The background is a clean, soft light gray with a natural wooden surface. Studio lighting, soft shadows, 1:1 square composition, professional product photography style, ultra-detailed textures, vibrant and glossy finish",
+  "description": "使用 Nano Banana Pro 模型，轻松生成逼真产品照片，完美适用于化妆品和食品行业的品牌宣传，突出自然材质与光泽质感。通过专业摄影风格和超细腻纹理，展现产品在工作室灯光下的生动细节，提升视觉吸引力。",
+  "tags": [
+    "banana",
+    "写实",
+    "产品广告",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

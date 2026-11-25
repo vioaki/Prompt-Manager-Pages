@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0484",
+  "title": "根据坐标生成图片",
+  "category": "gallery",
+  "prompt": "生成坐标 36.4602° N, 25.3730° E 的日落图像",
+  "description": "Nano Banana Pro与Nano Banana Pro能根据坐标生成逼真城市图像，精准还原建筑细节，是虚拟导览和场景设计的理想工具。输入GPS数据即可创建高精度环境，让项目呈现更真实细腻。",
+  "tags": [
+    "banana",
+    "写实",
+    "场景",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 655
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

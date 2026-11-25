@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0447",
+  "title": "香港武侠3格漫画",
+  "category": "gallery",
+  "prompt": "画一张3格漫画，香港武侠漫画风格，故事情节如下：\n和尚:\"师太,你从了和尚吧!\" 　　\n道长:\"秃驴,竟敢跟贫道抢师太!\" 　　\n师太:\"和尚、道长你们一起上吧,我赶时间。\"",
+  "description": "Nano Banana Pro 专为创作香港武侠3格漫画而生，助你轻松打造充满动感与文化韵味的武侠场景，适合娱乐、出版及数字内容创作。",
+  "tags": [
+    "banana",
+    "国风",
+    "漫画",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 655
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

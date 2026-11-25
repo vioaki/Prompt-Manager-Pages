@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0071",
+  "title": "有趣的毛茸茸字母",
+  "category": "gallery",
+  "prompt": "A highly realistic 3D render of the letter [A-Z] designed as a full-body fluffy monster. The letter shape itself is the creature’s body — no separate head or limbs. The eyes, mouth, and other monster features are embedded naturally into the letter form. The monster expresses a [mischievous / grumpy / shy / joyful / sleepy / surprised / confident] emotion through its eyes and mouth shape. The texture is dense, soft, and realistic fur, with subtle volume and shadow. The color palette is bold but clean — solid vibrant tones like mint, lilac, sky blue, or coral (avoid rainbow gradients). Studio lighting on a simple pastel background. No hats, no party props — just a minimal, high-quality character design with playful expression.",
+  "description": "使用 Nano Banana Pro 模型，打造毛茸茸字母怪兽的极简 3D 角色，适用于儿童教育和品牌设计，以生动表情和柔软质感传递情感。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251210-item-0720",
+  "title": "白纱，全果",
+  "category": "gallery",
+  "prompt": "午后，客厅，沙发，光线，丁达尔效应，镜头凑近人物的特写，倾斜视角。图中角色随意躺在沙发上看手机，裸肩，凌乱地盖着一块半透明薄布，能体现出身体轮廓，露出一条光腿。镜头边缘角色原本的衣服和内衣随意丢在旁边的地毯上。",
+  "description": "建议上传卡通图，人物正面，占画面比例60%以上",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "影猫",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 848,
+    "height": 1264
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-10T10:59:53Z"
+}

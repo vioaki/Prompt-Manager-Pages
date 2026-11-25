@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-90-0243",
+  "title": "90年代美国卡通片定格动画风格插画",
+  "category": "gallery",
+  "prompt": "Transform this image into a 90s American cartoon cel-style illustration. Use thick black outlines, flat bold colors, and sharp cel shading with hard shadows. Emphasize exaggerated facial expressions and stylized, geometric character shapes. The background should be flat or minimal to keep the focus on the character. The whole image should feel like a frame from a Saturday morning cartoon.",
+  "description": "使用 Nano Banana Pro 模型，将图像转化为 90 年代美国卡通片定格动画风格插画，适合角色设计或怀旧品牌项目，呈现粗黑轮廓与鲜明平面色彩。",
+  "tags": [
+    "banana",
+    "插画",
+    "复古"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 600,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

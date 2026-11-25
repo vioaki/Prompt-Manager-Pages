@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20260113-item-0784",
+  "title": "原神牛逼",
+  "category": "template",
+  "prompt": "根据参考图1，修改图2的角色，生成一个富有张力的黑白漫画表情特写，模仿图一中角色的表情神态，100%保留图2角色头部装饰和五官特征。偏表现主义的强排线黑白漫画风，强调情绪张力而非写实日漫表现派画法。并添加一个对话气泡,气泡的内容是中文:",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "漫画",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 583,
+    "height": 566
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2026-01-13T00:08:38Z"
+}

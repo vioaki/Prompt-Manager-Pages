@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0212",
+  "title": "穿越梦境迷宫",
+  "category": "gallery",
+  "prompt": "[Character] sprinting past dream elements, Storybook illustration, Maze of floating doors, clocks, and whispers, Lantern glow and ambient sparkle trails, [Color1] and [Color2], Whimsical and fast-paced, Follow-cam style with trailing POV",
+  "description": "使用 Nano Banana Pro 模型，轻松创作奇幻故事书风格的插画，适合打造充满漂浮元素和光影氛围的梦境角色场景，为书籍封面或动画概念注入魔法般的视觉魅力。",
+  "tags": [
+    "banana",
+    "插画",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1118,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

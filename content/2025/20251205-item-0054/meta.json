@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0054",
+  "title": "玻璃盒内的图像可视化",
+  "category": "gallery",
+  "prompt": "photorealistic image of a [COLOR] 3D [SUBJECT] encased in a luxurious transparent box, viewed from an enhanced side angle to better reveal the 3D shape of the [SUBJECT]. The box should be white, exquisitely designed, featuring crystal-clear glass with refined, sharp edges",
+  "description": "使用 Nano Banana Pro 模型，轻松打造逼真的三维物体视觉展示，适用于高端产品摄影和电商陈列，通过透明玻璃盒突显立体形态与奢华质感。",
+  "tags": [
+    "banana",
+    "写实",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0064",
+  "title": "霓虹灯风格工具",
+  "category": "gallery",
+  "prompt": "retexture the image attached based on the JSON aesthetic below\n{\n  \"style\": \"hyperrealistic 3D render\",\n  \"material\": \"high-gloss translucent rubber with iridescent coating\",\n  \"surface_texture\": \"fine-grain pebbling with micro-specular highlights\",\n  \"lighting\": {\n    \"type\": \"studio HDRI\",\n    \"intensity\": \"high\",\n    \"direction\": \"multi-point with rim and backlight\",\n    \"colors\": [\"electric blue\", \"magenta\", \"neon purple\", \"sunset orange\"],\n    \"glow_effect\": true,\n    \"chromatic_aberration\": true,\n    \"bloom\": true\n  },\n  \"color_scheme\": {\n    \"primary\": \"iridescent gradient\",\n    \"highlights\": \"white light core reflections\",\n    \"accent_edges\": \"black outlines with subtle glow\"\n  },\n  \"background\": {\n    \"color\": \"solid black\",\n    \"texture\": \"none\",\n    \"contrast\": \"extreme to enhance subject glow\"\n  },\n  \"camera\": {\n    \"angle\": \"straight-on center view\",\n    \"focus\": \"sharp foreground, no depth blur\",\n    \"lens\": \"macro with light distortion\"\n  },\n  \"post_processing\": {\n    \"glow\": true,\n    \"contrast_boost\": true,\n    \"color_grading\": \"vibrant spectrum\",\n    \"noise\": \"minimal\"\n  }\n}",
+  "description": "使用 Nano Banana Pro，将图像重塑为极简霓虹风格，打造高光泽半透明质感的超写实 3D 渲染，适用于产品可视化和数字艺术，呈现多彩发光效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 610
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

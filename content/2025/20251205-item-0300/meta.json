@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0300",
+  "title": "详细技术图纸",
+  "category": "gallery",
+  "prompt": "Detailed technical drawing of a [vehicle, weapon, object, or item], on white paper with dimensions and annotations in red marker. [The subject] is depicted in pencil with [material or texture details], showing [list of key parts and functional elements], all in clear detail. Intricate element, detailed blueprint style with notes on its features and functionality",
+  "description": "借助 Nano Banana Pro 模型，轻松生成精细的纸艺载具技术图纸，包含铅笔草图和红色标注，适合设计师和爱好者制作机械部件的详细蓝图。",
+  "tags": [
+    "banana",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 381
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

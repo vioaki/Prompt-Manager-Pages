@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0675",
+  "title": "日常",
+  "category": "gallery",
+  "prompt": "帮我生成图片，躺在床上，膝盖弯曲，遮住了脸。是一张随意用手电筒拍的照片。照片有些运动模糊，且略微过曝。角度尴尬，构图不存在，整体效果极其平庸——就像无意中从口袋掏出手机拍照时拍到的意外照片。房间昏暗。照片从上方完整地展示了床，床上不空，有毯子和毛绒玩具。除了手电筒外，还有微弱的 RGB 灯光照亮场景。光线昏暗。框外有只手握着她的赤脚，特写脚部。",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "足"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-07T13:35:11Z"
+}

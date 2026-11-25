@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0290",
+  "title": "钩针玩偶",
+  "category": "gallery",
+  "prompt": "Create a 3D photorealistic and highly detailed poster in amigurumi style. The design should imitate a real handmade crochet [ANIMAL], with visible thread texture, stitching details, and soft, felted proportions. Use realistic fabric shading, subtle fuzz, and natural lighting to achieve depth. The amigurumi should have small embroidered eyes and a simplified face. Represent it in a neutral studio environment with soft shadows for a professional presentation. Gray toned background.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作逼真的钩针玩偶海报，结合 3D 写实风格与细腻的编织纹理，适合自然摄影、动物主题艺术印刷或专业工作室展示。通过柔和光影与织物细节，提升视觉吸引力，打造沉浸式艺术项目。",
+  "tags": [
+    "banana",
+    "3D",
+    "手绘",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

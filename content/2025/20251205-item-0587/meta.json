@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0587",
+  "title": "设定图",
+  "category": "template",
+  "prompt": "为我生成人物的角色设定（Character Design）,比例设定（不同身高对比、头身比等）,三视图（正面、侧面、背面）,表情设定（Expression Sheet） → 就是你发的那种图,动作设定（Pose Sheet） → 各种常见姿势,服装设定（Costume Design）",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "设定图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:02Z"
+}

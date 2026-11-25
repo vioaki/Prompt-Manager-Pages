@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0159",
+  "title": "超现实主义蒸汽波",
+  "category": "gallery",
+  "prompt": "[SUBJECT] in a Surrealist Vaporwave collage. Combine elements of classical sculpture, 80s retrofuturism, and Japanese cityscapes. Use pastel shades of [COLOR1] and [COLOR2] with hints of neon",
+  "description": "使用 Nano Banana Pro 模型，轻松创作超现实主义蒸汽波视觉作品，融合未来景观与复古霓虹美学，适合数字艺术、专辑封面或前卫广告设计。结合柔和色调与古典雕塑元素，打造惊艳对比效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "复古",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0433",
+  "title": "疯狂的程序喵",
+  "category": "gallery",
+  "prompt": "3D皮克斯风格渲染。一只戴着厚眼镜的橘猫正坐在电脑前疯狂敲代码，表情崩溃。它的电脑屏幕背后贴着一张显眼的便利贴，写着：“需求改了八百遍，甲方说还是第一版好”。桌子上散落的咖啡杯上印着：“代码写得好，头发掉得早”。背景是乱糟糟的服务器机房。",
+  "description": "Nano Banana Pro 模型专为生成俏皮程序员猫插画而生，适合科技博客、编程教程和数字艺术项目，轻松为内容注入趣味科技元素。",
+  "tags": [
+    "banana",
+    "3D",
+    "梗图",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 655
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

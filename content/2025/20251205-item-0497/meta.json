@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0497",
+  "title": "解数学题",
+  "category": "gallery",
+  "prompt": "画一张草稿纸，上面是这道题的解法",
+  "description": "Gempix2 以逼真的草稿纸风格呈现数学解题过程，适合教育内容和学术插图，帮助用户清晰理解每一步解法。",
+  "tags": [
+    "banana",
+    "信息图",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1124
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

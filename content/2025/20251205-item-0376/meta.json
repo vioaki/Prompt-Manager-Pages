@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0376",
+  "title": "一幅奢华的高级时尚肖像",
+  "category": "gallery",
+  "prompt": "一幅奢华的高级时尚肖像，[角色描述]优雅地坐在装饰华丽的大型长方形画框下边缘\n\n画框细节：\n• 巴洛克/洛可可风格长方形画框\n• 用[画框颜色和质地]绘制，与整体色调和谐\n\n环境：\n• 背景：优雅的工作室墙面，经典镶板[颜色]\n• 地板：略有反光，[地板颜色]\n\n灯光：\n• 电影式高调时尚光线\n• 主体柔和柔散光\n• 轻微轮廓分离\n\n相机：\n• 对称居中全身肖像\n• 干净的编辑时尚构图\n• 8K超清高端大片品质\n\n风格标签：单色 | 悬浮画框 | 电影工作室时尚 | 奢华编辑美学",
+  "description": "使用Nano Banana Pro或Nano Banana Pro拍摄奢华高级时尚肖像，结合巴洛克画框与电影式光线，呈现8K超清单色美学，适合高端品牌大片或时尚编辑拍摄。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

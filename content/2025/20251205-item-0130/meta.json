@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0130",
+  "title": "悬浮魔幻现实主义",
+  "category": "gallery",
+  "prompt": "An old-fashioned postal shack floating on a space rock, with envelopes fluttering like wings and planets lined up as waiting customers - humorous, magical realism.",
+  "description": "用 Nano Banana Pro 捕捉魔幻现实主义时尚场景，将幽默与超现实元素融入前卫服装设计，打造突破常规的视觉叙事。",
+  "tags": [
+    "banana",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

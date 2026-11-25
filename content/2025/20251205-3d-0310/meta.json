@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0310",
+  "title": "电影级3D动感广告",
+  "category": "gallery",
+  "prompt": "Cinematic 3D action-packed advertisement of [PRODUCT], captured in a dramatic mid-motion scene that embodies its core energy. Use bold studio lighting with intense highlights and deep shadows, dynamic particles, and slow-motion effects to amplify impact. The environment should feel surreal yet hyperrealistic, designed to reflect the product’s personality (crunchy, energetic, fast, luxurious, refreshing, etc.). Integrate the brand logo crafted from product elements if possible, and place a sleek creative slogan beneath it that matches the mood. Composition in 1:1 aspect ratio, hyper-detailed, sharp, bold, and designed to go viral.",
+  "description": "借助 Nano Banana Pro 打造电影级3D动感广告，以戏剧性的动态场景和强烈光影效果，完美展现产品核心能量，适用于品牌推广与产品发布。融入慢动作与超现实环境，让每一帧都充满高能冲击力。",
+  "tags": [
+    "banana",
+    "3D",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

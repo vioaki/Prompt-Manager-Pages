@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0080",
+  "title": "霓虹花卉和谐插图",
+  "category": "gallery",
+  "prompt": "A Neon Floral Harmony illustration of [SUBJECT], with flowers and plants outlined in glowing neon hues. Use vibrant [COLOR1] and [COLOR2] to create a serene yet electrifying botanical scene",
+  "description": "使用 Nano Banana Pro 模型，创作霓虹花卉和谐插图，融合自然与电光美学，适合品牌设计、数字艺术和编辑项目，营造宁静而充满活力的视觉冲击。通过尝试如青色和品红等发光色彩组合，增强植物场景的醒目效果。",
+  "tags": [
+    "banana",
+    "插画",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

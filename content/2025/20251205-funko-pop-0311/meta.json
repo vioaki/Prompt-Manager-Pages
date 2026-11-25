@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-funko-pop-0311",
+  "title": "Funko Pop风格乙烯基公仔",
+  "category": "gallery",
+  "prompt": "Funko Pop–style vinyl figure of [CHARACTER NAME] \nWearing the iconic outfit and accessories typically associated with [CHARACTER], automatically matching their signature style and details.  \n\nPose/Expression:\n- Standing, looking upward toward the camera  \n- Expression: curious yet slightly nonchalant  \n\nCAMERA & LENS:\n- Camera positioned directly above, very close  \n- Ultra-wide fisheye lens for dramatic perspective distortion  \n- Gentle rounded frame edges  \n\nLIGHTING & MATERIALS:\n- Soft studio lighting with gentle shadows  \n- Glossy vinyl figure texture for skin and hair  \n- Outfit materials accentuated (e.g. quilted, shiny, matte, etc.) depending on [CHARACTER]’s clothing  \n\nRENDER STYLE:\n- High-resolution 3D render  \n- Clean neutral background (solid or gradient)  \n- Ultra sharp, collectible toy aesthetic",
+  "description": "使用Nano Banana Pro或Nano Banana Pro拍摄Funko Pop风格乙烯基公仔，通过超广角鱼眼镜头营造戏剧性视角，完美展现角色服饰与细节，适合玩具摄影和创意产品展示。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

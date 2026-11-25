@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0413",
+  "title": "将电影海报重新设计成黏土动画风格",
+  "category": "gallery",
+  "prompt": "Restyle the reference movie poster in claymation style. Keep the original layout, composition, and lighting exactly as in the reference. Transform all characters, objects, and elements into handcrafted clay models with visible fingerprints, soft edges, and subtle imperfections. Preserve the background and colors, but give everything a realistic clay texture and dimensional feel, as if it were photographed from a stop-motion clay animation set",
+  "description": "使用Nano Banana Pro将电影海报重塑为黏土动画风格，为创意营销和电影推广增添独特立体质感。保留原版构图与光影，所有元素化为手工黏土模型，呈现可见指纹与柔和瑕疵，打造逼真三维效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1016,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0298",
+  "title": "超写实3D漫画肖像",
+  "category": "gallery",
+  "prompt": "Hyper-realistic 3D caricature of [NAME], featuring an expressive, oversized head, a short body, and a detailed, energetic facial expression. Wearing [OUTFIT / SIGNATURE LOOK], striking a [POSE / ACTION]. Studio lighting, cartoonish proportions, Pixar-style 3D rendering, ultra-detailed fabric and skin textures. The body is slightly smaller than the head. 1080x1080 square format.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作超写实 3D 漫画肖像，适合品牌形象设计、社交媒体头像和个性化礼物，带来皮克斯风格的生动细节与夸张头部表情。",
+  "tags": [
+    "banana",
+    "3D",
+    "肖像",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

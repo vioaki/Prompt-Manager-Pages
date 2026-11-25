@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0014",
+  "title": "品牌星球世界",
+  "category": "gallery",
+  "prompt": "Planet [Brand name], Year 3025. A distant world shaped entirely by the essence of the brand. The landscapes echo its core identity — from surreal terrains to fantastical weather patterns. Native flora and fauna embody its signature ingredients and aesthetics. Rivers flow with iconic flavors. Architecture is inspired by its packaging and visual language, fused with futuristic technology. The atmosphere is rich in texture, cinematic lighting, and surreal detail. A dreamlike vision of brand identity reimagined as a sci-fi utopia.",
+  "description": "借助 Nano Banana Pro，探索未来品牌世界的创意视觉，打造建筑与自然交融的超现实场景，适用于科技与消费品行业的概念设计和广告宣传。",
+  "tags": [
+    "banana",
+    "超现实",
+    "产品广告",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1100,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

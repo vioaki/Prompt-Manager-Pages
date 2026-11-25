@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251209-item-0710",
+  "title": "燕子！没有你我怎么活啊？",
+  "category": "gallery",
+  "prompt": "横纵比 (Aspect Ratio): 16:9 (电影宽屏)\r\n\r\n景别控制 (Shot Focus): 中景或中景全景 (Medium Shot or Medium Full Shot)，强烈的低角度拍摄 (Strong low-angle shot)，突显人物的戏剧性。\r\n\r\n‼️ 核心要求： 电影级写实，极度情绪化 (Cinematic Photorealism, Extreme Emotional Intensity)。将上传图片中的动漫女孩形象转化为真人 Cosplay，并处于歇斯底里的奔跑中 (Hysterically running)。\r\n\r\n主体人物与情绪（戏剧性强调）：\r\n\r\n人物形象： 上传图片中的动漫女孩的真人 Cosplay 版，强调东亚人特征 (East Asian features)，皮肤状态真实。\r\n\r\n相貌与情绪： 面部表情必须是极度夸张的、崩溃的、声嘶力竭地绝望呼喊 (Exaggerated, breaking down, screaming desperately)。眼含泪水或泪痕，嘴巴张大。\r\n\r\n服装/发型（万能型）： 精确还原上传图片中动漫女孩的发型和服装 (Accurately replicate the anime girl's hairstyle and outfit)。服装材质为写实布料 (Realistic fabric)，并呈现出剧烈跑动中的褶皱和飘动 (Folds and movement during violent running)。\r\n\r\n动作： 身体剧烈前倾 (Violently leaning forward)，双臂夸张地向前伸展，处于崩溃边缘的全力追逐姿态 (Full-speed chase posture on the verge of collapse)。\r\n\r\n环境与氛围（场景复刻与情绪烘托）：\r\n\r\n背景： 夜晚的城市街道 (Nighttime city street)，背景灯光被拉长、模糊化，形成光晕和光斑 (Stretched and blurred, forming bokeh and light streaks)。\r\n\r\n场景元素： 道路、混凝土护栏、远处模糊的汽车灯光 (Road, concrete guardrails, distant blurred car lights)。\r\n\r\n光线： 典型的电影夜景光线 (Cinematic night lighting)，人物脸部被路灯或霓虹灯光线强烈照亮 (Strongly illuminated by streetlights or neon)，光影对比度极高，营造悲剧氛围 (Tragic atmosphere)。\r\n\r\n画面中的台词（字幕）：\r\n\r\n字幕样式： 画面底部带有中英文字幕 (Chinese/English subtitles)，字体需醒目。\r\n\r\n台词内容： [在此处填写名字]，没有你我怎么活。 (How am I supposed to live without you?) (字幕需在最终生成工具中添加，此处仅为描述提示)。",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "梗图"
+  ],
+  "author": {
+    "name": "羊驼哥",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2025-12-09T22:08:52Z"
+}

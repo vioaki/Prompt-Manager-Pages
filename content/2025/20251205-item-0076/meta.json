@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0076",
+  "title": "毛绒形式表情符号",
+  "category": "gallery",
+  "prompt": "Recreate this [insert emoji] using the parameters from the JSON provided.\n{\n  \"style\": \"Plushform Emoji\",\n  \"description\": \"Transform the emoji into a soft, realistic plush object with high-quality fabric and detailed construction. Do not anthropomorphize the emoji — avoid adding faces or cartoon features. Focus on accurate textures, natural forms, and subtle design to give the plush object character.\",\n  \"features\": {\n    \"shape\": \"matching the emoji's form, with soft, slightly rounded plush adaptation\",\n    \"texture\": \"realistic plush fabric with visible fiber detail and natural fabric folds\",\n    \"color\": \"faithful to the emoji's palette, using slightly muted, tactile tones\",\n    \"material\": \"stuffed toy fabric with visible stitching, seams, and high-quality finishing\",\n    \"background\": \"neutral or softly textured to emphasize the plush object's form\",\n    \"lighting\": \"soft professional studio lighting with subtle shadows and depth\"\n  },\n  \"examples\": [\n    \"👌 becomes a plush hand in the OK gesture, with realistic fabric folds and seams.\",\n    \"🎯 becomes a soft plush bullseye with layered fuzzy rings and slight dimensional padding.\",\n    \"🎁 becomes a cube-shaped plush box with fabric ribbon, visible stitching, and realistic fabric texture.\",\n    \"🌊 becomes a wave-shaped plush with curled foam tips, crafted in textured ocean blue fabrics.\"\n  ]\n}",
+  "description": "Nano Banana Pro与Nano Banana Pro能将表情符号转化为质感柔软、形态自然的写实毛绒玩具，精准还原织物细节，适用于玩具制造与角色周边产品开发。",
+  "tags": [
+    "banana",
+    "3D",
+    "手办化",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1098,
+    "height": 1098
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

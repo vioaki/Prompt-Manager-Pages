@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0641",
+  "title": "特殊服务",
+  "category": "gallery",
+  "prompt": "生成一张手机拍摄的图片。完全的真实照片画面。男性第一视角\r\n场景：在酒店里参考人物蹲着我的面前抬头看着我，我坐在她的面前看着她，我的裤裆鼓起，参考人物微笑着摸着我鼓起的裆部，一只手伸出一根手指抵在嘴上。将参考图中女孩们转化成真人风格cosplay，角色100%不变，服饰不变，体型不变。",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "NSFW"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T15:14:22Z"
+}

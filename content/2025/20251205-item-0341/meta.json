@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0341",
+  "title": "你抱着幼年版自己的复古风自拍",
+  "category": "gallery",
+  "prompt": "retro selfies of you holding a baby version of you",
+  "description": "用 Nano Banana Pro 创作怀旧自拍，生成你抱着幼年版自己的复古风格照片，适合创意项目、社交媒体分享或个性化礼物。",
+  "tags": [
+    "banana",
+    "写实",
+    "复古",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 900,
+    "height": 657
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

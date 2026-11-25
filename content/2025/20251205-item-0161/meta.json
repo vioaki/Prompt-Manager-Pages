@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0161",
+  "title": "将表情符号变成纸板",
+  "category": "gallery",
+  "prompt": "Ultra high-resolution 3D render of the emoji [🥹], meticulously recreated as a realistic cardboard sculpture. The object is crafted from corrugated brown cardboard, featuring clearly defined fluted edges, visible layering, and rough kraft paper textures. Close-up studio",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，将表情符号转化为精致的纸板雕塑，呈现超高分辨率3D渲染和逼真纹理，适合创意设计、营销视觉或艺术展示，让您的项目充满独特纸艺魅力。",
+  "tags": [
+    "banana",
+    "3D",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1118,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

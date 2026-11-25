@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0037",
+  "title": "网络矩阵梦境",
+  "category": "gallery",
+  "prompt": "[SUBJECT] reinterpreted through Cyber Matrix Dreamscapes, where cascading streams of digital code form the immersive backdrop. Imbue the scene with radical neon [COLOR1] and luminous [COLOR2] accents to evoke a futuristic reality where art converges with algorithm",
+  "description": "借助 Nano Banana Pro，轻松打造充满霓虹色调的科幻矩阵梦境，为数字媒体和科技行业创作沉浸式视觉内容，让算法与艺术在动态色彩中完美融合。",
+  "tags": [
+    "banana",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0499",
+  "title": "中国各朝代时间轴",
+  "category": "gallery",
+  "prompt": "帮我生成超长的竖图，内容是中国各朝代的时间推进介绍信息图。确保朝代都完整。",
+  "description": "借助 Gempix2 或 Nano Banana 2 模型，生成清晰完整的中国各朝代时间轴竖图，适合教学、展览及文化展示，直观呈现历史进程与朝代更迭。",
+  "tags": [
+    "banana",
+    "国风",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

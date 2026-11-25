@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0286",
+  "title": "食谱信息图制作",
+  "category": "gallery",
+  "prompt": "Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: \"200g spaghetti\", \"150g mushrooms\", \"3 garlic cloves\", \"200ml cream\", \"1 tbsp olive oil\", \"parmesan\", \"parsley\", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom",
+  "description": "使用Nano Banana Pro或Nano Banana Pro轻松制作简约风格的食谱信息图，以俯视视角清晰展示奶油大蒜蘑菇意面的分步烹饪过程，适合美食博客和教程，提升内容吸引力。",
+  "tags": [
+    "banana",
+    "信息图",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0191",
+  "title": "经典的微型玩具风格",
+  "category": "gallery",
+  "prompt": "A miniature version of [LOCATION], designed in a whimsical dollhouse style. The structure is surrounded by thematic natural elements and tiny architectural details that reflect its cultural context (e.g., plants, paths, decor). The color palette uses soft pastels (such as coral, blush, sand, mint, or dusty green), with warm cinematic lighting and a serene, dreamy atmosphere. Highly detailed, cozy and stylized. Isometric view, vertical 9:16 format, on a clean studio background.",
+  "description": "使用 Nano Banana Pro 模型，打造梦幻的微型玩具风格场景，融合柔和粉彩和等距建筑，适合玩具设计、建筑可视化或宁静社交媒体内容，展现自然与建筑交融的温馨世界。",
+  "tags": [
+    "banana",
+    "3D",
+    "微缩",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 624
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

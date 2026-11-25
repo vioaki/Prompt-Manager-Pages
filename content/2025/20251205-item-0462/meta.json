@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0462",
+  "title": "伪造抖音截图",
+  "category": "gallery",
+  "prompt": "帮我生成一帧抖音竖屏短视频截图，内容是厨房帝王蟹下锅处理，厨师面对镜头展示食材和案板上成套的厨具",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成逼真的抖音截图，为内容创作者和营销人员提供生动的社交媒体模拟，助力展示数字创意或预览帖子效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "梗图",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 670,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

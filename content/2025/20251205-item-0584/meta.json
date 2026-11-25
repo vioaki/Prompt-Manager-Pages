@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0584",
+  "title": "三视图",
+  "category": "template",
+  "prompt": "<task>\r\n生成一幅二次元风格的角色三视图，3比2比例，横版，4K分辨率。\r\n</task>\r\n<Style>\r\n动画截图风格。\r\n</style>\r\n<Brushwork>\r\n平涂风格，赛璐璐风格。\r\n</brushwork>\r\n<Content>\r\n生成一幅角色的三视图，三视图从左到右依次是主视图、右侧视图和后视图，背景为纯色白色背景，无说明性文字。\r\n</contetn>\r\n<Attributes>\r\n干净画面纹理，高清晰度。角色形象参考图1，三视图三张视图之间符合正交投影，无透视变形。\r\n</attributes>\r\n<Negative>\r\n无噪点、无畸形、无异常光影。\r\n</negative>",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "设定图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:02Z"
+}

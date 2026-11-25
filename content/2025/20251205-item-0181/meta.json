@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0181",
+  "title": "乐高风格套装",
+  "category": "gallery",
+  "prompt": "a realistic LEGO-style set featuring [COUNTRY]’s national treasure: [ITEM]. Photorealistic packaging with LEGO branding, box art showing the built model, the model assembled from LEGO bricks in authentic colors and details. Studio product photography with soft shadows and clear lighting, highly detailed, professional commercial render. Include box and bricks in the scene, focus on realism and LEGO-like style. 9:16.",
+  "description": "使用 Nano Banana Pro 模型，轻松创建逼真的乐高风格套装，适用于商业包装和产品摄影，呈现高度细节和真实色彩的专业渲染效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

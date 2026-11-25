@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0096",
+  "title": "3D卡通雕塑风格",
+  "category": "gallery",
+  "prompt": "a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like textures and vibrant pastel colors, placed in a minimalist isometric scene that complements the product’s nature, clean composition, gentle lighting, subtle shadows, with the product’s logo and a 3-word slogan displayed clearly belo",
+  "description": "借助Nano Banana Pro与Nano Banana Pro模型，轻松打造柔和黏土质感与明亮柔和色调结合的3D卡通雕塑风格视觉，适用于产品品牌塑造与自然主题的简约商业呈现。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

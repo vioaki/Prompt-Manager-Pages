@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0059",
+  "title": "破碎的真相",
+  "category": "gallery",
+  "prompt": "A close-up of [SUBJECT 1] holding a mirror shard to their face. The shard reflects a completely different [SUBJECT 2]. Around them, small cracks spread through the air like fractures in invisible glass, warping the space itself.",
+  "description": "使用 Nano Banana Pro 创作超现实数字艺术，通过镜面碎片与扭曲空间，完美呈现破碎现实或双重身份，适合广告与平面设计中的概念叙事。",
+  "tags": [
+    "banana",
+    "超现实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1098,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

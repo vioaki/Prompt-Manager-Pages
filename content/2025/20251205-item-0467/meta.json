@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0467",
+  "title": "任天堂明星大乱斗游戏海报全家福",
+  "category": "gallery",
+  "prompt": "绘制任天堂明星大乱斗游戏海报全家福，风格与游戏保持一致性。aspect 9:16 2k",
+  "description": "使用 Nano Banana Pro 模型，打造充满活力的动漫风格角色群像，呈现任天堂明星大乱斗全家福海报，适合游戏周边、宣传物料或电竞品牌推广。",
+  "tags": [
+    "banana",
+    "海报",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 670,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

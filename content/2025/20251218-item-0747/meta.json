@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251218-item-0747",
+  "title": "好腋",
+  "category": "gallery",
+  "prompt": "根据参考图，生成动漫人物\r\n动作与特写： 镜头聚焦于上半身，少女高高举起右臂，充分展露腋下线条，神情略显难耐或羞涩。\r\n特效与细节： 由于体温过高，腋下和身体周围升腾起明显的白色热气（蒸汽特效）和扭曲的热浪，皮肤上挂着晶莹的汗珠，面部带有红晕，表现出酷热难耐的感觉。\r\n背景： 纯白背景，无其他杂物，突显人物与热气特效。\r\n确保光影效果，让图中的动漫画风少女能够完美的和背景融合。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "腋"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-18T20:34:37Z"
+}

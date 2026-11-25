@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0166",
+  "title": "微型透明胶囊",
+  "category": "gallery",
+  "prompt": "Close-up, A hand holding a transparent capsule, inside it is a miniature model of [character name], wearing [their iconic outfit and accessories]. The character is posed in a [specific, expressive or dynamic pose], interacting with the inner surface of the capsule, as if they are frozen or confined inside. Hyper-realistic, cinematic, studio lighting setup, photographed with a macro lens.",
+  "description": "使用 Nano Banana Pro，轻松拍摄微型透明胶囊中的角色特写，打造超现实、电影级的视觉效果，非常适合时尚品牌、角色摄影和标志设计。借助微距镜头和影棚灯光，捕捉角色在胶囊内的动态姿态，提升宣传材料和艺术作品的戏剧性美感。",
+  "tags": [
+    "banana",
+    "写实",
+    "微缩"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

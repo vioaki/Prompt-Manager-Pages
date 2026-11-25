@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251209-item-0707",
+  "title": "贪玩蓝月",
+  "category": "gallery",
+  "prompt": "横纵比 (Aspect Ratio): 16:9 (横向宽屏)，充满整个网页横幅 (Filling the entire web banner)。\r\n\r\n景别控制 (Shot Focus): 胸部以上的人物半身特写 (Chest-up character half-body close-up)，人物形象巨大且居中 (Massive and centered)。\r\n\r\n 核心要求： 请严格参考上传图片中的动漫女孩形象 (Strictly reference the uploaded anime girl's appearance)，并将其转化为高分辨率的写实 Cosplay 风格 (High-resolution photorealistic Cosplay style)。面部特征必须精确还原上传女孩的样貌 (Facial features must accurately replicate the uploaded girl's appearance)。\r\n\r\n主体人物与装备（传奇土味）：\r\n\r\n人物： 上传图片中的动漫女孩的真人 Cosplay 版，东亚人面孔。\r\n\r\n装备： 让她穿着一套饱和度极高的、过度设计感的、土味的传奇类铠甲和装甲 (Over-designed, tacky Legendary-style armor)。铠甲必须是亮金色和亮红色 (Bright gold and bright red) 且全身镶嵌夸张的钻石和宝石 (Exaggerated diamond and gemstone encrusting)。\r\n\r\n武器： 手持一把巨大、闪烁着廉价特效的“屠龙刀”或类似武器 (Giant, cheaply-rendered \"Dragon Slayer\" sword or similar weapon)。\r\n\r\n情绪： 表情僵硬、略带困惑的凶狠 (Stiff, slightly confused fierceness) 或生硬的自信 (Stiff confidence)。\r\n\r\n合成缺陷： 人物与背景的光影不匹配 (Mismatched lighting)，人物边缘有轻微的抠图痕迹 (Slight cutout remnants)。\r\n\r\n环境与氛围：\r\n\r\n背景： 饱和度极高的暗黑城堡 (Extremely saturated dark castle) 或地狱熔岩场景 (Hellish lava scene)。背景贴图为低分辨率 (Low-resolution)。\r\n\r\n特效： 画面周围充斥着强烈的、廉价的金色光晕 (Intense, cheap gold glow) 和低级粒子特效 (Tacky particle effects)，以及飞舞的元宝和铜钱 (Flying gold ingots and copper coins)。\r\n\r\n游戏logo：**自行填写**\r\n\r\n广告词:**自行填写**\r\n\r\n画面中央留出大量空间，用于添加粗糙的、火焰或金属质感的广告标语 (Leave significant space in the center for adding crude, fiery or metallic texture ad text)。\r\n\r\n排除词 (Negative Prompt): 卡通 (Cartoon), 动漫 (Anime), 3D 渲染 (3D Render), 柔和光线 (Soft lighting), 专业设计 (Professional design), 精美 (Refined)。",
+  "description": "注意游戏logo和广告词可以自己去编写，也可以让AI自己发挥。",
+  "tags": [
+    "cosplay",
+    "梗图",
+    "海报",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2025-12-09T19:04:13Z"
+}

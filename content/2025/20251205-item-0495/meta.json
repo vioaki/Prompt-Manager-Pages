@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0495",
+  "title": "平抛运动轨迹与速度位移分解图",
+  "category": "gallery",
+  "prompt": "平抛运动轨迹与速度位移分解图",
+  "description": "借助 Gempix2 和 Nano Banana 2 模型，轻松生成平抛运动轨迹与速度位移分解图，为物理教学和动态可视化提供直观工具，适用于学术模拟、工程分析及 STEM 教育材料制作。",
+  "tags": [
+    "banana",
+    "信息图",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 670
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

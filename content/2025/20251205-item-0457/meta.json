@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0457",
+  "title": "名人金句卡",
+  "category": "gallery",
+  "prompt": "一张宽的名人金句卡，棕色背景，衬线体浅金色 “保持饥饿, 保持愚蠢” 小字“——Steve Jobs”，文字前面带一个大的淡淡的引号，人物头像在左边，文字在右边，文字占画面比例2/3，人物占1/3，人物有点渐变过渡的感觉",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松捕捉名人标志性金句，生成鲜明、风格化的视觉内容，非常适合社交媒体图文、教育素材和营销材料，瞬间吸引观众目光。",
+  "tags": [
+    "banana",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 380
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

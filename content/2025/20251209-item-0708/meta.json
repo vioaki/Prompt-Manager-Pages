@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251209-item-0708",
+  "title": "裸考",
+  "category": "gallery",
+  "prompt": "帮我生成一张动漫风格图片，内容是图中女孩只穿着内衣坐在教室里，其他人都聚精会神地在考试，只有她脸红地表现出不知所措的样子，图中在合适的位置配上汉字：“不是说好的裸考吗？”",
+  "description": "",
+  "tags": [
+    "二次元",
+    "梗图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "G3的熊先生",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2025-12-09T21:28:42Z"
+}

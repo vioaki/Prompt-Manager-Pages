@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0412",
+  "title": "一幅超写实的高品质特写肖像",
+  "category": "gallery",
+  "prompt": "Using the exact facial features from the attached image \nCreate an hyperrealistic and high quality close-up portrait of a styling young woman,  her dark thick long hair styled in twin high artistic braids that falls over her ears, few loose trendils clipped using a different style matte brown statement hair clips ,with few loose strands falls across and frames her face, wearing a drawstring halter top, a thick-frame  brown cat-eye eyeglasses slightly lowered, soft hazel nut eyes, glossy red pouty lips, peached dewy blush and soft warm tone eyeshadows with a little bit shimmers and glitters on her cheeks and under her eyes, artistic brown eyeliner, natural dewy skin, head slightly tilted, relaxed and confident gaze hand-on-cheek pose, minimalistic background, warm beige and brown tones, bright and harsh illumination coming from the camera highlighting the texture of her figure, soft studio background lighting, K-fashion editorial aesthetic, Seoul street style influence, hyper-detailed face texture, cinematic tone, 85mm lens photography, Vogue Korea vibe, stylish and modern mood --ar 2:3 --v 6 --style raw --q 2 --s 250",
+  "description": "Nano Banana Pro助您打造超写实时尚肖像，精准捕捉编织发辫与棕色猫眼镜的细腻质感，完美适用于极简风商业摄影与自然系视觉创作。Nano Banana Pro凭借卓越细节渲染能力，为品牌视觉与艺术人像注入呼吸般的真实肌理，让发丝光影成为焦点。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 700,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

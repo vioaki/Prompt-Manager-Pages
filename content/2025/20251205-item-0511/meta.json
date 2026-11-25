@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0511",
+  "title": "里番元素科普",
+  "category": "template",
+  "prompt": "对于里番元素进行知识科普\r\n\r\n生成一个温馨可爱又带有色色暗示的架构图来展示下面文本的核心内容，图中文字必须用中文显示。\r\n配上我给出的图片里的人物作为讲解人，把内容与性和涩涩进行强行附会和类比讲解，并在每个点上配上讲解人的Q版涩涩插图",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "信息图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:59Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0672",
+  "title": "邀请链接",
+  "category": "gallery",
+  "prompt": "生成一张手机拍摄的图片。完全的真实照片画面。\r\n场景：在酒店里参考图1的人物对着镜头自拍视角，表情得意，嘴里叼着一个未拆封的避孕套，一只手比作OK的手势，比作O手势的里面握着一根黄瓜，将参考图中女孩们转化成真人风格cosplay，角色100%不变，服饰不变，体型不变。",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay",
+    "NSFW"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 955,
+    "height": 1278
+  },
+  "refs": [],
+  "createdAt": "2025-12-07T03:19:26Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0188",
+  "title": "月光屋顶茶话会",
+  "category": "gallery",
+  "prompt": "A moonlight rooftop tea party between a girl and a boy, dreamy, gentle, painterly.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作梦幻绘画般的月光屋顶茶话会场景，适合艺术故事、插画或浪漫内容创作，捕捉温柔瞬间。",
+  "tags": [
+    "banana",
+    "插画",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

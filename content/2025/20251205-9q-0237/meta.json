@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-9q-0237",
+  "title": "9格Q版风格贴纸",
+  "category": "gallery",
+  "prompt": "Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the uploaded attachment image. Each sticker has a white border and includes a speech bubble with regular use phrases. Set on a soft white-to-pastel blue gradient background for a fun, positive vibe, perfect for WhatsApp app use.",
+  "description": "借助 Nano Banana Pro 模型，打造 9 格 Q 版风格贴纸，每张贴纸配有白色边框和日常用语气泡，适合纸艺创作和时尚装饰，轻松为 WhatsApp 等平台增添可爱氛围。这些 3D 可爱设计采用柔和渐变背景，传递积极乐趣，提升数字沟通的趣味性。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

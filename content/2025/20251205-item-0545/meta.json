@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0545",
+  "title": "单推人",
+  "category": "gallery",
+  "prompt": "生成一张图片，保持图一的写实风格。\r\n将柜子中的所有物品替换，但是保持柜子的布局不变。\r\n东西不要太多，略微杂乱一点。\r\n全部换成图二动漫女孩的周边，包括游戏，动画，海报，手办，q版布娃娃，杯子，内衣内裤等各种各样的角色周边。包括等身大双面抱枕，1比1大小的娃娃（只穿着内衣内裤）等。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "写实",
+    "场景"
+  ],
+  "author": {
+    "name": "江小津",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:00Z"
+}

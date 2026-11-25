@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-gorillaz-0258",
+  "title": "街头顽童（Gorillaz）风格插画",
+  "category": "gallery",
+  "prompt": "Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic\nwith a rebellious, animated tone, dark stylish tone, full of attitude.",
+  "description": "使用 Nano Banana Pro 模型，将图像转换为粗犷的街头顽童风格插画，适合打造高对比度、破旧质感的城市图形小说或音乐项目视觉。",
+  "tags": [
+    "banana",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

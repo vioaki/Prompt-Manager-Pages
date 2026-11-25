@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0453",
+  "title": "制作9种不同发型",
+  "category": "gallery",
+  "prompt": "make a 3x3 grid with different hairstyles",
+  "description": "Nano Banana Pro 助你打造九款多变发型，从日常休闲到优雅正式，满足时尚作品集、沙龙推广或创意项目的需求，呈现真实细腻的发型设计。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 896
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

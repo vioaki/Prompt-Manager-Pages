@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-bjd-0608",
+  "title": "bjd娃娃",
+  "category": "template",
+  "prompt": "一张写实图片。\r\n参考图片角色，制作一个bdj娃娃的开箱照。\r\n\r\n一个皮质豪华的手提箱被打开。\r\n\r\n箱子上半挂着这个角色的服装，要符合bdj娃娃的大小比例，包括但不限于：服装，鞋袜，内衣内裤，配件等。\r\n\r\n箱子下半放着角色的全身素体，包括：头部，分开摆放的四肢，完整的身体（赤裸的素体）。\r\n\r\n头部以上的配件已经安装到素体上了（如：帽子、假发、发饰，眼睛等），素体半坐在箱子中。",
+  "description": "",
+  "tags": [
+    "banana",
+    "手办化"
+  ],
+  "author": {
+    "name": "江小津",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 768,
+    "height": 1376
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:03Z"
+}

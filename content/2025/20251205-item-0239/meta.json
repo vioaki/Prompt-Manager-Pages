@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0239",
+  "title": "卡通照片转换",
+  "category": "gallery",
+  "prompt": "Transform the character into a digital, half-body cartoon-style portrait. Use a playful, vector-friendly style with clean solid lines, rounded face, oversized googly eyes, and minimal facial details. Show the character from chest up, including shoulders and upper torso. Apply smooth gradient fills to both the character and background for a colorful, soft look. Square format.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，轻松将照片转化为俏皮简约的卡通肖像，适合数字艺术、社交媒体或个人品牌设计，带来色彩柔和、线条干净的生动效果。",
+  "tags": [
+    "banana",
+    "插画",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

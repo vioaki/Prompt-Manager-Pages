@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0267",
+  "title": "超现实几何艺术风格的数字插画",
+  "category": "gallery",
+  "prompt": "Transform this image into a digital illustration with a surreal, geometric art style. Apply glitch textures, abstract shapes, and cinematic composition. Use the original photo’s lighting and color palette to guide the atmosphere, while reimagining the scene in a stylized, dreamy, retro-futuristic way.",
+  "description": "使用 Nano Banana Pro 模型，将照片转换为超现实几何艺术风格的数字插画，融入故障纹理和复古未来主义元素，适合概念艺术或未来感品牌项目。通过电影化构图和抽象形状，营造梦幻氛围，让您的作品脱颖而出。",
+  "tags": [
+    "banana",
+    "插画",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

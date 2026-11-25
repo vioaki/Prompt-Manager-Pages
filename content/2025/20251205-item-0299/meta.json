@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0299",
+  "title": "卡通风格的应用程序图标",
+  "category": "gallery",
+  "prompt": "Colorful, cartoon-style app icon design for a [type of app: game, movie, food, sport, etc.] logo with the text [\"App Name\"] and [character, symbol, or cute object + short description of its pose or action] on the front of a square button, set against a [background color / theme] with simple details. High-resolution game art and graphics for a mobile app, Pixar style, realistic.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成色彩鲜艳的卡通风格应用图标，特别适合游戏和美食类应用，提升移动应用的视觉吸引力。这些设计融合了俏皮角色和生动主题，帮助应用在市场中脱颖而出。",
+  "tags": [
+    "banana",
+    "插画",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

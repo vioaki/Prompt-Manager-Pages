@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0172",
+  "title": "半透明晶体效果",
+  "category": "gallery",
+  "prompt": "a [SUBJECT] rendered as a translucent crystalline form with beveled edges, subtly glowing from within. Surfaces catch and reflect ambient light, revealing faint iridescent hues across its contours in dark background",
+  "description": "借助 Nano Banana Pro，轻松打造半透明晶体视觉效果，适合产品设计和数字艺术创作，呈现斜边轮廓与内部微光，在暗调背景中展现迷人虹彩。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

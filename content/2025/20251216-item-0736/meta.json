@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "20251216-item-0736",
+  "title": "非人化",
+  "category": "gallery",
+  "prompt": "[在此处插入角色描述], glitchcore and body horror style. The character is {动作描述【leaning heavily towards the camera, reaching out with one shaky, distorted hand as if trying to grab the viewer.】} Their face is right up against the \"screen,\" melting and covered in swirling psychedelic eyes. Manic, drooling expression. High contrast red lighting, heavy scan lines, digital artifacts, retro error windows background.",
+  "description": "过于掉san不建议正常向角色使用",
+  "tags": [
+    "banana",
+    "二次元",
+    "超现实",
+    "NSFW",
+    "恐怖"
+  ],
+  "author": {
+    "name": "G汉",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 995,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-16T20:14:40Z"
+}

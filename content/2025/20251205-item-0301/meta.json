@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0301",
+  "title": "复古漫画风格卡通插画",
+  "category": "gallery",
+  "prompt": "2D cartoon illustration of a [subject] mid-motion in a [dynamic action pose], drawn in vintage comic book style with bold outlines and saturated primary colors. Featuring dramatic motion streaks, exaggerated perspective, punchy panel composition, and crisp halftone texture. Designed for high-energy visual storytelling with retro superhero flair.",
+  "description": "用Nano Banana Pro创作复古漫画风格卡通插画，以粗犷线条和饱和色彩呈现动态角色，适合打造高能量的复古超级英雄视觉故事。",
+  "tags": [
+    "banana",
+    "插画",
+    "复古",
+    "漫画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 453
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

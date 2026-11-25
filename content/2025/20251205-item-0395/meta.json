@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0395",
+  "title": "一张抓拍的年轻女子山间徒步照片",
+  "category": "gallery",
+  "prompt": "A natural grab shot of an alluring day-style woman hiking in the mountains, ponytail with bangs, flushed cheeks from exertion, in a sports bra top and leggings, pausing to look at the view, misty background with slight fog, captured mid-step for dynamic feel.",
+  "description": "使用 Nano Banana Pro 拍摄，捕捉山间徒步中活力女性的自然瞬间，适合户外品牌与健身内容，展现动态真实感。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 896,
+    "height": 1344
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-gif-0530",
+  "title": "变身gif",
+  "category": "gallery",
+  "prompt": "参考原图生成一张正方形像素图，6×6共36格，从左上到右下就是GIF播放顺序。\r\n\r\n保持角色元素，尽量可爱\r\n\r\n动作是从图1角色变为图2角色的变身过程过程：\r\n1-4格：静止准备姿势\r\n5-10格：图1角色转为中间态\r\n11-17格：中间态加特效\r\n18-31格：中间态转为图2角色\r\n32-36格：过渡到结束\r\n\r\n动作要夸张有冲击力，全程加魔法轨迹、光效、冲击波，特效别遮住角色。\r\n每格里角色、武器、特效一个像素都不许出界。\r\n动作流畅，每一格都接上一格。\r\n\r\n像素风，线条干净，颜色鲜艳，白色背景，直接输出完整的36格大图。",
+  "description": "",
+  "tags": [
+    "banana",
+    "像素",
+    "超现实",
+    "实用"
+  ],
+  "author": {
+    "name": "格拉摩根伯爵",
+    "github": null
+  },
+  "media": {
+    "main": "main.gif",
+    "thumb": "thumb.webp",
+    "mimeType": "image/gif",
+    "width": 300,
+    "height": 300
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-05T14:38:00Z"
+}

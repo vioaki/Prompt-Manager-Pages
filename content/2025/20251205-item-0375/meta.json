@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0375",
+  "title": "卡通插图",
+  "category": "gallery",
+  "prompt": "A cartoon illustration of [OBJECT],\nphotographed in a clean minimal studio setup. All objects remain realistic and three-dimensional, but have been transformed into expressive cartoon characters:\n• [DESCRIPTION & EMOTION]  \n  (describe facial features, expressions, and emotional tone for each object)\n• [ACTION]  \n• doodle lines are black, slightly uneven, and hand-drawn —  like quick expressive sketchbook strokes drawn directly on the objects.\nStyle: hybrid mix of real product photography and cartoon doodle overlay.  \nBackground: solid pastel [COLOR], clean and minimal.\nLighting: soft, even, studio-style — subtle highlights and gentle shadows; no harsh light.\nMood: [MOOD / THEME — e.g. playful, melancholic, poetic, humorous].  \nKeywords: hybrid photo-doodle, product cartoon, expressive characters, minimal pastel background. Aspect ratio: 1:1",
+  "description": "使用 Nano Banana Pro 创作生动卡通插图，融合 3D 写实与简约手绘风格，为角色设计和商业叙事注入情感深度。",
+  "tags": [
+    "banana",
+    "写实",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

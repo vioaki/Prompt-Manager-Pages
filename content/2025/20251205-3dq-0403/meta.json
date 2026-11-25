@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3dq-0403",
+  "title": "角色变成3D收藏级Q版人偶",
+  "category": "gallery",
+  "prompt": "3D collectible chibi-style figure of [insert celebrity or character name], ultra-detailed, stylized proportions (large head, small body), expressive face, cinematic lighting, soft shadows, Pixar-quality realism, glossy vinyl toy texture, standing pose, high detail clothing, character-accurate outfit, professional product photography, rendered in Unreal Engine 5, on a minimal studio background, toy display aesthetic, 8K ultra realistic",
+  "description": "使用 Nano Banana Pro，将你喜爱的角色转化为 3D 收藏级 Q 版人偶，呈现极简时尚与超精细设计，适合产品摄影、玩具展示或娱乐行业的电影级渲染。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 586,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

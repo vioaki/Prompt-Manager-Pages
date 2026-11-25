@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0418",
+  "title": "一幅逼真的全身肖像",
+  "category": "gallery",
+  "prompt": "A realistic full-body portrait of a [ARTIST] in their signature style, positioned next to a giant vertical smartphone displaying a Spotify interface. The phone screen shows a music player interface featuring the song “[SONG]” with signature [COLOR] accent colors at approximately 80% opacity for a premium aesthetic effect.\nThe artist wears their characteristic outfit and styling. Their pose is confident and editorial, embodying the mood and energy of the song. Expression matches their iconic persona.\nTechnical specifications:\n• Plain background with subtle [COLOR] lighting accents\n• Soft studio lighting with colored gels in signature [COLOR] tones\n• 35mm or 50mm lens, f/2.2, ISO 100-160, shutter speed 1/125\n• Sharp focus on subject and phone interface\n• Editorial style consistent with premium music platform campaigns",
+  "description": "Nano Banana Pro 模型助您创作超逼真全身肖像，精准呈现专业摄影与广告所需生动细节，搭配柔和光线与高精度提示词，效果更出众。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1000,
+    "height": 1400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

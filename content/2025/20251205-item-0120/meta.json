@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0120",
+  "title": "史莱姆制成的玩具运输车",
+  "category": "gallery",
+  "prompt": "{\n  \"style\": \"Realistic 3D render\",\n  \"material\": \"Glossy slime-like material\",\n  \"texture\": [\"smooth\", \"soft\", \"stretchy\", \"shiny\"],\n  \"color\": \"VARIABLE\",  \n  \"object_type\": \"VARIABLE\",  \n  \"background\": \"plain white\",\n  \"lighting\": \"soft studio lighting\",\n  \"details\": {\n    \"focus\": \"single object centered\",\n    \"shadows\": \"soft and subtle\",\n    \"reflection\": \"light highlights on surface\",\n    \"depth\": \"shallow depth of field\"\n  },\n  \"format\": \"close-up or three-quarter view\",\n  \"mood\": \"playful, clean, toy-like\",\n  \"prompt_template\": \"A {color} {object_type} made of glossy slime material, soft and stretchy texture, realistic 3D look, set against a plain white background, soft lighting and smooth highlights\"\n}",
+  "description": "Nano Banana Pro 生成逼真 3D 史莱姆玩具运输车，采用光滑弹性材质，适合玩具制造商打造吸睛产品可视化宣传。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

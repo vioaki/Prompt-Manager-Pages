@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251224-item-0753",
+  "title": "圣诞礼物",
+  "category": "gallery",
+  "prompt": "生成插画，要求长宽比3:4，分辨率2k，整体的画风与参考图相同； \r\n让图中人物（170厘米身高的成年人）躺下来，被包裹在圣诞礼盒里。人物丝带裹身，露出肩膀、胸口、腰部和大腿，嘴叼着丝带的一头。附带一张贺卡，上面写着“圣诞快乐！”。保持画风以及保持人物在生日礼盒里，礼盒里有圣诞元素。人物在内部蜷缩成一团。\r\n保持人物体型比例不变。保持人物头型和装饰不变。背景是圣诞风格的木地板，忠实于提示",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-24T12:46:21Z"
+}

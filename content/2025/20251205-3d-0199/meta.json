@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0199",
+  "title": "3D表情符号头部",
+  "category": "gallery",
+  "prompt": "Generate a hyper-realistic 3D render of a [EMOJI🐱] as a floating animal head with plush toy aesthetics. The design should emphasize ultra-soft, long fur, playful cuteness, and a childlike charm. Use a straight-on camera angle with soft, diffused lighting to create a warm and inviting glow. Keep the background pure white for a clean, modern look. The color palette should be vibrant yet soothing, enhancing the toy-like appeal. Style: Ultra-detailed, whimsical, and hyper-cute, blending realism with a soft, plush texture for maximum visual impact.",
+  "description": "Nano Banana Pro 模型打造的 3D 表情符号头部，融合毛绒玩具美学与超写实细节，呈现柔软长毛和童趣魅力，适用于数字内容、儿童产品和奇幻主题品牌，以柔和光线与纯白背景营造温暖吸引力。",
+  "tags": [
+    "banana",
+    "3D",
+    "图标Logo",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0435",
+  "title": "美妆检测器",
+  "category": "gallery",
+  "prompt": "Use the provided portrait photo <YOUR PHOTO> as the base. \nDo NOT change the person’s face, expression, age, skin tone or gender. Just overlay a clean, minimal infographic on top.\nCreate a high-resolution vertical “FACIAL AESTHETIC REPORT” poster, studio lighting, soft beige background, premium beauty clinic style.\nThe subject can be MALE or FEMALE – keep them exactly as in the original photo. \nAdd thin white lines and labels pointing to each area of the REAL face, with percentage scores based on global aesthetic ratios, symmetry and proportions (not changing the face):\n1. Eyes:\n   Label near the eyes with a line pointing to them:\n   “Eyes Beauty – 0–100%”\n   Example: “Eyes Beauty – 92%”\n2. Cheeks:\n   Label near the cheekbones:\n   “Cheeks Harmony – 0–100%”\n   Example: “Cheeks Harmony – 85%”\n3. Lips:\n   Label close to the mouth:\n   “Lips Shape – 0–100%”\n   Example: “Lips Shape – 88%”\n4. Eyebrows:\n   Label above or beside the brows:\n   “Eyebrows Design – 0–100%”\n   Example: “Eyebrows Design – 80%”\n5. Jaw & Chin:\n   Label near the jawline and chin:\n   “Jaw & Chin Definition – 0–100%”\n   Example: “Jaw & Chin Definition – 90%”\n6. Overall Facial Symmetry:\n   Label near the center of the face:\n   “Facial Symmetry – 0–100%”\n   Example: “Facial Symmetry – 89%”\nAt the bottom center of the poster, add a BIG, bold number inside a circle or rectangle:\n   “OVERALL SCORE: XX%”\nThis is the total facial aesthetic score from 1–100%.\nDesign style:\n– clean, medical-grade, aesthetic-clinic infographic\n– modern thin sans-serif typography\n– white text and lines, subtle drop shadows\n– no logos, no extra graphics, no text other than the labels and scores above.",
+  "description": "Nano Banana Pro 美妆检测器，专为美妆专业人士和护肤爱好者设计，提供精准的皮肤分析和产品评估，结合现代外观，在自然光下轻松检测肤色与妆容效果。",
+  "tags": [
+    "banana",
+    "肖像",
+    "信息图",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1280,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

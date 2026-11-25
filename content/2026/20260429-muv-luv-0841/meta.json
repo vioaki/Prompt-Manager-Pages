@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "20260429-muv-luv-0841",
+  "title": "MUV-LUV名场面替换",
+  "category": "gallery",
+  "prompt": "将图一风格改为《MUV-LUV Alternative Total Eclipse》二次元画风。将图一左侧人物完全替换为图二人物（不戴帽子），保留图一背景、光线、环境元素和构图比例。新人物姿势改为双手背在身后（模仿原图左侧人物），服装完全保留图二制服（灰蓝制服、高领、V形镶边、袖口下摆饰条、左臂红徽、黑袜高筒靴），身高保持图二原始比例（比原左侧人物矮一些），面部表情保持图二平静微笑，阴影处理为柔和阴影以匹配原场景冷白灯光。去除图一所有字幕。保持右侧白大褂人物不变。最终输出为二次元平涂风格，线条清晰，色彩明快，无低质量、电影光、戏剧化、严肃等负面元素。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 844
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-04-29T05:58:13Z"
+}

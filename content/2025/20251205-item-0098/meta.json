@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0098",
+  "title": "终极跨界",
+  "category": "gallery",
+  "prompt": "Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in a [FAST FOOD BRAND] restaurant. The atmosphere is relaxed and light-hearted, with the two characters engaged in an amusing or deep conversation over trays of food and drinks.",
+  "description": "借助 Nano Banana Pro，轻松打造品牌角色在快餐店中轻松互动、分享趣谈的场景，适用于食品行业的跨界营销与故事叙述。",
+  "tags": [
+    "banana",
+    "次元融合",
+    "梗图",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

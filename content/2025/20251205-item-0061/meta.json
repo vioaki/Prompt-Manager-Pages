@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0061",
+  "title": "选择你的阵营",
+  "category": "gallery",
+  "prompt": "A dramatic cinematic scene featuring two rival products placed side by side in a custom-designed environment that visually reflects their identities. The composition should include high contrast lighting, atmospheric effects like mist, fog, or neon glow, and hyper-detailed textures. Incorporate a powerful 3D slogan below or behind the products in bold stylized typography that fits the scene’s mood. The products must reflect the essence of [Brand A] and [Brand B] through color, lighting, and placement. Ultra-realistic, moody tones, 1:1 square format, with sharp depth of field and high resolution.",
+  "description": "在霓虹光影与迷雾交织的戏剧化场景中，Nano Banana Pro与Nano Banana Pro通过高对比度画面与超细腻质感，打造出适合产品发布与科技视觉广告的沉浸式品牌展示。立体标语在氛围特效中强化视觉冲击，完美呈现对抗性产品的独特魅力。",
+  "tags": [
+    "banana",
+    "超现实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

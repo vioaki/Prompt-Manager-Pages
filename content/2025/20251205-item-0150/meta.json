@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0150",
+  "title": "新动漫风格",
+  "category": "gallery",
+  "prompt": "Transform this image into a 1960s Tezuka-style illustration. Use big, rounded expressive eyes with bright highlights. Simplify the anatomy with soft, rounded limbs and clean linework. Avoid detailed textures — focus on smooth color fills and strong silhouettes. The final image should resemble a vintage anime frame from Astro Boy, with an optimistic, futuristic feel.",
+  "description": "使用 Nano Banana Pro，轻松将图像转换为复古未来风格的 1960 年代手冢治虫动漫艺术，适合动画工作室和漫画创作者打造线条简洁、角色生动的乐观科幻视觉。",
+  "tags": [
+    "banana",
+    "二次元",
+    "插画",
+    "复古"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

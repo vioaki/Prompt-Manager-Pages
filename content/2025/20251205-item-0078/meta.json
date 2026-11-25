@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0078",
+  "title": "水果的形状",
+  "category": "gallery",
+  "prompt": "Create an image by arranging [NUMBER/AGGREGATE] of [FRUIT] strategically on a dark surface to form the shape of [OBJECT/EMOJI/LOGO]",
+  "description": "使用 Nano Banana Pro 模型，在深色背景上巧妙排列水果，打造醒目的表情符号和标志设计，适用于品牌推广、社交媒体和食品行业营销，呈现高对比度的创意视觉效果。",
+  "tags": [
+    "banana",
+    "图标Logo",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0235",
+  "title": "沙滩胶囊城市",
+  "category": "gallery",
+  "prompt": "A vibrant, hyper-realistic miniature of [CITY] inside a transparent capsule lying on a sandy beach. The capsule is half [COLOR] (matching [COUNTRY]’s flag) with [CITY] written in white text on the colored section. Inside the capsule: iconic landmarks of [CITY], beautiful water canals or streets, small detailed boats or cars, sunny bright lighting, cinematic depth of field, dreamy atmosphere, ocean waves in the background.",
+  "description": "使用Nano Banana Pro与Nano Banana Pro打造超写实沙滩胶囊城市微缩景观，以通透胶囊与标志性地标构筑梦幻场景，完美适用于旅游宣传与高端品牌视觉设计。",
+  "tags": [
+    "banana",
+    "写实",
+    "微缩",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

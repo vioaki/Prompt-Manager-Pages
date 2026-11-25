@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0288",
+  "title": "3D超写实食品广告",
+  "category": "gallery",
+  "prompt": "Smooth 3D hyperrealistic food advertisement of [TYPE OF FOOD], shown with mouthwatering glossy textures and perfect lighting, placed on a dark moody surface with soft glow and cinematic blur in the background, high Kelvin lighting for golden highlights and sharp shadows, backlit to show delicious steam and dripping sauces, behind the food a bold slogan in elegant font with three words only, restaurant logo subtly placed on the plate or in the corner, rich color grading with appetite-inducing tones, ultra sharp, professional food styling, stylized render",
+  "description": "借助 Nano Banana Pro 模型，打造令人垂涎的 3D 超写实食品广告，融合电影级光影与诱人质感，完美适用于餐厅品牌推广与食品包装设计，突出蒸汽效果与简洁有力的三字标语。",
+  "tags": [
+    "banana",
+    "3D",
+    "产品广告",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

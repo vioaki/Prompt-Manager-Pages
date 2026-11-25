@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0049",
+  "title": "霓虹灯发光的可爱动物",
+  "category": "gallery",
+  "prompt": "bioluminescent cute [ANIMAL], kawaii, chibi, [COLOR] neon backlit, 3d cartoon, big cute bright eyes, high definition",
+  "description": "使用 Nano Banana Pro 模型，轻松创作霓虹灯风格发光可爱动物，结合 3D 卡通与日式萌系元素，适合儿童媒体、游戏素材或吸睛数字艺术项目。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

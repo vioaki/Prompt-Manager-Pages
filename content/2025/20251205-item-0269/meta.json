@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0269",
+  "title": "超现实主义极简概念广告",
+  "category": "gallery",
+  "prompt": "“{BRAND or PRODUCT NAME}” — surreal minimal conceptual advertisement\nCreate a 1:1 high-resolution poster that reimagines the brand/product as a surreal object of desire using minimal elements and symbolic storytelling.\n\n• Visual Style: ultra-clean background (light or muted tone), soft lighting, strong negative space\n• Scene Concept: transform the essence of the product into a metaphorical or dreamlike scene\n• Add a short, punchy slogan (2–3 words) that emotionally resonates with the concept\n• Include the brand’s logo in a clean, modern style (integrated naturally into the layout)\n• Composition: centered or rule-of-thirds alignment, use shadows and depth tastefully\n• Mood: artistic, elegant, and thought-provoking — like a museum installation\n• No clutter, no realism overload — just conceptual clarity",
+  "description": "借助 Nano Banana Pro 打造超现实极简概念广告，将产品转化为梦幻象征，适用于品牌宣传与海报设计，营造干净、富有想象力的视觉场景。",
+  "tags": [
+    "banana",
+    "超现实",
+    "海报",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0128",
+  "title": "创建超现实不可能的图像",
+  "category": "gallery",
+  "prompt": "Create a surreal split-scene where the left half is an underwater version of a [SCENE], filled with marine life (fish, sharks, octopus, coral, bubbles), and the right half is the regular dry version of the same [SCENE] continuing naturally. Separate the two halves with a vertical wall of water held by a magical force, as if the ocean is cut in half. The scene should align across both sides, maintaining realism while showcasing the impossible scenario. Emphasize lighting and reflection differences between water and air environments.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作超现实不可能的景观图像，将水下与陆地场景无缝融合，适合数字艺术、奇幻插画或创意广告，展现魔法般的自然分割效果。",
+  "tags": [
+    "banana",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

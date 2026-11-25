@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0315",
+  "title": "照片级逼真的概念食物艺术肖像",
+  "category": "gallery",
+  "prompt": "Photorealistic conceptual food art portrait, a minimalist representation of a [SITE OF THE HOUSE] recreated entirely with [TYPE OF FOOD]. The main structure is built from [MAIN INGREDIENTS], with details such as [KEY ELEMENTS] made from [SECONDARY INGREDIENTS]. Optional features include [ADDITIONAL OBJECTS OR FURNITURE] created from [EXTRA INGREDIENTS].\n\nSet against a [COLOR] background to emphasize the surreal food sculpture. Bright soft studio lighting, evenly diffused, casting subtle natural shadows that highlight the textures of [FOOD TEXTURES]. Fine atmospheric detail enhance realism.\n\nCaptured with a Canon EOS 5D, 85mm f/1.8 lens, shallow depth of field focusing on the cake-bed sculpture, crisp detail with soft falloff in the background. Composition framed at tabletop eye-level, medium close-up, perfectly centered. Clean high-resolution food photography style, vibrant natural colors, editorial dessert photography aesthetic",
+  "description": "Nano Banana Pro 助你打造惊艳的照片级逼真食物艺术肖像，将极简风格与超现实食材雕塑完美融合，适用于广告、艺术创作或美食摄影，以明亮工作室灯光突出创意视觉冲击。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 679,
+    "height": 382
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

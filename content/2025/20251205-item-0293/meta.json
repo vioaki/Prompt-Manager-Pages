@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0293",
+  "title": "制作工作室拍摄肖像照",
+  "category": "gallery",
+  "prompt": "给图里的人生成工作室拍摄肖像照片,黑色背景,黑色T恤,采用侧光和半身像的构图",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松生成专业工作室肖像照，黑色背景与侧光结合，打造戏剧性高对比度人像，适合摄影工作室、时尚作品集或企业形象照需求。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 900,
+    "height": 794
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

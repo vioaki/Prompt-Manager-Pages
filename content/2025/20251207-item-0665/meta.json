@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0665",
+  "title": "一个在酒店等待的美女",
+  "category": "gallery",
+  "prompt": "Generate a photo taken with a mobile phone. A completely realistic photographic image. Male first-person perspective.\r\n\r\nScene: In a hotel, a reference figure is squatting in front of me, looking up at me. I sit in front of her, looking at her. My crotch is bulging. The reference figure smiles and touches my bulging crotch, with one finger pressed to her lips. Transform the girls in the reference image into realistic cosplay characters, 100% unchanged in character, clothing, and body type.",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "NSFW"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 768,
+    "height": 1323
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-07T00:10:37Z"
+}

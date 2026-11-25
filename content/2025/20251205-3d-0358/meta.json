@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0358",
+  "title": "品牌创意3D广告",
+  "category": "gallery",
+  "prompt": "Creative 3D ad for [Brand Name], with surreal object made from it, matching background color, real slogan below, logo on top, miniature person interacting, minimal and clever concept",
+  "description": "Nano Banana Pro 模型专为打造简约而超现实的 3D 品牌广告，通过微型人物互动与匹配色调，呈现巧妙概念，适用于科技与生活类行业的创意视觉设计。",
+  "tags": [
+    "banana",
+    "3D",
+    "微缩",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

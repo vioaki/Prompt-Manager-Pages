@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0651",
+  "title": "护照自拍",
+  "category": "template",
+  "prompt": "\"A person holding their passport clearly towards the camera, sitting in front of a computer. The ID information is fully visible and legible. The name on the passport is {{name}}, affiliation {{data}}, and birthday {{date}}. All other passport details are random.\"\r\n\r\nExplanation of Changes and Why:\r\n\r\n\"A person holding their passport clearly towards the camera...\"\r\nReplaced \"Make the character in the image hold their passport\" with a more direct and concise phrasing.\r\n\"Clearly towards the camera\" enhances the focus on the passport's visibility, making it the primary action.\r\n\"...sitting in front of a computer.\"\r\nKept this part as it's clear and necessary.\r\n\"The ID information is fully visible and legible.\"\r\nThis is a crucial addition. \"Clearly visible\" was good, but \"fully visible and legible\" reinforces that all relevant text (especially the specified fields) should be readable, not just the general presence of the ID.\r\nRemoved \"to prove they are a real person\" as it's an implied reason for the action, not a visual description of the scene itself. AI models respond better to visual cues.\r\n\"The name on the passport is [Donald Trump], affiliation [YOUR DATA], and birthday [YOUR DATE].\"\r\nMore direct phrasing for specifying the content. \"Name on the passport is...\" is more explicit than \"the name...\"\r\nRemoved the repeated \"the ID information should be clearly visible, with...\" as the earlier line already covers general visibility, and this part focuses on specific content.\r\n\"All other passport details are random.\"\r\nMore concise than \"All other details can be random and fictional.\" \"Passport details\" makes it specific to the ID, and \"random\" implies fictional.",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "实用"
+  ],
+  "author": {
+    "name": "39c5bb",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 976,
+    "height": 1088
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T15:25:55Z"
+}

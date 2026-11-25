@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20260128-item-0800",
+  "title": "挑战！",
+  "category": "template",
+  "prompt": "[IMPORTANT]\r\nStrictly follow clothing from reference! \r\n\r\n[Background & Color Palette]\r\nDecorative background with a mix of solid areas and halftone dot patterns.\r\nThe background color scheme must be monochromatic, derived from the character's primary hair and eye colors to ensure visual harmony.\r\nSimple geometric shapes and a subtle drop shadow behind the character figures.\r\n\r\n[Technical Tags]\r\nSplit view, character design, masterpiece, detailed shading.\r\n\r\n[Left Panel: Original State]\r\nLeft side: Full body standing portrait of the character, wearing their default original outfit, confident pose, looking at the viewer.\r\n\r\n[Center Element: Chibi Icon]\r\nCenter: A floating chibi head icon of the same character with a playful expression and tongue out.\r\nOverlay stylized bold text \"Challenge!\" directly below the chibi head.\r\n\r\n[Right Panel: Undressing Scene]\r\nRight side: a full-body view of the character in a \"cloth changing\" pose:\r\n- A bashful or blushing facial expression.\r\nShe is holding the detached outfit pieces to cover herself:\r\n- Her left hand holds the upper outfit to cover her upper torso.\r\n- Her right hand is holding a folded bundle of her skirt to cover her lower torso.\r\n- Her midriff area are clearly visible between the two held pieces of outfit.\r\n- Her shoes are removed and placed neatly on the ground beside her.\r\n- She remains wearing her original stockings on her legs.\r\n- She is NOT wearing the rest of her outfit; her shoulders and torso are bare.\r\n\r\n[IMPORTANT]\r\nStrictly adhere to the clothing, accessories, and costume design from the provided reference image. Maintain absolute fidelity to every detail of the original outfit without any modifications or redesigns.",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "设定图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "MoePus",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [],
+  "createdAt": "2026-01-28T23:20:08Z"
+}

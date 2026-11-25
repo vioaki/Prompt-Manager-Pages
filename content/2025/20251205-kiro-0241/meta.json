@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-kiro-0241",
+  "title": "Kiro卡通幽灵",
+  "category": "gallery",
+  "prompt": "A cute cartoon ghost is the absolute main subject of the picture. It has a pure white body with a smooth and rounded contour, and two simple black oval eyes, with no extra features. This ghost is floating quietly in the very center of the picture. The background is a pure, bright purple, creating a simple, modern, and friendly atmosphere. The composition is a centered close-up, and the aspect ratio is 1:1 square. There is no text in the entire image. The image style is typical flat design and vector art, minimalist, much like an app icon or a logo, characterized by clean lines and solid color blocks, without any gradients or textural details. The image quality required is high-resolution with clean, sharp edges. The overall feeling it gives is one of a cute, simple, and modern piece of digital art.",
+  "description": "使用 Nano Banana Pro 模型，轻松生成简约可爱的卡通幽灵形象，适用于品牌标识、儿童产品或周边设计，呈现现代友好的风格。",
+  "tags": [
+    "banana",
+    "插画",
+    "Q版"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

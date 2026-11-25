@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0002",
+  "title": "四格漫画 (相对论)",
+  "category": "gallery",
+  "prompt": "make a colorful page of manga describing the theory of relativity. add some humor",
+  "description": "使用 Nano Banana Pro 创作色彩缤纷的四格漫画，生动解释相对论，融入幽默元素，让复杂理论变得轻松易懂，适合科学传播者和教育工作者制作引人入胜的视觉教材。",
+  "tags": [
+    "banana",
+    "漫画",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 512,
+    "height": 512
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

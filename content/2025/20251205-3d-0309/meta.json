@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0309",
+  "title": "创建您自己的3D漫画",
+  "category": "gallery",
+  "prompt": "A highly stylized 3D caricature of me, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松打造高度风格化的3D漫画形象，生动夸张的面部特征与流畅渲染完美结合，适用于个性化角色肖像和社交媒体展示，以大胆色彩背景凸显人物魅力。",
+  "tags": [
+    "banana",
+    "3D",
+    "肖像",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0248",
+  "title": "怪诞又梦幻的超现实插画",
+  "category": "gallery",
+  "prompt": "Transform the uploaded image into a surreal illustration with a whimsical, dream‑like vibe.\n• Color palette: muted tones (soft greens, browns, greys) with occasional gentle pops of green.\n• Lighting: soft, diffused, almost ethereal light that blends gradients and subtle highlights.\n• Texture & medium feel: oil‑painting‑like brushstrokes, faint watercolor washes, or loose hand‑drawn linework, with a slight grainy texture.\n• Mood & composition: exaggerated, expressive features (e.g., elongated faces or emotive eyes) characteristic of cartoonish or Muppet‑style illustrations, but applied in a surreal, slightly fantastical context.\n• Overall aesthetic: blend realistic attention to detail with a touch of surreal whimsy—think serene, slightly uncanny atmosphere.",
+  "description": "使用 Nano Banana Pro 模型，将您的图像转化为怪诞梦幻的超现实插画，适合幻想艺术和创意设计，营造柔和色调与空灵氛围。",
+  "tags": [
+    "banana",
+    "插画",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 622
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

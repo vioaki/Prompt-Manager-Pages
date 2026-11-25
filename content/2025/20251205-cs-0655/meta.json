@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-cs-0655",
+  "title": "CS游戏截图",
+  "category": "template",
+  "prompt": "生成一张游戏截图。\r\n游戏画面是CS，就是那个打枪的游戏。请合理的在图片上放置游戏UI。\r\n画面是第一视角，玩家的角色是特警，他用拿着匕首的姿势，但是拿的是一个很长的黄瓜。\r\n图一的参考角色是敌人，把角色做成符合cs游戏的3D风格，但是服装发饰等特征不要变。\r\n图一的角色正拿着一个awp蹲着准备偷袭别人，回头的时候发现玩家操纵的角色已经非常近，马上就要被偷袭致死了，所以露出夸张的吃惊表情。\r\n\r\n整体是一个搞笑的“螳螂捕蝉，黄雀在后”的搞笑画面。",
+  "description": "",
+  "tags": [
+    "banana",
+    "梗图",
+    "游戏"
+  ],
+  "author": {
+    "name": "江小津",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T16:31:04Z"
+}

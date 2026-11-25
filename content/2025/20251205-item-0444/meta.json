@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0444",
+  "title": "你生气的时候其实也可以很可爱",
+  "category": "gallery",
+  "prompt": "Transform the subject into a glossy designer-toy character inspired by the reference image. Smooth and rounded proportions, chubby silhouette, exaggerated cartoon expression, large open mouth, tiny dot eyes, and bold sculpted details. High-gloss vinyl surface with sharp reflections, saturated primary colors (especially bright blue and pink), stylized spikes and simple shapes. Toy figurine aesthetic, studio lighting, clean background, dramatic shadows, ultra-polished plastic texture",
+  "description": "Nano Banana Pro 能捕捉生气时的可爱表情，以柔和奇幻的艺术风格，为动画角色设计或轻松社交媒体内容增添趣味。试试搭配“可爱生气”或“温柔爆发”等关键词，优化创意效果。",
+  "tags": [
+    "banana",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 604,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

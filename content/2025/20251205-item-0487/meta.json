@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0487",
+  "title": "微缩的温馨客厅",
+  "category": "gallery",
+  "prompt": "A photorealistic ESC keycap scene shows a miniature cozy living room setup. Inside: a glowing red Netflix screen, a plush red couch, popcorn bowl, and throw blanket. A small figure lounges with feet up, watching content. The red “N” logo glows from behind like mood lighting. Outside: cool tech-blue reflections on F1, Shift, and Q keys. The word “ESC” is subtly present in a glassy fog on top of the cap.",
+  "description": "Gempix2 与 Nano Banana 2 模型完美捕捉微缩 ESC 键帽中的温馨客厅场景，逼真呈现发光 Netflix 屏幕与舒适细节，适合产品展示和创意摄影。",
+  "tags": [
+    "banana",
+    "写实",
+    "微缩",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

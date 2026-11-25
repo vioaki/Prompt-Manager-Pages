@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0209",
+  "title": "3D蓬松的物体",
+  "category": "gallery",
+  "prompt": "Transform the [BRAND NAME] logo into a hyper-realistic, 3D fluffy object. Keep the original shape and exact brand colors. Cover the entire surface in soft, detailed fur with a realistic hair texture. Use cinematic lighting to create subtle backlighting and soft shadows, making the logo appear tactile and surreal. Place the logo in the center of a clean black background, floating gently with a modern, stylish look. The style should feel cozy, playful, and visually striking. Render in ultra-high 4K resolution with photorealistic quality.",
+  "description": "借助 Nano Banana Pro，将品牌标志转化为超写实的 3D 蓬松物体，保留原色与蓬松毛发细节，结合电影级光影，打造温暖又超现实的现代品牌标识与摄影风格。",
+  "tags": [
+    "banana",
+    "3D",
+    "产品广告",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

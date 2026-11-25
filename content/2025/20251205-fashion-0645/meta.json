@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-fashion-0645",
+  "title": "fashion",
+  "category": "template",
+  "prompt": "根据参考图，并以输入国家的风格设计的豪华时尚杂志封面，融合了标志性地标、文化符号和当地美学风格。布局模仿高端编辑设计，标题的灵感来自该国的语言、趋势和生活方式，人物动作自由创作，不用拘泥于参考图的动作和风格（但是参考图是二次元则也应该生成二次元，参考图是真人则也应该生成真人）。精致的电影级灯光，垂直 9：16 格式，超细节，Vogue 级别的优雅",
+  "description": "",
+  "tags": [
+    "banana",
+    "肖像",
+    "海报"
+  ],
+  "author": {
+    "name": "39c5bb",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 768,
+    "height": 1376
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T15:17:50Z"
+}

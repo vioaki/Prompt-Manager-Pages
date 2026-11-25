@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260210-item-0804",
+  "title": "拉电线哈哈",
+  "category": "template",
+  "prompt": "参考图一，将图二角色转变为用手拉着电线的miratsu_style表情包，模仿图一中角色的五官特征和动作，100%保留图2角色头部装饰/发色/眼睛颜色,在替换角色时候要特别注意图一角色是戴着白色帽子的，要把边缘轮廓去干净，角色用手直接拉住电线两端（原图握的不是很好，所以你的修改要保证手握住电线无穿帮），保留参考图一的文字。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "梗图"
+  ],
+  "author": {
+    "name": "奶龙皇",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 648,
+    "height": 627
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2026-02-10T17:04:32Z"
+}

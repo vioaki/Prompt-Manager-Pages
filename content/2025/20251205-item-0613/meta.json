@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0613",
+  "title": "千禧年玩魔兽",
+  "category": "template",
+  "prompt": "基于参考图所示角色，生成用低画质早期数码相机拍摄的日常照片。背景是2000年代初期的中国家庭，她正在坐在木椅子上翘着腿玩电脑，眼神专注，聚精会神，老式电脑的CRT屏幕上显示着魔兽世界的游玩画面，她右手握住鼠标。画面外有一只男人的手（POV）在帮她按键盘。右下角有相机输出的拍摄时间（墙上的月历应该和该日期相同月份）。少女以动漫画风呈现，画面其他部分均为实拍风格。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "复古",
+    "次元融合"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 883
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:03Z"
+}

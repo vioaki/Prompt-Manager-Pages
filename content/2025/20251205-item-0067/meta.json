@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0067",
+  "title": "品牌折叠纸",
+  "category": "gallery",
+  "prompt": "A flat branded paper folds itself into the full 3D shape of a [insert product or item, e.g. “Coca-Cola bottle”, “Nike sneaker”, “Big Mac”], mid-motion. \n\nThe paper colors match the [insert brand name] brand’s signature palette and the natural colors of the item (e.g., [describe key colors or ingredients, like “red and white for Coca-Cola”, “brown, green, yellow for Big Mac”]).\n\nDramatic studio lighting, origami texture detail, soft gradient shadows. Stylized with Japanese minimalism and elegant negative space. The scene captures a clean, elevated transformation from flat brand identity into sculptural product form.",
+  "description": "借助 Nano Banana Pro 模型，打造简约折纸风格与科幻感融合的品牌动态展示，适用于产品发布和广告宣传，以生动的 3D 动画吸引观众目光。",
+  "tags": [
+    "banana",
+    "3D",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1100,
+    "height": 610
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

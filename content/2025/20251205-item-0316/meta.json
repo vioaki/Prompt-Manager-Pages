@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0316",
+  "title": "物体变成大胆的卡通滴水",
+  "category": "gallery",
+  "prompt": "Transform the [OBJECT] from the uploaded photo into a bold, colorful cartoon illustration style, while keeping the rest of the photo realistic and unchanged. \n\nCartoon style details: thick black outlines, vibrant flat colors (such as bright cyan, magenta, yellow, pink), dripping paint and splash effects, playful comic-book energy.  most drips flow downwards\nThe cartoon object should look like it is melting or bursting with colors, blending naturally into the real photo. \n\nKeep all other elements (background, other objects, environment) photorealistic with no alterations. \nHigh resolution, pop-art aesthetic, surreal contrast between realism and cartoon.",
+  "description": "使用 Nano Banana Pro，将照片中的物体转换为大胆的卡通滴水风格，保留背景真实感，适合广告、社交媒体和数字艺术创作，增添生动有趣的视觉效果。",
+  "tags": [
+    "banana",
+    "插画",
+    "次元融合"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0401",
+  "title": "一幅超写实全身肖像与路飞互动",
+  "category": "gallery",
+  "prompt": "Ultra-realistic full-body portrait of the attached image. The person is interacting with Monkey D. Luffy in a front-facing pose, both standing side by side, smiling directly at the camera. Their body language is friendly and natural — Luffy’s arm rests around the person’s shoulder, while both share a joyful, relaxed laugh. Studio or neutral environment with soft cinematic lighting and a warm beige-to-burgundy gradient background. The person wears casual modern clothes: beige T-shirt, navy shorts, and white sneakers, while Luffy retains his original look — straw hat, red vest, blue shorts, yellow sash, and sandals. Expression and mood: happy, authentic, full of energy and camaraderie, captured in photorealistic textures, realistic lighting, and cinematic composition with high-fashion editorial quality.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro创作超写实全身肖像，轻松实现与路飞的友好互动，完美适用于时尚摄影和品牌社交媒体内容。借助柔和电影级光影与渐变背景，打造自然生动的角色画面，提升肖像与自然主题作品的吸引力。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "次元融合"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

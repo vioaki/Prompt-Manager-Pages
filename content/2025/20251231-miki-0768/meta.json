@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "20251231-miki-0768",
+  "title": "Miki 在医院",
+  "category": "gallery",
+  "prompt": "/* 核心 */\r\n ((杰作)), ((最佳质量)), ((极致细节)), ((高分辨率))\r\n(masterpiece), (best quality), (tenki no ko style), (photorealistic hospital), (cold color palette), highly detailed background\r\na dark hospital interior at night, empty hallways with fluorescent lights, soft shadows, realistic details, cinematic composition\r\n图1角色立于画面右侧。她的发丝泛着蓝黑的光泽，微微发光的蓝色眼眸盯着摄像头，唇瓣微闭带着几分疑惑；身后是处于黑暗当中的医院走廊，只有应急灯和设备的光，整个画面浸着安静的冷色调。\r\n\r\n/* 动作 */\r\n1.身体微微侧立，重心偏于一侧，呈现出松弛的体态；\r\n2.头部微侧，目光斜睨镜头；整体肢体语言糅合了猫的可爱与天真的眼神\r\n3.右手轻抬至脸颊旁，指尖微曲拂过鬓发，像猫一样抓着一把一把柳叶刀，手术刀反射一些光线闪着寒光。；\r\n4.左手悬在半空，同样做出猫抓住手势；\r\n\r\nsterile surfaces,  clean\r\n\r\nwide shot, cinematic perspective, shallow depth of field, realistic lighting\r\n\r\n**【(以图1作为角色参考(严格参考发色、瞳色(发光的蓝色瞳)、服装，画风。角色是动漫角色不是人偶或真人)】**16:9\r\n(detailed eyes), (looking away), (soft smile), (lights blurred), (bokeh), atmospheric, vivid colors\r\n\r\n少女周围使用数字故障（glitch）效果：横向像素错位、条状噪点、轻微色偏，不遮盖整个人物，仅作为风格的一部分，闪亮华丽高后处理辉光。拍摄视角大光圈带来的浅景深将背景自然的虚化一些，使观众的视线看向少女，增加画面的厚重感和颗粒噪点，去除数码味的生硬。电影感、叙事性、私密感、高动态范围。衣物质感细腻，衣物完整，高质量，细节丰富，杰作，4k,唯美插画，动画艺术，CG。参考图中少女须画成高清原画cg级别的二次元画风，仿佛穿越到现实，确保光影效果，让图中的动漫画风少女能够完美的和写实背景融合，少女不可照搬原图，少女必须是二次元画风。16:9壁纸\r\n\r\n【Negative Prompt】\r\n(low quality), (dusty), (blurry buildings), (comic style), (simple texture), (bad reflection)",
+  "description": "我在用 Labnana 生成 AI 图片，效果还不错，分享给你试试～\r\n通过我的邀请链接注册，你也可以直接体验：\r\n👉 http://labnana.com?aff=73a295cf34a24453",
+  "tags": [
+    "banana",
+    "二次元",
+    "次元融合",
+    "场景"
+  ],
+  "author": {
+    "name": "Miki",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1376,
+    "height": 768
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    },
+    {
+      "kind": "image",
+      "file": "ref-1.webp"
+    }
+  ],
+  "createdAt": "2025-12-31T00:28:36Z"
+}

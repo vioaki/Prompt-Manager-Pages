@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0012",
+  "title": "创意广告",
+  "category": "gallery",
+  "prompt": "A minimalist and creative advertisement set on a clean white background.\nA real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.",
+  "description": "Nano Banana Pro 模型专为打造极简创意广告，将真实物体融入趣味手绘涂鸦，在干净白底上呈现高对比度的聪明视觉，适合品牌标识与广告设计，有效吸引零售或科技行业受众。",
+  "tags": [
+    "banana",
+    "手绘",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 820,
+    "height": 996
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

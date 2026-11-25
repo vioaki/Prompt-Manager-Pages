@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0213",
+  "title": "卡通现代风格插画",
+  "category": "gallery",
+  "prompt": "Transform this image into a Cartoon Modern Style illustration, inspired by classic UPA animation like Mr. Magoo and The Jetsons.\nRedesign the character using flat, geometric shapes: ovals, rectangles, simple curves and angles. Avoid realistic proportions — the design should be stylized and abstract.\nUse a limited color palette, preferably soft pastels or bold contrasts (e.g. mint green, salmon, sky blue, mustard yellow), with flat tones and no gradients.\nSimplify facial features and body structure to be iconic and minimalist — large heads, small limbs, expressive poses, but with minimal detail.\nThe background should be minimal or symbolic, using basic shapes or abstract scenery (floating stairs, blocky furniture, stylized trees or stars).\nThe final image should look like a frame from a 1950s or 1960s modernist cartoon — playful, graphic, and highly stylized.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作充满几何形状和简约配色的卡通现代风格插画，适合角色设计、标志和风景，带来 UPA 动画的经典魅力。",
+  "tags": [
+    "banana",
+    "插画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1116,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

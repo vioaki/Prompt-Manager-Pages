@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-chibi-0377",
+  "title": "3D chibi风格乙烯基收藏品",
+  "category": "gallery",
+  "prompt": "A 3D chibi-style vinyl collectible figure of [CHARACTER NAME] Big head, small body, cartoon proportion, Standing inside a Youtooz-style\npackaging box with: Transparent front window\n\"YOUTOOZ COLLECTIBLES\" logo on the top\nNumber label ([#XXX]) on the top-left\nBottom front text: “[CHARACTER NAME]” and lower with smaller font “VINYL FIGURE”\nCartoon 2D illustration of [CHARACTER NAME] on the side of the box ([ILLUSTRATION DESCRIPTION])\n\nBackground/theme:\n[BOX COLORS + TEXTURES + ICONIC MOTIFS RELATED TO CHARACTER] \n[Figure POSE OR GESTURE] \n[Outfit DESCRIPTION + SIGNATURE ITEMS]\n\nFace details: The facial features (mouth/eyes/details) must be fully 3D sculpted, not flat or printed.\nLighting: clean product photography look, minimal soft shadows\nStyle: vinyl-toy aesthetic with a mix of matte + glossy accents depending on costume, Composition: 3/4 product shot view, full box visible. The entire packaging box must be fully visible inside the frame with a clean margin around all edges.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro模型，轻松打造生动的3D Q版乙烯基收藏品，专为卡通角色和极简设计而生，适合时尚品牌、插画定制和标志周边创作。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

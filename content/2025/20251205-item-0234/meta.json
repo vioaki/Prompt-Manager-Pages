@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0234",
+  "title": "用花朵美化你的产品",
+  "category": "gallery",
+  "prompt": "A high-end editorial photo of (PRODUCT NAME OR IMAGE) placed on a white marble pedestal, resting on champagne-colored silk. It is surrounded by pastel flowers whose type and color naturally harmonize with the product’s primary colors (COLOR PALETTE) — complementing and enhancing its tones. Soft natural light from the upper left. 3D realism, luxury product photography, shallow depth of field, 1:1 format.",
+  "description": "借助 Nano Banana Pro 模型，轻松打造高端编辑风格的产品摄影，通过柔和自然光线与淡雅花朵的点缀，为电商、化妆品或珠宝行业提升视觉吸引力，营造奢华和谐的氛围。",
+  "tags": [
+    "banana",
+    "写实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1118,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

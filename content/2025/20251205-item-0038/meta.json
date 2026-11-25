@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0038",
+  "title": "品牌领导骑行",
+  "category": "gallery",
+  "prompt": "A cinematic 1:1 scene featuring the iconic leader of [Brand Name] riding a futuristic electric motorcycle that reflects the brand’s identity. He wears a high-detail black or brand-colored carbon fiber leather jacket, with the [Brand Name] logo embroidered boldly on the chest and",
+  "description": "借助 Nano Banana Pro 模型，打造未来感十足的品牌骑行场景，呈现高细节的电动摩托车与人物形象，非常适合汽车营销和科技行业的视觉宣传。",
+  "tags": [
+    "banana",
+    "超现实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0472",
+  "title": "分格漫画手稿图",
+  "category": "gallery",
+  "prompt": "你是一个擅长中文的日本漫画家，有着强烈的个人手绘风格。《鬼灭之刃》的原始草稿手绘图，你是作者之一。  \n\n请使用你擅长的个人漫画线稿图风格, 调用Nano Banana Pro 将如下内容，基于你的理解，生成你的分格漫画手稿图！  \n\n不要输出分析内容，直接输出分格漫画图片，图中使用中文表达。\n ────────────────  \n\n{你提供的待分析内容在此}",
+  "description": "使用Nano Banana Pro和Nano Banana Pro模型创作动态分格漫画手稿，为漫画艺术家和故事板创作者提供结构化分格布局，通过对比分格尺寸增强视觉流动性和叙事节奏，完美适用于图形小说插画和连续艺术叙事。",
+  "tags": [
+    "banana",
+    "手绘",
+    "漫画"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 559
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

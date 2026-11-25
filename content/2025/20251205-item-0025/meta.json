@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0025",
+  "title": "品牌奢华之物从天而降",
+  "category": "gallery",
+  "prompt": "Create a image with 1:1 ratio\na dreamy brand ad of [Brand], a brand designed bubble-like capsule with brand color parachute packaging their classic product, against blue sky and other blurry parachute packaging, white cloud, a small brand logo on top, a tiny slogan beneath it, cinematic day lighting, lens flare, dof, hdr",
+  "description": "借助Nano Banana Pro的梦幻电影风格，打造奢华品牌广告，适用于时尚、美妆或高端产品，通过柔和光影与动态降落伞包装增强视觉吸引力。",
+  "tags": [
+    "banana",
+    "超现实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1102,
+    "height": 1104
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

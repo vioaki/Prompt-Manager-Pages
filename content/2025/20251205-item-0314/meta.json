@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0314",
+  "title": "益智玩具角色",
+  "category": "gallery",
+  "prompt": "SUBJECT: Chibi-style [CHARACTER NAME] reimagined as a Puzzle Toy character, ultra-cute proportions with oversized head and tiny stubby body.\n\nMATERIALS:\nBody and head formed entirely from interlocking jigsaw puzzle pieces\nMatte pastel plastic surface with soft specular highlights\nVisible puzzle cuts and notches defining the structure\nEach piece slightly separated by thin seams, but tightly fitted together\n\nDETAILS:\nLarge glossy chibi eyes placed across puzzle pieces, seamlessly integrated\nCute simple mouth outlined on puzzle surface\nCostume colors of [CHARACTER NAME] applied piece-by-piece across the puzzle body, Character is holding a single loose puzzle piece in one hand, lifted playfully, as if showing it to the viewer, Some extra puzzle pieces floating gently around for added fun\n\nSTYLE:\nBright, educational, playful toy aesthetic, Minimal wear, no dirt, no scratches\n\nLIGHTING:\nSoft studio HDRI lighting with gentle shadows, Subtle contact shadows under puzzle seams, High contrast to show piece outlines clearly\n\nCAMERA:\nCentered, front-facing or 3/4 isometric angle, 1:1 aspect ratio, 8K render, Focus sharp on character’s face, emblem, and puzzle piece in hand\n\nBACKGROUND:\nClean seamless pastel gradient backdrop (COLOR)\nOptional scattered puzzle pieces on the floor for extra context\n\nOUTPUT STYLE: Cute chibi proportions, Puzzle-based",
+  "description": "Nano Banana Pro 专为打造简约时尚的益智玩具角色设计，以超大头部和娇小身体的超萌比例，结合柔和哑光拼图材质，呈现干净清新的肖像风格。Nano Banana Pro 则擅长用拼图结构塑造潮玩角色，细腻的拼接口与光泽细节让每个形象都充满治愈感。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

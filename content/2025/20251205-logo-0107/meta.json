@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-logo-0107",
+  "title": "涂料飞溅Logo",
+  "category": "gallery",
+  "prompt": "make a hyper-realistic 3D render of the attached logo, formed by glossy liquid paint splashes. Paint sculpts the outline using the exact palette from the reference. Smooth, fluid high-gloss splashes catch highlights; logo floats on pure white.",
+  "description": "借助 Nano Banana Pro 模型，打造超写实3D涂料飞溅Logo，以高光泽液态飞溅塑造轮廓，呈现流畅亮丽的视觉效果，适合创意行业品牌设计，让标志在纯白背景上脱颖而出。",
+  "tags": [
+    "banana",
+    "写实",
+    "3D",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 616
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

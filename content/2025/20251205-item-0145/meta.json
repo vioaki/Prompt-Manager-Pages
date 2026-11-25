@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0145",
+  "title": "玻璃变形海报",
+  "category": "gallery",
+  "prompt": "Design a cinematic brand poster featuring “[BRAND NAME]” — include a bold six-word slogan beneath — apply a 3D glass refraction effect that distorts part of the text or layout — incorporate the brand logo in the top corner — smooth shadows, glossy lighting, black extra-bold typography — clean modern background — high-resolution, 1:1 aspect ratio",
+  "description": "使用 Nano Banana Pro 模型，轻松打造具有 3D 玻璃折射效果的品牌海报，适用于娱乐和奢侈品行业的现代品牌推广与视觉设计。",
+  "tags": [
+    "banana",
+    "3D",
+    "海报",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

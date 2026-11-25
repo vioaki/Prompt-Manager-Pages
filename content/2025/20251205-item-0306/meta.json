@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0306",
+  "title": "秋天的落叶拼成图案",
+  "category": "gallery",
+  "prompt": "中景，有阳光的午后，胶片质感，拍摄地面，秋天的落叶、树枝、银杏叶和桂花在平面上拼成了一个小猫的样子，旁边放着一杯一次性咖啡杯",
+  "description": "用 Nano Banana Pro 捕捉秋日落叶拼成小猫图案的温馨场景，胶片质感与午后阳光相融，适合自然主题内容、创意摄影作品集或季节性营销推广。",
+  "tags": [
+    "banana",
+    "写实",
+    "复古",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1204,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

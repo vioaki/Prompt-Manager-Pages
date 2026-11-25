@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0276",
+  "title": "制作照片中人物的玩具",
+  "category": "gallery",
+  "prompt": "Create a toy of the person in the photo. Let it be an\naction figure. Next to the figure, there should be the toy's\nequipment like a football and football boot and world cup. Also,\non top of the box, write 'LIONEL MESSI and underneath it,\n'GOAT'.Visualize this in a realistic way.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，将照片中的人物转化为逼真的可动人偶玩具，搭配足球装备和世界杯元素，打造个性化收藏品，适合摄影爱好者和纪念品行业创作写实风格的定制模型。",
+  "tags": [
+    "banana",
+    "肖像",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 600,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

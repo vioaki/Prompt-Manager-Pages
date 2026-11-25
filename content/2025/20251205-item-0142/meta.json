@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0142",
+  "title": "梦幻般的蒸汽波失真",
+  "category": "gallery",
+  "prompt": "[SUBJECT] rendered in Dreamlike Vaporwave Distortion, with soft pastels and surreal effects. Employ a nostalgic color palette of [COLOR1] and [COLOR2] to evoke a sense of longing and ethereal beauty",
+  "description": "使用 Nano Banana Pro 模型，轻松为您的艺术创作、品牌设计或数字内容添加梦幻蒸汽波失真效果，以柔和的粉彩与超现实风格唤起怀旧与空灵之美。",
+  "tags": [
+    "banana",
+    "复古",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

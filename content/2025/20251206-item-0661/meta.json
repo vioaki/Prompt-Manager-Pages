@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251206-item-0661",
+  "title": "台前幕后",
+  "category": "gallery",
+  "prompt": "这是一张电影剧照，给我一个广角照片，是剧组人员拍摄这个场面的剧照。\r\n以女角色为中心。\r\n有2、3个不太专业的摄影师和打光师以及准备上场的男演员（刚洗完澡，穿着短裤，赤裸上身，显得有些肌肉），专业的化妆师在旁边给男角色补妆。\r\n\r\n角落有人举个牌子，用中文写着“91团队打造”。",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "NSFW"
+  ],
+  "author": {
+    "name": "江小津",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 893
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-06T00:24:23Z"
+}

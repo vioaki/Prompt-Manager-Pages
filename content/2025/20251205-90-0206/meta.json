@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-90-0206",
+  "title": "90年代风格的摔跤人物",
+  "category": "gallery",
+  "prompt": "Product photography, a 1990's style WWF Wrestling Figurine package with the figurine wrestler in the package being [your character]. The figure features bright colors, a detailed character design,  white background with professional studio lighting.",
+  "description": "Nano Banana Pro 模型完美捕捉 90 年代摔跤纪念品的活力精髓，专为产品摄影设计，适用于电商和收藏品营销，在纯白背景上凸显色彩鲜艳、细节丰富的角色形象。",
+  "tags": [
+    "banana",
+    "复古",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 899
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

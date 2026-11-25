@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0028",
+  "title": "公司金币",
+  "category": "gallery",
+  "prompt": "Prompt: A high-resolution photograph of a gold coin featuring the [COMPANY NAME] logo at the center. The coin should have the year [YEAR] engraved at the top. Include finely detailed engravings, ornamental border patterns, and authentic coin textures like reeded edges, matte",
+  "description": "使用 Nano Banana Pro 模型，轻松拍摄高分辨率金币照片，细节清晰、质感真实，适合企业品牌宣传或纪念品设计。",
+  "tags": [
+    "banana",
+    "写实",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:46Z"
+}

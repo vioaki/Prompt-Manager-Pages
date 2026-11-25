@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0006",
+  "title": "金色抽象综合风格",
+  "category": "gallery",
+  "prompt": "{\n    \"base_image\": \"uploaded image\",\n    \"style_transfer\": {\n        \"visual_characteristics\": {\n            \"head_and_face\": {\n                \"material\": \"translucent resin with embedded starlight and glowing neural circuits\",\n                \"surface_effect\": \"mirror-gloss with gold filament veins and galaxy-like reflections\",\n                \"lighting\": \"dynamic cinematic rim lights with volumetric glow\"\n            },\n            \"body_structure\": {\n                \"texture\": \"high-polish white ceramic with embedded gold wiring\",\n                \"design\": \"futuristic like organic plating\",\n                \"highlight_elements\": \"subtle internal light flows mimicking synaptic energy\"\n            },\n            \"motion_effect\": {\n                \"visual_glitch\": \"subtle horizontal motion blur on head edges\",\n                \"energy_flow\": \"faint pulsing particle lights across body\"\n            },\n            \"background\": {\n                \"type\": \"neutral gradient or dark void\",\n                \"focus\": \"emphasize figure's luminous contrast\"\n            }\n        },\n        \"application_target\": \"Replace surface and material style of uploaded image with the characteristics described above, while preserving the original pose, structure, and composition of the target image.\"\n    }\n}",
+  "description": "借助 Nano Banana Pro，轻松打造金色抽象未来风格角色，适用于科幻概念艺术、数字形象设计和高科技产品视觉呈现，细节中融入半透明树脂与动态电影级光影，尽显高端视觉魅力。",
+  "tags": [
+    "banana",
+    "3D",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1100,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

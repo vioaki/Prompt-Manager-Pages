@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0562",
+  "title": "呕吐",
+  "category": "gallery",
+  "prompt": "基于参考图角色（角色A），按照以下要求生成日本动漫风格图片：\r\n\r\n图像内容:\r\n  元数据:\r\n    艺术风格: 日本动漫 (Anime) / 漫画风格 (Manga)\r\n    渲染方式: 赛璐璐上色 (Cel-shading)\r\n    构图: 人物半身侧面特写 (Side profile close-up)\r\n\r\n  人物特征:\r\n    头发:\r\n      发型: 略显凌乱\r\n      \r\n    面部表情:\r\n      眼睛:\r\n        状态: 极度睁大 (Wide open)，瞳孔收缩，甚至有点失焦\r\n        细节: 眼角挂着泪珠 (Tears in corners)\r\n      脸颊:\r\n        状态: 重度潮红 (Heavy blush)\r\n        细节: 面颊侧面有明显的汗珠滑落 (Sweat drops)\r\n      嘴部:\r\n        状态: 被双手捂住，看不见嘴唇细节\r\n    \r\n  动作与姿态:\r\n    核心动作: 呕吐 / 吐水 (Vomiting / Spitting liquid)\r\n    手势:\r\n      描述: 双手紧紧捂住口鼻区域 (Hands covering mouth)\r\n      细节: 手指微微张开，液体从指缝中溢出\r\n    身体姿态: 头部微微前倾\r\n\r\n  环境与特效:\r\n    液体效果:\r\n      类型: 呕吐物或粘稠液体 (Vomit / Viscous liquid)\r\n      形态: 从指缝间呈流线型下落，伴有飞溅的小液滴\r\n      质感: 半透明，略带米白色\r\n    光影:\r\n      光源方向: 左上方及后方\r\n      效果: 头发边缘有强烈的轮廓光 (Rim light)，营造出逆光感\r\n    背景:\r\n      内容: 由你设计。\r\n      景深: 浅景深，背景虚化 (Bokeh)\r\n\r\n  情绪与氛围:\r\n    关键词: 痛苦 (Distress)，震惊 (Shock)，生理不适 (Nausea)，尴尬 (Embarrassment)\r\n    场景描述: 角色因某种原因感到极度恶心或不适，正在剧烈呕吐，液体无法完全被手止住。\r\n    光影：光源从背后照过来，人物面部背光处于阴影中。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "肖像"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:01Z"
+}

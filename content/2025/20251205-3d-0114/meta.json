@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0114",
+  "title": "任天堂风格的3D卡通插画",
+  "category": "gallery",
+  "prompt": "Transform this image into a Nintendo-inspired 3D cartoon style illustration.\n\nUse soft, rounded 3D shapes and clean, toy-like geometry to give the characters and objects a charming, handcrafted look.\n\nCharacters should have exaggerated, childlike proportions (large heads, small limbs), with expressive, simplified faces and bright, colorful clothing — similar to designs seen in Zelda: Link’s Awakening, Animal Crossing, or Miitopia.\n\nApply smooth, matte textures with no realistic detail — everything should look cheerful and slightly plastic, as if sculpted from soft clay or digital vinyl.\n\nThe environment should be bright and whimsical, with stylized grass, puffy clouds, geometric trees, and soft lighting like a sunny afternoon.\n\nThe overall tone should be lighthearted, clean, and family-friendly, like a frame from a Nintendo fantasy adventure game.",
+  "description": "使用 Nano Banana Pro 模型，轻松将图像转化为任天堂风格的 3D 卡通插画，以柔和圆润的造型和明亮色彩，打造充满童趣的游戏角色与幻想场景，适合游戏素材和儿童媒体创作。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画",
+    "游戏"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0408",
+  "title": "铅笔风格的大头漫画",
+  "category": "gallery",
+  "prompt": "{\n\"image_edit\": {\n\n\"subject\": \"uploaded_image\",\n\n\"Goal\":\"proportional composition of The whole body bottom to head is a caricature with the face and head exaggerated in the extremely shape of the eyes, nose, lips.\",\n\n\"style\": \"textured paper\", \"refine details, retain original charcoal structure and strong brushes pencil, aesthetic composition and expression, pure black, brushes stroke\"\n\n{\"style\": \"pencil brush stroke\", \"no types text\", \"position\":\" stylized near shoulder, aesthetic replacement, no right_bottom\"\n\n},\n\n{\n\n\"output\":\n\n\"a big head caricature.\" Ensure to create an image with a noticeably exaggerated head size for the caricature effect you desire, while retaining the charcoal and brush stroke style\"\n\n}\n\n}",
+  "description": "使用 Nano Banana Pro，将您的图片转化为纹理纸艺风格的大头漫画，突出夸张的面部特征和纯黑铅笔笔触，适合车辆主题插画或创意项目，展现生动的手绘美感。",
+  "tags": [
+    "banana",
+    "手绘",
+    "肖像",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

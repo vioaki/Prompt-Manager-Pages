@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0008",
+  "title": "刺绣插图风格",
+  "category": "gallery",
+  "prompt": "A handcrafted illustration that simulates traditional embroidery using colorful threads on linen fabric. All elements are “stitched” with visible yarn textures, using techniques like satin stitch, backstitch, and French knots. Raised contours and directional thread flow create a tactile, cozy appearance. The background is made of woven linen, with gentle pastel or folk-inspired colors. The composition is friendly and magical, evoking a storybook charm. Include decorative details such as flowers, suns, clouds, trees or symbols to enhance the folk embroidery style.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作出充满手绣质感的插画，以多彩线迹和亚麻纹理打造温馨故事书风格，适用于出版与生活品牌设计。",
+  "tags": [
+    "banana",
+    "插画",
+    "手绘"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

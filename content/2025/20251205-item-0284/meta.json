@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0284",
+  "title": "食物与运动结合的广告",
+  "category": "gallery",
+  "prompt": "Muscular African  man dunks a grilled chicken breast into a basketball hoop with 'DUNK EVERY MACRO' text, under a clear sky. Fitness-themed, with Trifecta logo.",
+  "description": "Nano Banana Pro助你打造活力四射的健身品牌视觉，将营养美食与运动场景完美融合，适用于健康食品推广与运动营养宣传。Nano Banana Pro以鲜明户外画面和励志标语突出新鲜与性能，为生活方式品牌注入能量。",
+  "tags": [
+    "banana",
+    "写实",
+    "产品广告",
+    "美食"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

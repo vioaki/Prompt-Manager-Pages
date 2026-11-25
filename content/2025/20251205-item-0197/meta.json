@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0197",
+  "title": "纸上的小卡通角色",
+  "category": "gallery",
+  "prompt": "Imagine you’re a tiny cartoon character who has come to life on a piece of paper! Draw yourself running away from a giant pencil that’s trying to erase you. Add colorful pencils, a desk, and maybe some flying eraser bits for extra excitement. Use your wildest imagination to make it look like you’re bursting out of the page!",
+  "description": "使用 Nano Banana Pro 创作生动的纸艺卡通角色，以活泼的 2D 风格描绘从巨大铅笔逃脱的动感场景，适合儿童插画或动画设计，让创意跃然纸上。",
+  "tags": [
+    "banana",
+    "插画",
+    "手绘",
+    "次元融合"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

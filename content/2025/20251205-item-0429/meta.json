@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0429",
+  "title": "西游记人物坐地铁",
+  "category": "gallery",
+  "prompt": "拥挤的北京地铁车厢，但乘客全是神话人物（孙悟空、猪八戒等）。车厢连接处的滚动屏显示红色字体：“前往西天取经的乘客请注意，前方到站：高老庄”。车门玻璃上贴着警告标示：“禁止在车厢内施展法术”。",
+  "description": "借助 Nano Banana Pro 模型，打造生动细腻的《西游记》人物地铁奇遇场景，适用于娱乐、广告或教育内容，以现代神话与都市奇幻风格吸引观众，提升文化故事的传播力。",
+  "tags": [
+    "banana",
+    "国风",
+    "肖像",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 655
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

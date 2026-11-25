@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0072",
+  "title": "3D可爱粉彩粘土图标",
+  "category": "gallery",
+  "prompt": "Tiny cute isometric [smiling - optional] [OBJECT] emoji, shape, soft lighting, soft pastel colors, [COLOR], 3d icon clay render, blender 3d, pastel background",
+  "description": "使用Nano Banana Pro或Nano Banana Pro轻松打造3D可爱粉彩粘土图标，以柔和等距设计和软萌表情为数字界面与社交媒体注入活力，让品牌内容更显俏皮吸睛。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1098,
+    "height": 612
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:47Z"
+}

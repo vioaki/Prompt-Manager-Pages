@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0426",
+  "title": "权游角色拿着护照",
+  "category": "gallery",
+  "prompt": "change it to [an unexpected, unlikely westeros character] in a different but relevant location, with an updated passport portrait, sigil, and origin based on the character’s actual history. use real westeros locations like king’s landing instead of “kingdom of the …”",
+  "description": "借助 Nano Banana Pro 模型，将《权游》角色手持护照的奇幻与真实感巧妙融合，适合娱乐推广、创意旅行品牌或粉丝艺术创作，带来独特视觉冲击。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 641
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

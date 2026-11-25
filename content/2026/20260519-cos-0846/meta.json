@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20260519-cos-0846",
+  "title": "海底捞cos",
+  "category": "template",
+  "prompt": "一张平平无奇的iphone随手拍的照片，场景是海底捞火锅店内只正在吃饭，对面是一个身着我发送的这张图片的cosplay服装的少女，角色要为现实中的中国coser，基本还原原图中角色的身材（包括胸部大小）、服装，包括瞳孔颜色样式及妆容。同时避免高p、过度磨皮、整容脸等非自然效果。少女坐在对面，眼神含情脉脉，面带温暖的微笑，她正在用筷子给我夹菜。图片整体为现实风格，避免生成2d、3d等非现实风格。",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "cosplay",
+    "美食"
+  ],
+  "author": {
+    "name": "aki",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1086,
+    "height": 1448
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-05-19T21:07:43Z"
+}

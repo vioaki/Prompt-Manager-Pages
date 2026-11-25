@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0410",
+  "title": "九个不同服装姿势和表情的Q版贴纸",
+  "category": "gallery",
+  "prompt": "Create a 3D kawaii 10:16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the attached image for reference. Each sticker has a white border and includes a speech bubble with phrases like \"Goodmorning\", \"Lunch kana\", \"Huh\", \"Hugs\", \"Thank you\", \"Goodnight\", \"You're the best\" \"miss you\" \"mwah 😙\" \"good job\" and \"Ingat ka\". Set on a soft white-to-pastel blue gradient background for a fun, positive vibe.",
+  "description": "使用 Nano Banana Pro 模型，轻松制作九款 Q 版贴纸，搭配多样服装、姿势和表情，打造时尚可爱的 3D 风格，适合数字手工、社交媒体分享或传递积极信息。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

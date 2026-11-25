@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0015",
+  "title": "未来一瞥",
+  "category": "gallery",
+  "prompt": "A cinematic rendering of [subject] walking through a rain-soaked street at night, illuminated by moody neon lights, reflections dancing on wet pavement, and a hazy urban skyline in the background. The subject feels alive, caught between solitude and electricity.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作充满未来感的霓虹都市场景，完美适用于电影概念艺术、游戏设计或广告视觉，营造赛博朋克氛围。尝试结合“雨夜街道”与“霓虹光影”，增强反射效果，打造生动而孤寂的视觉体验。",
+  "tags": [
+    "banana",
+    "超现实",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1098,
+    "height": 608
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:45Z"
+}

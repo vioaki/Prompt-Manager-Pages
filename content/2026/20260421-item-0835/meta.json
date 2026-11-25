@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20260421-item-0835",
+  "title": "二游抽卡页面",
+  "category": "gallery",
+  "prompt": "生成一张《可塑性记忆》的艾拉角色的二次元抽卡游戏的插画图，要有丰富的设计和优秀的美学和构图，有明暗关系虚实关系和主题对比，素描关系上是那种写实向的二次元风格，注意是写实向的二次元风格，内容上要有适合的UI和文本说明，宽屏16:9, 横板构图，2k分辨率；Style: miHoYo official illustration, specifically in the style of Honkai Impact 3rd / Honkai Star Rail key visual art by top-tier miHoYo illustrators (reference: Bronya and Seele dual portrait aesthetic). LINEWORK (critical): - crisp visible dark lineart with varying line weight, clearly drawn hair strand outlines, defined eye outlines with thick upper lash line - hair rendered in distinct separated clumps with hard-edged shadows, NOT soft blurred hair - hand fingers individually outlined with clean lines SHADING (critical — avoid AI smoothness): - cel-shaded / anime-style flat shading with HARD-EDGED shadow shapes, NOT gradient blur - skin is matte with minimal highlights, only small defined highlight shapes on nose bridge and cheekbone - NO oily glossy skin, NO wet plastic skin sheen, NO rubbery latex body sheen - shadow edges are sharp color blocks, not smooth gradients COLOR (critical): - high contrast palette: deep saturated darks (navy, wine, black) + pure bright whites + one accent pop color - cool-dominant palette with strategic warm accents - strong rim lighting on character silhouette in a contrasting bright color (cyan, violet, white-blue) - subtle chromatic aberration / RGB color fringing on edges for a stylized print-like quality - background is dark with selective blown-out highlights creating dramatic contrast CHARACTER DESIGN (critical — avoid AI body distortion): - realistic anime proportions, natural athletic or slim build - normal-sized chest proportional to body frame, NOT exaggerated - natural waist-to-hip ratio, NOT hourglass AI distortion - face is the focal point, body does not dominate the composition - confident expressive pose with personality, slight smirk or composed expression - eyes are the focus: large but clean shape, crisp iris with one clear highlight dot and one lower reflection, NOT overly detailed sparkle spam COMPOSITION: - dynamic close-up or upper-body framing preferred, dramatic angle - hair flowing with strong directional motion - face is clearly visible and the primary subject AVOID (hard negatives): - NO soft airbrushed smooth skin, NO gradient shading blur - NO oily wet body sheen, NO glossy plastic doll skin - NO exaggerated breast size, NO AI-typical body distortion, NO thicc proportions - NO Stable Diffusion 1.5 / NovelAI / galgame illustration aesthetic - NO Taimanin-style or hentai-game illustration style - NO generic waifu face, NO same-face syndrome - NO rainbow particle spam, NO excessive bloom - NO ornate medieval filigree, NO tarot card frames - NO stiff T-pose or seductive pin-up pose - NO latex bodysuit unless specifically requested",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "二次元",
+    "游戏"
+  ],
+  "author": {
+    "name": "All for the super",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2026-04-21T22:38:07Z"
+}

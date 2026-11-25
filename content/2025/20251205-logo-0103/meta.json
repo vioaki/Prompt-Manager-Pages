@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-logo-0103",
+  "title": "刺绣logo",
+  "category": "gallery",
+  "prompt": "A hyperrealistic embroidered textile artwork of the [SUBJECT], created with colored thread and soft fabric textures. The design features dense, tactile stitching and raised embroidery that mimics the actual form and branding. Set against a plain, off-white fabric background, with clean studio lighting and a sharp close-up view. Emphasize threadwork, texture, and handmade imperfections for a realistic soft sculpture look.",
+  "description": "Nano Banana Pro与Nano Banana Pro助您打造超写实刺绣品牌雕塑，以细腻线迹和柔软织物质感呈现立体标识，适合高端产品展示与艺术化品牌项目，在纯净背景中凸显手工纹理的独特魅力。",
+  "tags": [
+    "banana",
+    "写实",
+    "手绘",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

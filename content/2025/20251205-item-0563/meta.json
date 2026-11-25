@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0563",
+  "title": "撕开特效",
+  "category": "template",
+  "prompt": "以参考图为基准，首先将原图居中，在1:1保持原图的情况下，添加以下特效：\r\n\r\n核心创意: 撕纸/拼贴效果 (Torn Paper/Collage Effect)。\r\n\r\n具体细节:\r\n\r\n  - 画面中段有两条横向的、不规则的白色“撕裂”边缘。\r\n\r\n  - 这一视觉特效制造了画面的断层感。\r\n\r\n  - 在撕裂的断层中间，原本连贯的衣服被“撕开”，露出了人物对应位置衣服下面的身体/部位皮肤，你应该判断哪些部分需要露出，应该避开敏感部位，如果无法避开，在敏感部位添加黑条进行遮挡。\r\n\r\n  - 断层内人物的身体曲线必须与断层外人物的身体线条完美无缝衔接，部位完美契合。断层内不应出现任何角色的衣服、配饰、发饰等一切身外之物。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "超现实",
+    "NSFW"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:01Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0182",
+  "title": "人体工程学",
+  "category": "gallery",
+  "prompt": "Imagine a [piece of furniture] designed in the form of [creature/object/concept]. The design should be highly creative and sculptural, like an art piece. Use organic, flowing shapes and detailed textures. Make sure it remains functional and ergonomic. The goal is for it to be both visually striking and practical —something you’d expect to see as a museum-quality design object",
+  "description": "Nano Banana Pro 人体工程学家具以动物雕塑为灵感，将有机流动形态与实用功能完美结合，打造高端室内空间的艺术焦点。Nano Banana Pro 通过细腻纹理与创意造型，为家居或艺术陈列注入博物馆级设计感，兼顾舒适与视觉冲击力。",
+  "tags": [
+    "banana",
+    "超现实",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

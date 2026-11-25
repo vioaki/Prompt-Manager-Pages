@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0253",
+  "title": "透明蜂窝状变形",
+  "category": "gallery",
+  "prompt": "{\n  \"object\": \"OBJECT_NAME\",\n  \"style\": \"Transparent Honeycomb Transformation\",\n  \"description\": \"Transform the object into a structure made entirely of crystallized golden honey with high transparency. The surface should be ultra-glossy, semi-liquid, and light-reflective, with defined yet see-through hexagonal honeycomb patterns. Parts of the object should allow light to pass through, revealing inner layers and structure. Include gentle honey drips for realism.\",\n  \"material\": {\n    \"primary\": \"Crystal-clear amber honey\",\n    \"secondary\": \"Translucent honeycomb cells\"\n  },\n  \"texture\": {\n    \"surface\": \"Ultra glossy and semi-liquid\",\n    \"pattern\": \"See-through hexagonal honeycomb\",\n    \"drips\": true\n  },\n  \"effects\": {\n    \"translucency\": \"highly translucent\",\n    \"internal_glow\": \"Soft warm light from within\",\n    \"emblem\": \"Delicate bee icon subtly embedded in the structure\"\n  },\n  \"presentation\": {\n    \"background\": \"Clean white or soft gradient\",\n    \"lighting\": \"Backlit with soft diffusion to enhance translucency\",\n    \"floating\": true,\n    \"format\": \"Square\"\n  }\n}",
+  "description": "Nano Banana Pro 模型助您打造透明蜂窝状变形设计，适用于自然主题品牌标识和高端环保包装，呈现晶莹剔透的六角形蜂窝结构，光泽流动，光线穿透层次分明。",
+  "tags": [
+    "banana",
+    "3D"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1102,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0407",
+  "title": "3D漫画肖像",
+  "category": "gallery",
+  "prompt": "3D caricature portrait of [SUBJECT], Pixar/DreamWorks style — expressive eyes, slightly oversized head, exaggerated ears & nose, realistic skin shading with soft subsurface scattering, detailed hair, gentle warm smile, smooth polished materials, subtle fabric texture, soft ambient lighting, warm reddish-orange gradient background — balanced realism and stylized charm.",
+  "description": "使用 Nano Banana Pro 模型，轻松创作皮克斯/梦工厂风格的3D漫画肖像，适合个性化车贴设计和角色定制，融合逼真细节与夸张魅力。结合“肖像”与“车辆”标签，打造独特品牌视觉，为娱乐行业项目增添生动吸引力。",
+  "tags": [
+    "banana",
+    "3D",
+    "肖像",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

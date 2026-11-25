@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0106",
+  "title": "标志液化",
+  "category": "gallery",
+  "prompt": "Create a photograph of a [BRAND] logo formed from four vibrant paint splashes: red, blue, green, and yellow, captured mid-motion. Each color flows dynamically across different parts of the logo, as if sculpted from liquid paint. Droplets are suspended in the air around it, enhancing the illusion of movement. Set against a dark background with soft, vivid lighting that accentuates the glossy texture and fluid motion\n\nUse appropriate colors for the logos.",
+  "description": "使用 Nano Banana Pro 模型，打造动态液态标志设计，以鲜艳的油漆飞溅效果呈现品牌视觉，适用于摄影和标志项目，营造引人注目的流动美学与光泽质感。",
+  "tags": [
+    "banana",
+    "写实",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

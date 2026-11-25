@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-90-0367",
+  "title": "90年代风格照片",
+  "category": "gallery",
+  "prompt": "Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting.",
+  "description": "使用Nano Banana Pro或Nano Banana Pro轻松打造90年代复古风格人像，结合室内纸艺与海报元素，营造温馨怀旧的卧室氛围，适合肖像摄影和艺术海报设计。",
+  "tags": [
+    "banana",
+    "写实",
+    "复古",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 657,
+    "height": 900
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

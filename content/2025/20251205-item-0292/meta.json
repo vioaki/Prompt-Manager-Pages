@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0292",
+  "title": "手办-高级包装带打印机（擎天柱）",
+  "category": "gallery",
+  "prompt": "请将图片转化为一款收藏级手办。在手办后方，放置一个印有该手办图案及“open nana”名称的手办包装盒。在其旁边，添加一台正在打印该手办的高端3D打印机。在该手办包装盒前方，放置一个圆形塑料底座，放置手办。\n底座的PVC材质需呈现晶莹剔透的半透明质感，且整个场景需设定在室内环境中。",
+  "description": "借助Nano Banana Pro或Nano Banana Pro，将您的收藏手办打造成室内精致景观，呈现晶莹半透明底座与高端3D打印场景，完美适用于家居或工作室展示。",
+  "tags": [
+    "banana",
+    "3D",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 680,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

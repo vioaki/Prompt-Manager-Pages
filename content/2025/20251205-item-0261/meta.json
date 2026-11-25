@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0261",
+  "title": "品牌杂志",
+  "category": "gallery",
+  "prompt": "A hyper-realistic editorial concept for a collaboration between [BRAND] and [MAGAZINE BRAND]. Square 1:1 composition, shot in a sleek Parisian interior with marble floors and tall windows, golden afternoon light illuminating the scene. A single model in a couture gown poses gracefully beside a realistically sized [BRAND] perfume bottle with the [BRAND] logo clearly visible placed on a marble pedestal. Ultra-refined textures, cinematic realism, Vogue-style photography.",
+  "description": "Nano Banana Pro 模型专为打造超写实品牌杂志视觉而生，适用于奢华室内摄影与香水时尚合作，通过精致纹理和电影级真实感提升品牌形象。",
+  "tags": [
+    "banana",
+    "写实",
+    "海报",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1108,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

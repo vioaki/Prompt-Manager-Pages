@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-ps5-0485",
+  "title": "PS5的技术蓝图",
+  "category": "gallery",
+  "prompt": "A two-panel technical blueprint diagram in clean monochrome line-art, matching the exact layout of the provided PlayStation 1 schematic. On the left side, draw a full, intact Sony PlayStation 5 console in precise thin line-art on a white background. On the right side, draw a highly detailed, vertically exploded-view diagram of the PS5 showing each internal component separated into layers: outer shell panels, faceplates, cooling fan, heatsink tower, Blu-ray drive, motherboard, SSD module, power supply, internal frame, ports, vents, base stand, screws. Use consistent thin grey line-weight with no shading. Add numbered circular labels around each part, and include a matching numbered parts list at the bottom just like the reference blueprint. Place the SONY logo, PlayStation logo, and “PlayStation 5” text in the top left in the exact same position and style as the uploaded reference image. The entire artwork should mirror the composition, spacing, typography, and minimalist engineering-ma",
+  "description": "借助 Nano Banana Pro 模型，探索 PS5 技术蓝图的现代设计细节，完美适用于电子演示、教育内容或科技评测，突出硬件架构的可视化效果。",
+  "tags": [
+    "banana",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1195,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

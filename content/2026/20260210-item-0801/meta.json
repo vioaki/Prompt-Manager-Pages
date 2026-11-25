@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "20260210-item-0801",
+  "title": "哥哥扶你起来",
+  "category": "template",
+  "prompt": "将参考图一角色修改成参考图二的五格漫画，严格遵守图二的文字/动作/神态。第二行第一格表情为懵懂，第二行第二格表情为害羞，第二行第三格表情为开心到翻白眼吐舌头，第二行所有图片均不露出腿部，第二行只有图片没有文字",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "漫画",
+    "梗图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "奶龙皇",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1260,
+    "height": 945
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2026-02-10T17:04:00Z"
+}

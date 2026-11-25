@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20260703-item-0874",
+  "title": "水墨半身像",
+  "category": "template",
+  "prompt": "<task>\r\n生成一幅二次元风格艺术感半身特写插画，2:3比例，竖版插画，4k高清晰度。\r\n</task>\r\n<Style>\r\n动画风格，水墨画风格。\r\n</style>\r\n<Camera>\r\n特写镜头，平视视角。\r\n</camera>\r\n<Composition>\r\n居中构图，角色处于画面中央，四周留出大片留白。\r\n</composition>\r\n<Shadow>\r\n自然光光影效果，光线从画面右侧斜向下打入，在角色和背景形成斜向的明暗分界，形成自然阴影效果，明暗对比强烈。\r\n</shadow>\r\n<Color>\r\n柔和色彩，中性色温，明暗对比强烈，较低饱和度。\r\n</color>\r\n<Brushwork>\r\n混合笔触：角色本身采取厚涂风格，轮廓边缘采用湿画法水彩笔触，使边缘模糊柔和，带有一丝写意水墨风格，并使用毛笔笔触勾出干净清晰的轮廓线条。低生成精度，采用形状规律整齐的大色块绘图。\r\n</brushwork>\r\n<Content>\r\n角色略微侧身，并向反方向转头，将侧脸对着镜头，闭上眼睛略微颔首，感受风吹拂发丝和光线洒下的感觉；角色下半身消失，上半身下面直接与背景溶于一体，背景颜色与角色上半身服装主色调一致，无色差和明显界线。画面背景采用纯色背景，起到写意留白效果。\r\n</content>\r\n<Attributes>\r\n干净画面纹理，高清晰度。角色id形象可以参考图1，画面整体风格，上色风格，笔触特征等按照文字描述执行。\r\n</attributes>\r\n<Negative>\r\n无噪点、无畸形、无异常光影。\r\n</negative>",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "二次元",
+    "国风",
+    "肖像"
+  ],
+  "author": {
+    "name": "绮墨清",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1069,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2026-07-03T00:35:13Z"
+}

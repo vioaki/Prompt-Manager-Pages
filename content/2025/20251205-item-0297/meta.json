@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0297",
+  "title": "超写实肖像位于石膏中心",
+  "category": "gallery",
+  "prompt": "Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size stone busts of [CHARACTER]; warm beige museum lighting, matte alabaster texture, symmetrical composition, shallow depth of field (85mm), subtle film grain, 3:4 vertical, no text or watermark.",
+  "description": "Nano Banana Pro与Nano Banana Pro模型能创作出以超写实肖像为核心、搭配温暖博物馆灯光与对称构图的惊艳作品，适合角色设计、艺术创作及自然主题视觉项目，通过浅景深与哑光质感呈现专业画廊级效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0644",
+  "title": "猪包围",
+  "category": "template",
+  "prompt": "“根据用户上传的参考图，生成四格毛绒玩偶质感的Q版漫画，四格分镜分别对应文案：\r\n \r\n1. 第一格：角色特写，配文‘好多猪啊’；\r\n​\r\n2. 第二格：角色在绿色草地的小猪群前奔跑，配文‘我要过去看看！’；\r\n​\r\n3. 第三格：角色抱着一只粉小猪，配文‘好可爱，软软的’；\r\n​\r\n4. 第四格：角色被多只粉小猪包围，配文‘被猪猪包围了，好幸福！’；\r\n整体画风是毛绒布艺质感，角色Q萌圆润，小猪是粉色软萌造型，对话气泡用毛绒边框装饰。”",
+  "description": "",
+  "tags": [
+    "banana",
+    "Q版",
+    "漫画",
+    "萌宠"
+  ],
+  "author": {
+    "name": "39c5bb",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 896,
+    "height": 1184
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T15:16:56Z"
+}

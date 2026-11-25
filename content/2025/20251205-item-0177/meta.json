@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0177",
+  "title": "可爱粉彩乙烯基人物",
+  "category": "gallery",
+  "prompt": "A cute pastel vinyl figure of [INSERT YOUR CHARACTER OR OBJECT], pastel colors (lavender, soft pink, baby blue), kawaii style with big round eyes and friendly smile, simple rounded shapes, stylized “RIP” detail somewhere on the figure or base, matching toy packaging in the background with themed art, studio product photo with soft lighting, minimal shadows",
+  "description": "使用 Nano Banana Pro，轻松捕捉可爱粉彩乙烯基人物的卡哇伊风格，适合简约产品摄影，以柔和色调和圆润造型突出玩具设计的视觉魅力。",
+  "tags": [
+    "banana",
+    "Q版",
+    "肖像",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1026,
+    "height": 566
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

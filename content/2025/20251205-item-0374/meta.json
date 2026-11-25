@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0374",
+  "title": "戴着报童帽身穿黑色马甲",
+  "category": "gallery",
+  "prompt": "Use 100% face above uploaded photo.\nA hyper-realistic, cinematic medium shot of a handsome man in his late 20s with black hair and black beard like uploaded photo, styled in the fashion of the 1920s. He wears a grey tweed newsboy cap, a black waistcoat over a crisp white shirt, a slim black tie, and black leather gloves. A heavy wool overcoat is draped over his shoulder.\nHe leans against a weathered brick wall in a narrow, atmospheric alleyway, looking upwards with a cool, contemplative expression through his round sunglasses. The lighting is moody and dramatic, with cool tones and soft shadows creating a sense of depth and mystery. The photograph is ultra-detailed with sharp focus and a shallow depth of field.",
+  "description": "使用 Nano Banana Pro 模型，捕捉 1920 年代复古时尚与自然氛围，打造超写实电影感肖像，适合时尚摄影或怀旧街巷场景拍摄。",
+  "tags": [
+    "banana",
+    "写实",
+    "复古",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:55Z"
+}

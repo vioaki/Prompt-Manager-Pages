@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0339",
+  "title": "超写实影棚肖像照",
+  "category": "gallery",
+  "prompt": "超写实影棚肖像，一位男性优雅地斜倚在椅子靠背上，身着时尚的深色服装。以微妙的低角度拍摄，以突出他的面部特征和自信的表情。电影般的黑白调色，肤色自然精致。纯黑色背景，8K 锐利细节，突出服装、头发和眼睛的纹理，营造出戏剧性、栩栩如生的效果。",
+  "description": "使用 Nano Banana Pro 拍摄超写实影棚肖像，打造电影般的黑白时尚影像，突出人物自信表情与服装纹理细节，适合专业摄影与自然风格人像项目，呈现戏剧性、栩栩如生的 8K 锐利效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1184,
+    "height": 864
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

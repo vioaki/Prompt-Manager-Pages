@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0289",
+  "title": "软质高品质毛绒玩具",
+  "category": "gallery",
+  "prompt": "A soft, high-quality plush toy of [CHARACTER], with an oversized head, small body, and stubby limbs. Made of fuzzy fabric with visible stitching and embroidered facial features. The plush is shown sitting or standing against a neutral background. The expression is cute or expressive, and it wears simple clothes or iconic accessories if relevant. Lighting is soft and even, with a realistic, collectible plush look. Centered, full-body view. 1080x1080.",
+  "description": "借助 Nano Banana Pro 模型，打造栩栩如生的高品质毛绒玩具，细腻的软绒材质与生动表情细节，完美适用于品牌玩具、促销周边或收藏品摄影，展现精致缝线与可爱设计，搭配中性背景与均匀光线，呈现专业电商视觉效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "Q版",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1080,
+    "height": 1080
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

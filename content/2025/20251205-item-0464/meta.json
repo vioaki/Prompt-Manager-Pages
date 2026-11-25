@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0464",
+  "title": "图片注解",
+  "category": "gallery",
+  "prompt": "add sketch annotations on top of this image explaining the camera movement. I want it to crane up and the look down as an aerial shot",
+  "description": "Nano Banana Pro 模型擅长生成生动细腻、风格现代的图片注解，特别适合电商展示、社交媒体及创意项目，助您以视觉叙事提升内容吸引力。",
+  "tags": [
+    "banana",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 686
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0104",
+  "title": "时间之神",
+  "category": "gallery",
+  "prompt": "Colossal marble statue of [INSERT OBJECT OR CHARACTER HERE], wings (if applicable) spread in divine majesty, adorned with ornate golden armor and flowing baroque robes, cracked marble textures with soft patina, glowing sacred emblem on chest, standing within a celestial golden dome, surrounded by divine architecture, dramatic god rays from above, dynamic mid-action pose, ultra-detailed renaissance sculpture style, cinematic lighting, majestic and sacred atmosphere, 8k resolution",
+  "description": "借助 Nano Banana Pro，轻松打造“时间之神”的宏伟形象，呈现文艺复兴风格的超精细雕塑与电影级光影，适用于游戏、影视中的建筑可视化、角色设计及纪念碑艺术项目，突出裂纹大理石质感与神圣光线，尽显巴洛克美学魅力。",
+  "tags": [
+    "banana",
+    "3D",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1106,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

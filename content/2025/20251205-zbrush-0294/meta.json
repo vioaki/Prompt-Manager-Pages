@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-zbrush-0294",
+  "title": "手办-ZBrush建模屏显与万代风格包装盒",
+  "category": "gallery",
+  "prompt": "create a 1/7 scale commercialized figure of thecharacter in the image, in a realistic styie and environment.\nPlace the figure on a computer desk, using a circular transparent acrylic base without any text.\nOn the computer screen, display the ZBrush modeling process of the figure.\nNext to the computer screen, place a BANDAl-style toy packaging box printedwith the original artwork.",
+  "description": "使用 Nano Banana Pro 模型，轻松创建逼真的 1/7 比例手办，结合 ZBrush 建模流程与万代风格包装盒，适合数字艺术家和玩具设计师展示商业级角色与产品视觉效果。",
+  "tags": [
+    "banana",
+    "3D",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 639,
+    "height": 680
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

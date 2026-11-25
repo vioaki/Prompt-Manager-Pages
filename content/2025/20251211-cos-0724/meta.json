@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "20251211-cos-0724",
+  "title": "cos化",
+  "category": "template",
+  "prompt": "写实风格照片，基于参考图的角色生成一张极其写实的真人cosplay照片：\r\n角色要为现实中的中国顶级美女coser，完美还原原图中角色的身材（包括胸部大小）、服装、发型、饰品，包括瞳孔颜色样式及妆容。其具有典型的东亚面孔，五官精致柔和。完美还原参考图中的造型，刘海需呈现碎层感与层次感，发质柔软，发丝细节丰富，具备真实发丝纹理。同时避免高p、过度磨皮、整容脸等非自然效果。图片整体为现实风格，避免生成2d、3d等非现实风格。",
+  "description": "",
+  "tags": [
+    "banana",
+    "cosplay"
+  ],
+  "author": {
+    "name": "西",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-11T09:11:58Z"
+}

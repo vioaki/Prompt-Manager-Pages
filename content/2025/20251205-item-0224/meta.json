@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0224",
+  "title": "日本搞笑漫画风格插画",
+  "category": "gallery",
+  "prompt": "Transform this image into a Japanese gag manga style illustration. Use a high-contrast black-and-white color palette with bold linework and screentone (halftone) shading. Characters should have exaggerated facial expressions, cartoonish proportions (big head, small body), and comedic intensity. Include dynamic action lines or radiating background effects. The overall aesthetic should mimic retro manga from the 80s and 90s with humorous and intense emotion.",
+  "description": "使用 Nano Banana Pro，轻松将图像转化为复古日本搞笑漫画风格，以高对比黑白配色、夸张角色和动态线条，完美适用于漫画插画和怀旧主题项目。",
+  "tags": [
+    "banana",
+    "二次元",
+    "漫画",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:51Z"
+}

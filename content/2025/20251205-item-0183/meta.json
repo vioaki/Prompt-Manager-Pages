@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0183",
+  "title": "装饰艺术大都会",
+  "category": "gallery",
+  "prompt": "[SUBJECT] set within an Art Deco Metropolis, showcasing the grandeur and geometric elegance of 1920s architecture. Use streamlined forms and ornamental details, highlighting a sophisticated color palette of [COLOR1] and [COLOR2] to reflect the prosperity of the era.",
+  "description": "Nano Banana Pro 模型能精准捕捉装饰艺术建筑的几何优雅，适合建筑可视化项目，渲染流线型形式和精致色调，重现1920年代的宏伟与繁荣。",
+  "tags": [
+    "banana",
+    "复古",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1114,
+    "height": 620
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:50Z"
+}

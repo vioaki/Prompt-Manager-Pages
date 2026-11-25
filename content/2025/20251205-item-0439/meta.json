@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0439",
+  "title": "魔法窗口",
+  "category": "gallery",
+  "prompt": "Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.",
+  "description": "Nano Banana Pro 模型专为打造奇幻魔法窗口场景，以异想天开的艺术风格，完美适用于幻想主题数字艺术、动画和沉浸式视觉叙事项目。",
+  "tags": [
+    "banana",
+    "复古",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 670
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}

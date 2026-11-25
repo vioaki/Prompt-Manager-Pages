@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0295",
+  "title": "制作大头贴",
+  "category": "gallery",
+  "prompt": "用这张照片，做一个3*3的photo booth grid，每张要用不同的姿势和表情不许重复",
+  "description": "使用Nano Banana Pro或Nano Banana Pro轻松制作3x3大头贴网格，每张照片展现不同姿势和表情，为摄影工作室和社交媒体内容增添多样性与趣味性。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 900,
+    "height": 700
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

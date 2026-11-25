@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0155",
+  "title": "最小天气小部件",
+  "category": "gallery",
+  "prompt": "create image with 1:1 ratio \nsurreal minimal aesthetic, airplane window frame on subtle gradient backdrop with same color, through the oval window showing random iconic landmark scenery of [Country Name], an overlay weather ui interface on the center of window, from top to bottom, contain the small weather icon, huge temperatures with elegant light weight font, and small location tag beneath it, the bottom is the country name, generate with extreme weathers, the window will affect by the weather, the color combo of subtle gradient backdrop is resonate with the weather, natural lighting, soft shadows, subtle reflections on glass, great negative space",
+  "description": "借助 Nano Banana Pro，您可以轻松设计出极简风格的天气小部件，融合自然元素与优雅字体，适用于 UI 界面和品牌项目，营造超现实的艺术美感。",
+  "tags": [
+    "banana",
+    "超现实",
+    "图标Logo",
+    "实用"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1280,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

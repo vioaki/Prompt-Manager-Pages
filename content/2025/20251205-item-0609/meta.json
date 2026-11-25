@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0609",
+  "title": "卡通城市天气",
+  "category": "template",
+  "prompt": "城市={{userText}}\r\n\r\n呈现一幅清晰、45 度俯视的等距迷你 3D 卡通版[城市]场景，突出其最具标志性的地标和建筑元素。采用柔和精致的纹理搭配真实的 PBR 材质，配以自然柔和的写实光影效果。请你调用工具进行搜索，将实时天气条件直接融入城市环境，营造出沉浸式的氛围意境。\r\n使用简洁的构图，搭配柔和纯色背景。\r\n\r\n顶部居中放置大号粗体标题“[城市]”，下方是醒目的天气图标，接着是小号字体的日期和中号字体的温度。",
+  "description": "输入城市名称",
+  "tags": [
+    "banana",
+    "3D",
+    "微缩",
+    "实用"
+  ],
+  "author": {
+    "name": "大江户战士",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 873
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:03Z"
+}

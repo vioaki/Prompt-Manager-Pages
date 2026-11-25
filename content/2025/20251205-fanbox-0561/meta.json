@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-fanbox-0561",
+  "title": "fanbox",
+  "category": "template",
+  "prompt": "生成一张恶搞图片，是图一中角色的cosplay女孩的微博手机主页（角色名字是“{{userText}}”）,主页照片都是她cos这个角色的真人照，文本照片全都都是软色情擦边挑衅处男粉丝内容甚至包含和大叔的舌吻照片。上方图片是裸肩的她和大爷舌吻。",
+  "description": "输入角色图片和名称",
+  "tags": [
+    "banana",
+    "cosplay",
+    "梗图",
+    "NSFW"
+  ],
+  "author": {
+    "name": "江小津",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:01Z"
+}

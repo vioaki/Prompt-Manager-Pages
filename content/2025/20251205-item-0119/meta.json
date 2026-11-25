@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0119",
+  "title": "文艺复兴时期的解剖学研究",
+  "category": "gallery",
+  "prompt": "A Renaissance anatomical study of a [subject], meticulously illustrated in fine graphite and ink cross-hatching, with transparent tissue overlays revealing skeletal and muscular systems. Labeled in elegant Latin calligraphy and presented on aged parchment, the composition exudes scholarly precision and classical beauty.",
+  "description": "借助 Nano Banana Pro，轻松创作文艺复兴风格的解剖学纸艺插图，结合精细石墨交叉影线和透明覆盖层，完美适用于学术出版或艺术展览，展现古典之美与学术精准。",
+  "tags": [
+    "banana",
+    "手绘",
+    "复古",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1110,
+    "height": 618
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

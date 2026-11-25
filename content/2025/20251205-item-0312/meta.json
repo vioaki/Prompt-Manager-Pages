@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0312",
+  "title": "品牌字体",
+  "category": "gallery",
+  "prompt": "Create a typographic illustration shaped like a {OBJECT}, where the text itself forms the shape — bold and playful lettering style that fills the entire silhouette — letters adapt fluidly to the curves and contours of the object — vibrant and contrasting color palette that fits the theme — background is solid and enhances the focus on the main shape — vector-style, clean, high resolution, poster format, 1:1 aspect ratio.",
+  "description": "借助 Nano Banana Pro，轻松打造大胆活泼的字体插画，将文字流畅融入物体轮廓，适用于品牌设计和海报创作，以鲜明色彩和矢量风格呈现高分辨率视觉冲击。",
+  "tags": [
+    "banana",
+    "产品广告",
+    "图标Logo"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:54Z"
+}

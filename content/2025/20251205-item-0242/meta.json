@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0242",
+  "title": "色彩缤纷的手工雕塑",
+  "category": "gallery",
+  "prompt": "A colorful handcrafted sculpture of [insert subject], made from semi-transparent ice blocks in custom shapes. Accents like icing, candy, yarn, or fruit skin enhance facial features, texture, or accessories. Placed on a ceramic plate over a leaf or decorative mat, with a clean, softly lit studio or natural tabletop background. Lighting highlights the glossy ice texture, blending food art, toy design, and photography into a playful, artistic composition.",
+  "description": "使用 Nano Banana Pro 拍摄色彩缤纷的手工雕塑，突出半透明冰块的光泽质感，适合美食艺术、玩具设计和商业摄影，在柔和光照下呈现生动创意风格。",
+  "tags": [
+    "banana",
+    "3D",
+    "手绘"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1024,
+    "height": 1024
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

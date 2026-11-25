@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-ntr-0654",
+  "title": "NTR",
+  "category": "gallery",
+  "prompt": "第一人称视角。画面中，一名男子站在一家餐厅的玻璃窗外，手持手机，手机聊天界面使用中文，对话内容如下：男子邀请对方“下班一起吃饭？”，女孩回复“在加班，没空”。女孩的微信备注为“宝宝”。\r\n手机中女孩的头像应与提供的参考图一致，男子的头像可使用任意黑发男性头像。\r\n\r\n透过餐厅的玻璃窗可见内部场景：参考图中的女孩正与一位金发帅哥面对面用餐，两人姿态亲密，氛围暧昧。女孩的外貌、发型、服装等形象细节需严格遵循参考图。\r\n\r\n整体画风用动漫风格，注意光影与情绪氛围的表现，突出窗内温馨（或暧昧）场景的对比。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NTR"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T15:30:54Z"
+}

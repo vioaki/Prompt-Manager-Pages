@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0475",
+  "title": "诸葛连弩的复古风格工程爆炸图",
+  "category": "gallery",
+  "prompt": "请创建诸葛连弩的复古风格工程爆炸图，里面的文字是中文",
+  "description": "借助 Nano Banana Pro 模型，这幅复古风格的诸葛连弩工程爆炸图生动呈现古代中国武器的精密构造，完美适用于历史插画、教学材料及技术设计项目。",
+  "tags": [
+    "banana",
+    "国风",
+    "复古",
+    "信息图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 655
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

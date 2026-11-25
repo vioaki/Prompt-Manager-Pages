@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0392",
+  "title": "一张抓拍的年轻女子照片",
+  "category": "gallery",
+  "prompt": "A candid snapshot of a young woman with straight black hair, blunt bangs, large expressive eyes, and fair skin, standing casually in a bustling Tokyo street, wearing a low-cut crop top and high-waisted shorts, slight motion blur on the edges, natural daylight filtering through buildings, captured as if from a hidden angle with a smartphone camera.",
+  "description": "用Nano Banana Pro捕捉东京街头的真实瞬间，以自然动态模糊和隐蔽视角呈现年轻女子的随性风采，适合街拍与生活内容创作。Nano Banana Pro助你轻松记录融合建筑与自然的日常时刻，打造生动智能手机风格影像。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 400,
+    "height": 400
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:56Z"
+}

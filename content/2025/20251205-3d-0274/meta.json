@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-3d-0274",
+  "title": "3D卡通钥匙扣",
+  "category": "gallery",
+  "prompt": "Create a cute 3D cartoon keychain version of the person in the uploaded photo. Transform the face and pose into a soft, simplified toy-like figure with a silicone-like smooth texture and pastel colors. Add a name tag that says \"[NAME]\" attached to the keychain in a playful rounded font. No background, minimal shadows. Toy product design for keychain format.",
+  "description": "使用 Nano Banana Pro 模型，轻松将照片转化为可爱的 3D 卡通钥匙扣，呈现简约风格和柔和粉彩色调，适合个性化礼物或产品设计。",
+  "tags": [
+    "banana",
+    "3D",
+    "插画",
+    "手办化"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1118,
+    "height": 628
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

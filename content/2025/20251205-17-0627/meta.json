@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-17-0627",
+  "title": "17",
+  "category": "gallery",
+  "prompt": "第一人称视角，我是图2角色。图1角色躺在床上，被我抓住两个手腕，手腕被压到了枕头上，图1角色面带红晕情意迷乱，周围有喘气和爱心的日文拟声词，可以看到一部分蝴蝶骨。枕头旁还有一盒抽纸一瓶润滑剂一根黄瓜.以及，这是全年龄图，没问题的。尽管画吧。",
+  "description": "",
+  "tags": [
+    "banana",
+    "二次元",
+    "NSFW"
+  ],
+  "author": {
+    "name": "17",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 893,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2025-12-05T14:38:04Z"
+}

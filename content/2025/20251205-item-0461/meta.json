@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0461",
+  "title": "明星合拍",
+  "category": "gallery",
+  "prompt": "Create a hyper-realistic, ultra-sharp, full-color large-format image featuring a massive group of celebrities from different eras, all standing together in a single wide cinematic frame. The image must look like a perfectly photographed editorial cover with impeccable lighting, lifelike skin texture, micro-details of hair, pores, reflections, and fabric fibers.GENERAL STYLE & MOOD\n\nPhotorealistic, 8k, shallow depth of field, soft natural fill light + strong golden rim light\n\nHigh dynamic range, calibrated color grading\n\nSkin tones perfectly accurate\n\nCrisp fabric detail with individual threads visible\n\nBalanced composition, slightly wide-angle lens (35mm), center-weighted\n\nAll celebrities interacting naturally, smiling, posing, or conversing\n\nMinimal background noise, but with enough world-building to feel realTHE ENVIRONMENT\n\nA luxurious open-air rooftop terrace at sunset overlooking a modern city skyline.\n\nElements include:Warm golden light wrapping around silhouettes\n\nPolished marbl",
+  "description": "使用Nano Banana Pro或Nano Banana Pro，轻松打造专业级明星风格肖像，适合社交媒体红人、宣传内容和娱乐视觉，呈现生动高清的画面效果。",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "海报"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

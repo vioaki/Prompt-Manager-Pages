@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-cos-0575",
+  "title": "cos自拍",
+  "category": "template",
+  "prompt": "Generate a first-person perspective (POV) snapshot of a cosplayer in a cluttered bedroom. The cosplayer's hairstyle and anime costume must exactly match the subject in the reference image. She holds a phone in front of her face with both hands, completely covering her face. The phone screen is the focal point of the image, displaying the uploaded picture. The background is a room filled with posters on the walls and a slightly messy bed. The image should have a casual, informal snapshot quality with a slightly low-resolution and grainy texture, lit by natural indoor lighting.",
+  "description": "",
+  "tags": [
+    "banana",
+    "肖像",
+    "cosplay"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:38:01Z"
+}

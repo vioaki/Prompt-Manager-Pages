@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251207-item-0679",
+  "title": "送外卖",
+  "category": "gallery",
+  "prompt": "画这个女孩穿着美团制服送外卖，生无可恋脸，不要带头盔，偷拍视角,写实风格",
+  "description": "",
+  "tags": [
+    "banana",
+    "写实",
+    "梗图"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-07T14:20:06Z"
+}

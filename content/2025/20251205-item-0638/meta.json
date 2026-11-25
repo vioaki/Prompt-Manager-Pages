@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0638",
+  "title": "内裤展示",
+  "category": "gallery",
+  "prompt": "生成一张手机拍摄的图片。完全的真实照片画面。\r\n场景：在家里参考人物在电竞椅上坐着双腿打开放在椅子把手上，参考人物提着裙子露出内裤，内裤并没有穿上而是放在阴部遮挡住，表情得意。正面视角。",
+  "description": "内裤可换成透明内裤但是很难生成",
+  "tags": [
+    "banana",
+    "写实",
+    "肖像",
+    "NSFW"
+  ],
+  "author": {
+    "name": "神坑",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1073,
+    "height": 1600
+  },
+  "refs": [
+    {
+      "kind": "placeholder",
+      "label": "User"
+    }
+  ],
+  "createdAt": "2025-12-05T15:12:26Z"
+}

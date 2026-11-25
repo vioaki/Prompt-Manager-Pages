@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0139",
+  "title": "监控级别的时尚洞察力",
+  "category": "gallery",
+  "prompt": "Create image with 1:1 ratio A cctv footage, \nA closed up view of focus woman carrying  [brand] [product] on street, a square zoomed window on the product, sci fi analyzing overlay UI with infos like brand name, date, time, location name, in brand color monospaced font, product name, width, height, weight, etc, vhs effect, glitch effect, film grainy",
+  "description": "Nano Banana Pro 通过监控级科幻 UI 叠加和 VHS 特效，为科技产品发布或汽车品牌打造前沿视觉，实时数据与故障元素增强互动，传递创新洞察。",
+  "tags": [
+    "banana",
+    "写实",
+    "复古",
+    "产品广告"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 1200
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:49Z"
+}

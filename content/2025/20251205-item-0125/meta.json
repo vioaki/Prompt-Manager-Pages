@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0125",
+  "title": "符号冲突",
+  "category": "gallery",
+  "prompt": "A surreal yet hyper-realistic image in levitation photography style, where elements of [subject] float chaotically and randomly above an outstretched hand, interwoven with symbolic elements that directly oppose it.\n\nThe background forms dynamically to visually embody the symbolism of the subject and its opposite, through blurred or abstract details that reflect either tension or harmony between the two—like a mirror inside a dream.\n\nEach element floats at a unique angle and varying distance.\n\nBackground: Shifts according to the subject and its opposite\n\nLighting: Soft cinematic with dreamy shadows\n\nStyle: Hyper-realistic + Levitation Photography + Fantasy\n\nAspect Ratio: 1:1",
+  "description": "使用 Nano Banana Pro 创作超现实悬浮摄影，融合奇幻元素与象征对比，打造动态张力或和谐梦境，适合幻想艺术和概念摄影。",
+  "tags": [
+    "banana",
+    "写实",
+    "超现实"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1112,
+    "height": 614
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:48Z"
+}

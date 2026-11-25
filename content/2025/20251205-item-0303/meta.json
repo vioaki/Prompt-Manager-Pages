@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0303",
+  "title": "字母动物",
+  "category": "gallery",
+  "prompt": "A stylized capital letter [Letter] with a cartoon [Animal] intertwined with it, on a solid color background.",
+  "description": "借助 Nano Banana Pro 模型，轻松创作风格化的字母动物卡通图案，适合儿童教育、品牌设计和趣味周边，以鲜明色彩与简洁造型打造吸睛视觉。",
+  "tags": [
+    "banana",
+    "图标Logo",
+    "萌宠"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 898,
+    "height": 1600
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:53Z"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0257",
+  "title": "城市糖果传奇的风格",
+  "category": "gallery",
+  "prompt": "A colorful, playful 2D map of [city name], in the style of Candy Crush Saga, featuring the city’s iconic landmarks as candy-inspired buildings, cute gumdrop trees, licorice bridges, pastel roads, and glossy water elements, floating clouds, vibrant cartoon style, top-down view, kid-friendly game aesthetics, horizontal layout",
+  "description": "使用 Nano Banana Pro 模型，轻松创作色彩缤纷、充满童趣的 2D 城市地图，采用《糖果传奇》风格，适合游戏素材、卡通建筑和趣味标志设计，打造糖果主题地标，带来生动活泼的视觉效果。",
+  "tags": [
+    "banana",
+    "插画",
+    "游戏",
+    "场景"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 800
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:52Z"
+}

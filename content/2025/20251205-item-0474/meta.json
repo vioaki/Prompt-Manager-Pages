@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0474",
+  "title": "传统的中国工笔水墨画-仙女",
+  "category": "gallery",
+  "prompt": "A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular black robotic vacuum cleaner (Roomba) that flies through misty clouds. \n\nShe is eating a vanilla ice cream cone held in her right hand. In her left hand, she holds a brown Louis Vuitton monogram handbag. Below her, a small owl flies with a green frog holding a lotus leaf umbrella on its back. The background is a wash of ink clouds and distant mountains. \n\nIn the top left corner, there is calligraphy and a red rectangular artist seal that reads \"寶玉\".",
+  "description": "Nano Banana Pro与Nano Banana Pro助您轻松创作传统工笔水墨画中的仙女形象，细腻线条与柔和色调完美融合，特别适合艺术复刻、文化项目及奇幻插画，呈现宁静雅致的美学意境。",
+  "tags": [
+    "banana",
+    "手绘",
+    "国风"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 655
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:58Z"
+}

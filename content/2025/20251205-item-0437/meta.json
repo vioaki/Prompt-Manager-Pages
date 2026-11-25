@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "20251205-item-0437",
+  "title": "历史时代错误",
+  "category": "gallery",
+  "prompt": "A candid backstage polaroid photo from 1865. Abraham Lincoln is sitting in a canvas director's chair, laughing hysterically while holding a styrofoam coffee cup. A makeup artist is powdering his nose. In the background, the Lincoln Memorial construction is just a painted plywood backdrop. Flash photography, vignetting, harsh shadows, breaking the illusion.",
+  "description": "借助 Nano Banana Pro 模型，轻松发现历史时代错误，精准结合史实与创意风格，适用于教育工具、历史研究及引人入胜的视觉内容创作。",
+  "tags": [
+    "banana",
+    "复古",
+    "梗图"
+  ],
+  "author": {
+    "name": "",
+    "github": null
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1200,
+    "height": 670
+  },
+  "refs": [],
+  "createdAt": "2025-12-05T14:37:57Z"
+}
