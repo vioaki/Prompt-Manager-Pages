@@ -4,7 +4,7 @@
   "repo": "vioaki/Prompt-Manager-Pages",
   "engineRepo": "vioaki/Prompt-Manager",
   "engineRef": "pages-v1.0.0",
-  "workerApiUrl": "",
+  "workerApiUrl": "https://prompt.vioaki.workers.dev",
   "sensitiveTags": [
     "NSFW",
     "恐怖",
