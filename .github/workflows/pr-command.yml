@@ -1,0 +1,16 @@
+name: PR Slash Commands
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  command:
+    uses: vioaki/Prompt-Manager/.github/workflows/reusable-pr-command.yml@pages-v1.0.0
+    with:
+      engine_ref: pages-v1.0.0
+    permissions:
+      contents: write
+      pull-requests: write
+    secrets:
+      PR_PUSH_TOKEN: ${{ secrets.PR_PUSH_TOKEN }}
