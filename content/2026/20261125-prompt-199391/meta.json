@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "20261125-prompt-199391",
   "title": "全景图",
-  "category": "gallery",
+  "category": "template",
   "prompt": "以这张照片为基础，向外扩展生成一张连贯的360度全景图，保持原有的光线、色调和建筑/室内风格，自然补全画面两侧和背后未拍到的环境。",
   "description": "",
   "tags": [
@@ -23,8 +23,8 @@
   },
   "refs": [
     {
-      "kind": "image",
-      "file": "ref-0.webp"
+      "kind": "placeholder",
+      "label": "User"
     }
   ],
   "createdAt": "2026-11-25T17:09:29.759Z"
