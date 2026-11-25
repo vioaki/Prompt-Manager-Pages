@@ -11,9 +11,9 @@ concurrency:
 
 jobs:
   pages:
-    uses: vioaki/Prompt-Manager/.github/workflows/reusable-deploy.yml@pages-v1.0.1
+    uses: vioaki/Prompt-Manager/.github/workflows/reusable-deploy.yml@pages-v1.0.2
     with:
-      engine_ref: pages-v1.0.1
+      engine_ref: pages-v1.0.2
     permissions:
       contents: read
       pages: write

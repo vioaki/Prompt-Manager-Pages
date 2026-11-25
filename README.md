@@ -2,7 +2,7 @@
 
 Prompt Manager 静态站点的数据仓库，包含作品内容、站点配置与 GitHub Pages 部署工作流。
 
-- 站点：`https://vioaki.github.io/Prompt-Manager-Pages/`
+- 站点：[https://vioaki.github.io/Prompt-Manager-Pages/](https://vioaki.github.io/Prompt-Manager-Pages/)
 - 引擎：[vioaki/Prompt-Manager (`pages`)](https://github.com/vioaki/Prompt-Manager/tree/pages)
 
 ## 上传
