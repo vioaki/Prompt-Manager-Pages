@@ -9,9 +9,9 @@ on:
 
 jobs:
   preview:
-    uses: vioaki/Prompt-Manager/.github/workflows/reusable-pr-check.yml@pages-v1.0.0
+    uses: vioaki/Prompt-Manager/.github/workflows/reusable-pr-check.yml@pages-v1.0.1
     with:
-      engine_ref: pages-v1.0.0
+      engine_ref: pages-v1.0.1
     permissions:
       contents: read
       pull-requests: write

@@ -6,9 +6,9 @@ on:
 
 jobs:
   command:
-    uses: vioaki/Prompt-Manager/.github/workflows/reusable-pr-command.yml@pages-v1.0.0
+    uses: vioaki/Prompt-Manager/.github/workflows/reusable-pr-command.yml@pages-v1.0.1
     with:
-      engine_ref: pages-v1.0.0
+      engine_ref: pages-v1.0.1
     permissions:
       contents: write
       pull-requests: write

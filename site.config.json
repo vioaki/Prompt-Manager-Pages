@@ -3,7 +3,7 @@
   "subtitle": "Community AI Art Prompt & Workflow Library",
   "repo": "vioaki/Prompt-Manager-Pages",
   "engineRepo": "vioaki/Prompt-Manager",
-  "engineRef": "pages-v1.0.0",
+  "engineRef": "pages-v1.0.1",
   "workerApiUrl": "https://prompt.vioaki.workers.dev",
   "sensitiveTags": [
     "NSFW",
