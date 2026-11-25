@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20261125-prompt-199391",
+  "title": "全景图",
+  "category": "gallery",
+  "prompt": "以这张照片为基础，向外扩展生成一张连贯的360度全景图，保持原有的光线、色调和建筑/室内风格，自然补全画面两侧和背后未拍到的环境。",
+  "description": "",
+  "tags": [
+    "gpt-image",
+    "场景",
+    "实用"
+  ],
+  "author": {
+    "name": "vioaki",
+    "github": "vioaki"
+  },
+  "media": {
+    "main": "main.webp",
+    "thumb": "thumb.webp",
+    "mimeType": "image/webp",
+    "width": 1600,
+    "height": 533
+  },
+  "refs": [
+    {
+      "kind": "image",
+      "file": "ref-0.webp"
+    }
+  ],
+  "createdAt": "2026-11-25T17:09:29.759Z"
+}
